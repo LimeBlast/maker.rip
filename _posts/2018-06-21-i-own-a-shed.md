@@ -6,7 +6,7 @@ image:
   path: /assets/img/2018/06/OxzhYtL-00Y-1-.jpg
   alt: "A green bicycle leaning against an old weathered wooden shed"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- personal
 ---
 
 When I first started this blog I was living in a small two-bedroom flat in the centre of Birmingham. It was great for transport, shopping, and restaurants, but terrible for project work.
@@ -27,7 +27,7 @@ My original battery bit the bullet a long time ago (I think I run it down too mu
 
 As explained in the book, the multimeter is in-line between the charge controller and battery, and shows how much power is being used (or stored) at that time.
 
-I've proven that it works by running a USB lamp off the provided socket (and allowed a friend to charge his phone via it), but the initial plan is to power [these 12V LEDs](https://amzn.to/2tg909M) from it, to provide the shed with light (see below), with a longer term plan of revisiting the other chapters in the zombies book, and implementing them in a more permanent fashion (that's right, my shed is going to have a zombie detector).
+I've proven that it works by running a USB lamp off the provided socket (and allowed a friend to charge his phone via it), but the initial plan is to power [these 12V LEDs](https://www.amazon.co.uk/dp/B01B99DITA) from it, to provide the shed with light (see below), with a longer term plan of revisiting the other chapters in the zombies book, and implementing them in a more permanent fashion (that's right, my shed is going to have a zombie detector).
 
 What does this mean going forward? Well, a combination of:
 

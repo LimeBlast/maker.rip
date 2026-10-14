@@ -15,13 +15,13 @@ So I'm pretty much just going to dive right in... ([If you want some background,
 
 Yesterday I spent £126.58 at Amazon purchasing the components I need for the first project in the book:
 
-- [20w Solar Panel Battery Charging Kit with Charger Controller](https://amzn.to/24ikEtF)
-- [12v 7.2Ah Universal Sealed Rechargeable Lead Acid Battery](https://amzn.to/24ikTEO)
-- [10 Meters of White 1.5mm 15 Amp 3 Core Flexible Cable](https://amzn.to/1TWXK9D)
-- [15 Amp Terminal Strip Connector](https://amzn.to/1TWY8F3)
-- [Assorted Electrical Clips](https://amzn.to/24ikUsm)
-- [PVC Electrical Insulating Tape](https://amzn.to/1TWYFXv)
-- [Proster MS8233D Auto Ranging Digital Multimeter](https://amzn.to/1TWYWty)
+- [20w Solar Panel Battery Charging Kit with Charger Controller](https://www.amazon.co.uk/dp/B016OOM2WY)
+- [12v 7.2Ah Universal Sealed Rechargeable Lead Acid Battery](https://www.amazon.co.uk/dp/B0013A7XOC)
+- [10 Meters of White 1.5mm 15 Amp 3 Core Flexible Cable](https://www.amazon.co.uk/dp/B00BEZIWNC)
+- [15 Amp Terminal Strip Connector](https://www.amazon.co.uk/dp/B00O7P08VK)
+- [Assorted Electrical Clips](https://www.amazon.co.uk/dp/B000QF97P8)
+- [PVC Electrical Insulating Tape](https://www.amazon.co.uk/dp/B00E8OME1M)
+- [Proster MS8233D Auto Ranging Digital Multimeter](https://www.amazon.co.uk/dp/B015Z451ZY)
 
 I have to admit I feel that I've somewhat cheated myself by buying them all from Amazon. The original plan was to salvage as much as possible, mostly by purchasing items via eBay and/or visiting junkyards - but eBay is full of commercial sellers, with very few of the items I needed being available second hand, and I've not got very easy access to a junkyard.
 
@@ -33,8 +33,8 @@ Finally, the multimeter is to replace the cheap one I already have, which is goi
 
 In addition to the components above, I also got couple of books:
 
-- [The Maker's Guide to the Zombie Apocalypse](https://amzn.to/1TWXOpT)
-- [Getting Started in Electronics](https://amzn.to/24ikDFP)
+- [The Maker's Guide to the Zombie Apocalypse](https://www.amazon.co.uk/dp/1593276672)
+- [Getting Started in Electronics](https://www.amazon.co.uk/dp/0945053282)
 
 Up until this point I'd been working from the eBook edition of the _Maker's Guide_ (which I obtained from the Hacking Humble Book Bundle), but seeing as I was putting some physical cash into this project, I wanted a physical copy of the book.
 

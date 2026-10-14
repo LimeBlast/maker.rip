@@ -28,7 +28,7 @@ The front panel was designed in about an hour (based on some initial measurement
 
 {% include click-to-load.html service="Tinkercad" src="https://www.tinkercad.com/embed/2Vc65P0oUIG" href="https://www.tinkercad.com/things/2Vc65P0oUIG" poster="/assets/img/2018/11/tinkercad-wildcat-panel.jpg" title="3D model of the Wildcat front panel" alt="3D model of the Wildcat front panel: an orange disc with a rectangular window for the LED matrix, and the words Wildcat and since incident" %}
 
-This second print fit perfectly, so was primed using [Rust-Oleum Surface Primer](https://amzn.to/2QUVWAt), expertly painted by Lucy using acrylics, then glued into the frame using [Gorilla glue](https://www.amazon.co.uk/s?k=gorilla+glue).
+This second print fit perfectly, so was primed using [Rust-Oleum Surface Primer](https://www.amazon.co.uk/dp/B001W03PSQ), expertly painted by Lucy using acrylics, then glued into the frame using [Gorilla glue](https://www.amazon.co.uk/s?k=gorilla+glue).
 
 The next problem was housing the electronics. Thankfully Adafruit provide a really cool system for printing [modular Feather cases](https://learn.adafruit.com/3d-printed-case-for-adafruit-feather/overview), of which I used a [tall variation](https://www.thingiverse.com/thing:2438577), allowing the stacking headers on my Huzzah to fit.
 
@@ -42,7 +42,7 @@ I wanted the button to be hidden but easily accessible, so using two strips of c
 
 ![The push button stuck behind the left ear and wired with copper tape](/assets/img/2018/11/IMG_20181119_154141--1-.jpg)
 
-The final bit of assembly was sticking the lid from the case module to the back of the front panel. Due to the size of the LED matrix there was a small gap between them when dry fitted, but half a [Command Strip](https://amzn.to/2A4xfKB) either side not only filled this gap nicely, but will allow me to easily separate the two if I need to.
+The final bit of assembly was sticking the lid from the case module to the back of the front panel. Due to the size of the LED matrix there was a small gap between them when dry fitted, but half a [Command Strip](https://www.amazon.co.uk/dp/B004054NSQ) either side not only filled this gap nicely, but will allow me to easily separate the two if I need to.
 
 ![The back of the front panel, with the electronics case stuck on](/assets/img/2018/11/IMG_20181119_154020--1-.jpg)
 

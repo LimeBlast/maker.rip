@@ -37,7 +37,7 @@ I don't think the laser cutter was configured correctly, as it took several pass
 
 After throwing a frame clamp set and some wood glue into the mix, I soon assembled five of the six sides of the box. I left the back panel off as this was my access point for inserting the front panel and LEDs.
 
-Talking of LEDs, they're next. Although I had played with Neopixels before, this didn't require anything nearly so complex, so I went for some regular [12v RGB LED strips](https://amzn.to/2kxw27V). I mounted these in a grid on the back panel (a process which required a lot of soldering and hot glue).
+Talking of LEDs, they're next. Although I had played with Neopixels before, this didn't require anything nearly so complex, so I went for some regular [12v RGB LED strips](https://www.amazon.co.uk/dp/B00CD2GYJE). I mounted these in a grid on the back panel (a process which required a lot of soldering and hot glue).
 
 The last bit was the acrylic front panel, which turned out to be a massive pain in the arse.
 

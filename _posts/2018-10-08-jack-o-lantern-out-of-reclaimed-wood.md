@@ -23,7 +23,7 @@ Now, if you was to ask Lucy what the percentage of projects born out of _I can m
 
 The wood used was reclaimed from a couple of pallets I obtained a few weeks ago via a posting on gumtree. I'd never responded to such an ad before, so didn't really know what I was doing - so there I was, with Lucy for moral support, at a building site in Malvern trying to figure out the best way to fit the pallets into my car.
 
-The hardest part about using pallets for project is they're a bugger to break apart. Even armed with a [pallet buster](https://amzn.to/2yiF3HM) I found it hard work trying to pry them apart without breaking the planks.
+The hardest part about using pallets for project is they're a bugger to break apart. Even armed with a [pallet buster](https://www.amazon.co.uk/dp/B0742HVH2Y) I found it hard work trying to pry them apart without breaking the planks.
 
 Anyway, the build took about an hour and a half, following the Just Make It design closely. Much like in the video, I stuck to using a jigsaw for all the cuts. This resulted in wonky edges and imperfect corners, but as suggested in the video, this just adds to the rustic charm - and I'm honestly really happy with it. I think I even prefer it to the one I saw in the shop window.
 

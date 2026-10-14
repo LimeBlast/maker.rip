@@ -11,7 +11,7 @@ categories:
 
 When we last left our handsome hero he was [securing the perimeter](/2016/10/01/securing-the-perimeter/) using a PIR sensor and an Arduino. The rig was designed to raise an alarm via a piezo buzzer when the sensor detected movement. With the ability to easily place PIR sensors along the base's perimeter, it was good for telling you that someone (or something) was at the door, but not who (or what).
 
-Unhappy with his lack of visibility outside the base (and because it was the next project in the book), he armed himself with the upgraded arsenal of a [Raspberry Pi](https://amzn.to/2dL9xqJ), [Raspberry Squid](https://amzn.to/2dw9EaG), and [USB webcam](https://amzn.to/2dSFYYn), and started working on Project 7: Monitor Zombies with a USB Webcam.
+Unhappy with his lack of visibility outside the base (and because it was the next project in the book), he armed himself with the upgraded arsenal of a [Raspberry Pi](https://www.amazon.co.uk/dp/B01CCOXV34), [Raspberry Squid](https://www.amazon.co.uk/dp/B016YKWC32), and [USB webcam](https://www.amazon.co.uk/dp/B0087UIJKI), and started working on Project 7: Monitor Zombies with a USB Webcam.
 
 Bored with talking about himself in the third person, I got the chance to play with the latest version of Raspbian with this project, the one with the [new Pixel theme](https://www.raspberrypi.org/blog/introducing-pixel/). I'm not a fan of how it looks, but I was pleasantly surprised to see the default browser has changed to Chromium, and there seem to be a couple other minor improvements over previous iterations.
 

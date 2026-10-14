@@ -41,7 +41,7 @@ Unlike with the first kit, I really couldn't be bothered to type out all the cod
 
 It was fun to play for a couple of minutes, but as I'm quick to bore I soon put it to one side. I have no intention of playing it again, but I've also not disassembled it yet, nor have I disassembled the first one. Maybe my interest is a bit more piqued than I figured.
 
-In any case, the last page of the instruction manual always features a sneak peek of what's coming in the next box, along with the challenge of guessing what it does. This time, it shows a photo of a breadboard with a [HC-SR04 Ultrasonic Range Sensor](https://amzn.to/2cSGKUC). I've not used one of these before, but I've often seen them used as *eyes* on robots, so I'm interested to see what the project is going to do with it.
+In any case, the last page of the instruction manual always features a sneak peek of what's coming in the next box, along with the challenge of guessing what it does. This time, it shows a photo of a breadboard with a [HC-SR04 Ultrasonic Range Sensor](https://www.amazon.co.uk/dp/B00KKKT7YK). I've not used one of these before, but I've often seen them used as *eyes* on robots, so I'm interested to see what the project is going to do with it.
 
 With all this in mind, I'm going to wait until I've built the third project before I decide if I'm going to continue with my subscription or not. I'll update this post accordingly.
 
@@ -55,6 +55,6 @@ In addition to the range sensor, the kit contains 6 LEDs, a piezo buzzer, and so
 
 I assembled the kit, waved my hand in front of it, watched the LEDs turn on and off. Filmed the above video clip, then put it away. Maybe it's just me (as, again, I don't think I'm the target audience), but this left me unfulfilled.
 
-And at around £22 per box (£66 for the three I've had so far), I'm having trouble finding this to be good value for money. At the time of going to press, for just a penny more than £62, you can get the [official Arduino Starter Kit](https://amzn.to/2e95SqH). This contains a genuine Arduino Uno R3 (not a Chinese clone that made my Mac crash), a whole ton of fun and interesting components, and a very nicely produced 170-page guidebook with the instructions to build 15 different projects.
+And at around £22 per box (£66 for the three I've had so far), I'm having trouble finding this to be good value for money. At the time of going to press, for just a penny more than £62, you can get the [official Arduino Starter Kit](https://www.amazon.co.uk/dp/B009UKZV0A). This contains a genuine Arduino Uno R3 (not a Chinese clone that made my Mac crash), a whole ton of fun and interesting components, and a very nicely produced 170-page guidebook with the instructions to build 15 different projects.
 
 I wish Creation Crate all the luck in the world, but it's not for me, and it's not something which I can recommend.

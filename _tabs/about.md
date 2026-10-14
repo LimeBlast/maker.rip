@@ -12,8 +12,6 @@ This means in addition to [my Zombie Apocalypse posts](/categories/the-makers-gu
 
 * * *
 
-In the spirit of full disclosure, older posts link to Amazon using an affiliate tag from an account I've since closed, so I don't earn anything if you buy through them. I've kept the links because they still point to the products I used.
-
 This isn’t a review site, and as a non-professional I’ll often not know exactly what I’m doing, but all the thoughts and opinions posted on this blog will be honest and off the cuff, so please keep this in mind should you choose to purchase anything I link to.
 
 * * *

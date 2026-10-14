@@ -22,7 +22,7 @@ To help combat this I devised the idea of an incident board, such as you'll see 
 
 ![Scene from Futurama with a Days Without Accident sign](/assets/img/2018/11/np74ijwbwxo11.jpg)
 
-The plan was to use an [Adafruit Feather Huzzah](https://amzn.to/2PSGurk) and a [16x8 LED matrix](https://amzn.to/2Dxtlht), connected with a physical button, and a super cute cat photo frame we found in Homesense, to build a ticker which used data persisted on [Adafruit IO](https://io.adafruit.com/) to calculate and display how long it's been since the button was last pressed.
+The plan was to use an [Adafruit Feather Huzzah](https://www.amazon.co.uk/dp/B01BMRTULO) and a [16x8 LED matrix](https://www.amazon.co.uk/dp/B01G4EUI8O), connected with a physical button, and a super cute cat photo frame we found in Homesense, to build a ticker which used data persisted on [Adafruit IO](https://io.adafruit.com/) to calculate and display how long it's been since the button was last pressed.
 
 Arguably, rather than relying on the cloud for something trivial like this, I could have done the entire project locally, using any number of development boards that support non-volatile memory with a real time clock - but I don't have any of those things.
 
@@ -30,7 +30,7 @@ OK, so that's a bit of a lie.
 
 I could easily have based the project on a Raspberry Pi Zero, which would have solved the persistence issue, with the addition of an [RTC PiZero addon](https://thepihut.com/products/rtc-pizero) solving the clock problem, but that would mean writing the project using Python, and figuring out how to make it start properly on boot - and honestly, do we really need an entire Debian-based operating system for something as simple as recording a time and powering an LED display? It just feels like overkill.
 
-Alternatively, the use of the [Feather M0 Adalogger](https://amzn.to/2JRuMHN) I have, combined with a [DS3231 Precision RTC FeatherWing](https://amzn.to/2DuF7Jq), would also solve these problems and let me use the Arduino platform - but that would prevent me from doing fancy things like Alexa integration...
+Alternatively, the use of the [Feather M0 Adalogger](https://www.amazon.co.uk/dp/B01BMRDBXW) I have, combined with a [DS3231 Precision RTC FeatherWing](https://www.amazon.co.uk/dp/B01CAOG7D2), would also solve these problems and let me use the Arduino platform - but that would prevent me from doing fancy things like Alexa integration...
 
 Not that I have any plans to do that, but I can if I want.
 

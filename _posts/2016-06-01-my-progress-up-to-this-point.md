@@ -26,7 +26,7 @@ Fast forward to early 2016, and although (at the time) I had [failed to obtain a
 
 Due to its popularity as a teaching aid the best-supported language for the Pi is Python, but because I'm stubborn I decided that I wanted to stick with what I knew, so instead I focused on using Ruby. I've had some limited success with Ruby on the Pi, but the more I use it, the more I realise that I can't avoid Python, plus I see no harm in learning another language, I mean, at least it's not C - talking of C...
 
-You can't talk about the Raspberry Pi without someone mentioning the Arduino. I had learned that an Arduino was a microcontroller (whereas the Pi was a computer), but didn't actually know what this meant, so last month I treated myself an [Arduino Starter Kit](https://amzn.to/20TaOh1), and over the past month have been [completing all the tutorials within it](https://web.archive.org/web/20190920101734/https://talk.birmingham.io/t/my-adventures-with-the-arduino-starter-kit/2561).
+You can't talk about the Raspberry Pi without someone mentioning the Arduino. I had learned that an Arduino was a microcontroller (whereas the Pi was a computer), but didn't actually know what this meant, so last month I treated myself an [Arduino Starter Kit](https://www.amazon.co.uk/dp/B009UKZV0A), and over the past month have been [completing all the tutorials within it](https://web.archive.org/web/20190920101734/https://talk.birmingham.io/t/my-adventures-with-the-arduino-starter-kit/2561).
 
 As alluded to above, the Arduino uses a modified version of C, and C is a horrible, horrible language. It's very powerful (I assume), but for for someone that was used to friendly languages like Ruby, it's a right beast to conquer.
 
