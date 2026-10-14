@@ -233,3 +233,15 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# jekyll-compose: front matter for `jekyll draft` / `jekyll post` (see README)
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description: ""
+      categories: []
+      tags: []
+    posts:
+      description: ""
+      categories: []
+      tags: []

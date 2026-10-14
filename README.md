@@ -43,7 +43,18 @@ _Optional caption, in italics on the line straight after the image_
 - `pin: true` keeps a post at the top of the homepage.
 - A post dated in the future stays hidden until a rebuild after that date.
 
-**Drafts:** put unfinished posts in `_drafts/slug.md` (no date). They never deploy; preview them with `bundle exec jekyll serve --drafts`, then move to `_posts/` with a date to publish.
+**Drafts:** unfinished posts live in `_drafts/slug.md` (no date) and never deploy. [jekyll-compose](https://github.com/jekyll/jekyll-compose) handles the filenames and dates:
+
+```bash
+bundle exec jekyll draft "Post title"              # new draft with the front matter above, minus image
+bundle exec jekyll serve --drafts --livereload     # preview drafts alongside posts
+bundle exec jekyll publish _drafts/post-title.md   # move to _posts/ dated today, then commit and push
+bundle exec jekyll unpublish _posts/YYYY-MM-DD-post-title.md   # back to drafts
+```
+
+Add the `image:` block only once you have a photo; left blank, it renders a broken image and fails the deploy check.
+
+In VS Code the same steps are tasks (Terminal → Run Task): **Serve with drafts**, **Publish open draft** (publishes the file in the active editor) and **Check** (the deploy's build and link check, run locally).
 
 **Without a local setup:** press `.` on the GitHub repo page to edit in the browser. Committing there deploys too, without a preview.
 
