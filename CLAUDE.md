@@ -4,7 +4,7 @@ Personal maker blog: Jekyll 4 with the Chirpy theme gem, deployed to GitHub Page
 
 ## Theme stays stock
 
-Change the site through `_config.yml`, `_tabs/`, `_data/`, `assets/img/favicons/` and post content. Copying a theme file into the repo freezes it against Dependabot's theme updates, so do that only when the owner explicitly asks, and say so when you do. Chirpy's own front matter and includes (`image.alt`, `pin`, `{% include embed/youtube.html %}`, `embed/video.html`) cover most needs; a plain `<iframe>` gets `class="embed-video"` for full-width 16:9. The one theme-path file here is `_includes/metadata-hook.html`, Chirpy's empty placeholder for extra `<head>` tags; it loads self-hosted Umami (renamed `omen.js`, so Chirpy's `analytics.umami` setting stays empty).
+Change the site through `_config.yml`, `_tabs/`, `_data/`, `assets/img/favicons/` and post content. Copying a theme file into the repo freezes it against Dependabot's theme updates, so do that only when the owner explicitly asks, and say so when you do. Chirpy's own front matter and includes (`image.alt`, `pin`, `embed/video.html` for self-hosted video) cover most needs; a plain `<iframe>` gets `class="embed-video"` for full-width 16:9. Fonts and JS are self-hosted from the `assets/lib` git submodule (`assets.self_host`), so pages load nothing from Google or jsDelivr. The one theme-path file here is `_includes/metadata-hook.html`, Chirpy's empty placeholder for extra `<head>` tags; it loads self-hosted Umami (renamed `omen.js`, so Chirpy's `analytics.umami` setting stays empty).
 
 ## Content rules (the deploy enforces the first two)
 
@@ -13,6 +13,10 @@ Change the site through `_config.yml`, `_tabs/`, `_data/`, `assets/img/favicons/
 - `description:` under 160 characters, in the owner's first-person voice.
 - Images live in `assets/img/YYYY/MM/`, filenames without brackets (Chirpy's JS writes unquoted CSS `url()`). Resize photos and strip all metadata before committing; phone photos carry GPS.
 - Third-party media is credited on the About page (`_tabs/about.md`), with any changes noted.
+
+## Privacy
+
+`_tabs/privacy.md` lists every third party a page contacts; keep it true when content changes. YouTube videos appear as a local thumbnail linking out (`[![Video thumbnail: Title](/assets/img/YYYY/MM/youtube-ID.jpg)](https://www.youtube.com/watch?v=ID)` plus an italic `_▶ Watch “Title” on YouTube_` caption), since an iframe sets YouTube cookies on page load. Tweets are plain Markdown quotes linking to the original. The Tinkercad iframe in the Wildcat post is the one remaining third-party embed.
 
 ## URLs
 

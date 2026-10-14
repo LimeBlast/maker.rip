@@ -4,9 +4,12 @@ Jekyll blog using the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 Posts imported from [2019-06-02.maker.limeblast.co.uk](https://github.com/LimeBlast/2019-06-02.maker.limeblast.co.uk).
 
 ```bash
+git clone --recurse-submodules git@github.com:LimeBlast/maker.rip.git   # or, in an existing clone: git submodule update --init
 bundle install
 bundle exec jekyll serve --livereload
 ```
+
+Fonts and scripts are self-hosted from the `assets/lib` submodule ([chirpy-static-assets](https://github.com/cotes2020/chirpy-static-assets)); Dependabot keeps it updated.
 
 Pushing to `main` builds, link-checks and deploys to https://maker.rip via GitHub Actions (about 30 seconds).
 
@@ -34,12 +37,14 @@ Body in Markdown.
 ![What the photo shows](/assets/img/2026/10/photo.jpg)
 _Optional caption, in italics on the line straight after the image_
 
-{% include embed/youtube.html id='VIDEO_ID' %}
+[![Video thumbnail: Video title](/assets/img/2026/10/youtube-VIDEO_ID.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+_▶ Watch “Video title” on YouTube_
 ```
 
 - **Images** go in `assets/img/YYYY/MM/`. Header images work best around 1200×630. Shrink phone photos and strip their metadata (it includes GPS) before committing, and avoid brackets in filenames.
 - **Every image needs alt text** and **every link must be `https://`**: the deploy's link check fails otherwise. Details show in the repo's Actions tab.
 - **Categories** in use: `personal`, `weekend-woodworker`, `wildcat`, `spooktober`, `other-builds`, `review`, `the-building-block`, `the-makers-guide-to-the-zombie-apocalypse`. New ones get a page automatically.
+- **YouTube:** link a local copy of the thumbnail (`https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg`, saved into `assets/img/`) as above rather than embedding the player, which sets YouTube cookies on page load and would need a consent banner.
 - `pin: true` keeps a post at the top of the homepage.
 - A post dated in the future stays hidden until a rebuild after that date.
 

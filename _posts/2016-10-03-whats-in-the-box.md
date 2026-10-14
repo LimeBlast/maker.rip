@@ -49,7 +49,8 @@ With all this in mind, I'm going to wait until I've built the third project befo
 
 I received the third kit earlier in the week and had a chance to assemble it today. As mentioned above, I was excited to play with an ultrasonic sensor, but the final build is more disappointing that anything.
 
-{% include embed/youtube.html id='ASHR9tgtyBQ' %}
+[![Video thumbnail: Ultrasonic Range Sensor](/assets/img/2016/10/youtube-ASHR9tgtyBQ.jpg)](https://www.youtube.com/watch?v=ASHR9tgtyBQ)
+_▶ Watch “Ultrasonic Range Sensor” on YouTube_
 
 In addition to the range sensor, the kit contains 6 LEDs, a piezo buzzer, and some resistors. Unlike the previous kits, this one told you where to put the components, but not the connecting wires - instead, you're challenged to figure this out using the fully commented code sample (which I'm happy to report finally featured code indenting). This should be simple enough for anyone that has gotten this far in the process, but a cheat sheet diagram is available behind their passworded portal.
 

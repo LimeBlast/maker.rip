@@ -39,4 +39,5 @@ Installing the Sonoff is easy, as you simply put it in serial with the live and 
 
 A momentary button on the device itself can be used to toggle the relay on and off manually, or when held down for five seconds enters a setup mode allowing me to feed it with everything it needs to connect with the wifi, and further, with the app (and thus Alexa).
 
-{% include embed/youtube.html id='DrybWl2v7Zg' %}
+[![Video thumbnail: Let there be light](/assets/img/2017/09/youtube-DrybWl2v7Zg.jpg)](https://www.youtube.com/watch?v=DrybWl2v7Zg)
+_▶ Watch “Let there be light” on YouTube_
