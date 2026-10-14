@@ -28,7 +28,6 @@ There's no finish on it right now, because I really like the burnt look and I'm 
 
 The last thing I did was use the Circuit Playground Express I got via my Hackspace magazine subscription, and [coded up (aka copy/pasted) a simulated candle](https://learn.adafruit.com/circuit-playground-jack-o-lantern/arduino-code#). I love this effect, and think it looks much better than the crappy £1 led tea lights I got from Tiger.
 
-<a class="embedly-card" data-card-controls="0" href="https://imgur.com/a/WAYOXkx#vh1fmIg">Wooden Jack-o'-lantern</a>
-<script async src="https://cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+{% include embed/video.html src='/assets/img/2018/10/jack-o-lantern.mp4' poster='/assets/img/2018/10/jack-o-lantern-poster.jpg' title="Wooden Jack-o'-lantern" autoplay=true loop=true muted=true %}
 
 Anyway, my next post will be about the 3rd project in the [Weekend Woodworker course](/categories/weekend-woodworker/). I built it last weekend, but need to do a ton more sanding on it before I apply a finish. Expect that post before the start of next week.
