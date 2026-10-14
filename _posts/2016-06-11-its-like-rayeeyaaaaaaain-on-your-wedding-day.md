@@ -8,7 +8,7 @@ categories:
 
 <p class="intro">Maybe not rain, but there's certainly no sun today, and that makes testing my solar panel challenging.</p>
 
-<img src="/assets/img/2016/06/ps-Screenshot_20160611-115413--2-.png" style="float: right;">That said, I'm now (fairly) confident that the battery is receiving a charge, as the multimeter is showing positive values. During the brief moments of sunlight breaking through the clouds, the value has been as high as `1.4`, and I've not seen it drop below `0.1`. I'm guessing on a really sunny day these values will be far higher.
+<img src="/assets/img/2016/06/ps-Screenshot_20160611-115413--2-.png" alt="Weather app showing cloudy, 18°C in Birmingham" style="float: right;">That said, I'm now (fairly) confident that the battery is receiving a charge, as the multimeter is showing positive values. During the brief moments of sunlight breaking through the clouds, the value has been as high as `1.4`, and I've not seen it drop below `0.1`. I'm guessing on a really sunny day these values will be far higher.
 
 The charge controller has a _PV_ LED on it, which I've now come to realise shows if power is being received from the panel. It also has battery LEDs which show if it's _overlow_, _normal_ or _full_. It was showing overlow during the phone charge experiment yesterday and has shown normal the rest of the time. I'm hoping that I'll see the full LED light up at some point, but I'm going to need some better weather else it's going to take a very long time to happen.
 

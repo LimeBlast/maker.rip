@@ -33,4 +33,4 @@ So what do I do now? Frankly, I'm a bit fed up with the idea of charging batteri
 But fear not, for I won't be spending the next month twiddling my thumbs  - instead, I'll see what I can make of the e-textile and circuit sticker goodies I have.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My latest order of goodies from <a href="https://twitter.com/pimoroni">@pimoroni</a> had arrived. A bunch of e-textile and circuit sticker things to play with. <a href="https://t.co/Wb2ruZ7ec1">pic.twitter.com/Wb2ruZ7ec1</a></p>&mdash; Daniel Hollands (@LimeBlast) <a href="https://twitter.com/LimeBlast/status/761135549730156544">August 4, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
