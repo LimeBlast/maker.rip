@@ -5,3 +5,6 @@ _site
 vendor
 .DS_Store
 _site-check
+
+# Wayback Machine recovery working copy
+_wayback/

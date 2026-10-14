@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#8a8f98"/>
+  <g fill="none" stroke="#e8eaed" stroke-width="14" stroke-linejoin="round" transform="translate(600 330)">
+    <rect x="-120" y="-80" width="240" height="170" rx="18"/>
+    <circle r="48" cy="5"/>
+    <path d="M-60 -80 l20 -32 h80 l20 32"/>
+    <path d="M-150 -130 L150 130"/>
+  </g>
+  <text x="600" y="560" fill="#ffffff" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="56" font-weight="600" text-anchor="middle">Photo missing</text>
+  <text x="600" y="625" fill="#e8eaed" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="32" text-anchor="middle">Lost when the old site went down. I'm hoping to find it again.</text>
+</svg>

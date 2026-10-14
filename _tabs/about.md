@@ -21,3 +21,5 @@ This isn’t a review site, and as a non-professional I’ll often not know exac
 Got something to tell me, or a question to ask? [Email me](mailto:daniel@limeblast.co.uk), or find me via [My Name is Daniel](https://danielhollands.co.uk/).
 
 The zombie hand icon is [Raise zombie](https://game-icons.net/1x1/skoll/raise-zombie.html) by Skoll from [game-icons.net](https://game-icons.net/), recoloured and cropped, used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+The header of [Getting into the holiday spirits](/2019/12/24/getting-into-the-holiday-spirits/) is a [Christmas photo from Pixabay](https://pixabay.com/photos/christmas-1911637/), cropped, used under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
