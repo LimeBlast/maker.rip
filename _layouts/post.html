@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p class="meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+      {% for c in page.categories %}· <a href="/category/{{ c | slugify }}/">{{ c | replace: "-", " " }}</a> {% endfor %}
+    </p>
+    {% if page.image %}<img class="hero" src="{{ page.image | relative_url }}" alt="">{% endif %}
+  </header>
+  {{ content }}
+  {% if page.tags.size > 0 %}
+  <footer class="tags">
+    {% for t in page.tags %}<a href="/tag/{{ t | slugify }}/">#{{ t }}</a> {% endfor %}
+  </footer>
+  {% endif %}
+</article>
+<nav class="pager">
+  {% if page.previous %}<a rel="prev" href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>{% endif %}
+  {% if page.next %}<a rel="next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>{% endif %}
+</nav>

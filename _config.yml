@@ -1,0 +1,25 @@
+title: What I'm Doing to Prepare for the Zombie Apocalypse
+description: The musings of a developer learning to become a maker.
+url: https://maker.rip
+lang: en-GB
+author: Daniel Hollands
+permalink: /:year/:month/:day/:title/
+
+social:
+  github: limeblast
+  email: daniel@limeblast.co.uk
+
+exclude: [README.md, Gemfile, Gemfile.lock, logs]
+
+defaults:
+  - scope: { type: posts }
+    values: { layout: post }
+  - scope: { type: pages }
+    values: { layout: default }
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layout: archive
+  permalinks:
+    category: /category/:name/
+    tag: /tag/:name/
