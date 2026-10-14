@@ -54,7 +54,7 @@ bundle exec jekyll unpublish _posts/YYYY-MM-DD-post-title.md   # back to drafts
 
 Add the `image:` block only once you have a photo; left blank, it renders a broken image and fails the deploy check.
 
-In VS Code the same steps are tasks (Terminal → Run Task): **Serve with drafts**, **Publish open draft** (publishes the file in the active editor) and **Check** (the deploy's build and link check, run locally).
+In VS Code the same steps are tasks (Terminal → Run Task): **New draft** and **New post** (prompt for a title), **Serve with drafts**, **Publish open draft** and **Unpublish open post** (act on the file in the active editor), and **Check** (the deploy's build and link check, run locally). Titles become the filename and URL, with apostrophes turned into hyphens (`Daniel's` → `daniel-s`); rename the file before publishing if that matters.
 
 **Without a local setup:** press `.` on the GitHub repo page to edit in the browser. Committing there deploys too, without a preview.
 

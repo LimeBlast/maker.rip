@@ -23,10 +23,31 @@
       "group": "build"
     },
     {
+      "label": "New draft",
+      "detail": "Creates _drafts/<title>.md with the site's front matter",
+      "type": "shell",
+      "command": "bundle exec jekyll draft \"${input:postTitle}\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "New post",
+      "detail": "Creates a post in _posts/ dated today, skipping drafts",
+      "type": "shell",
+      "command": "bundle exec jekyll post \"${input:postTitle}\"",
+      "problemMatcher": []
+    },
+    {
       "label": "Publish open draft",
       "detail": "Moves the draft open in the editor into _posts/ with today's date",
       "type": "shell",
       "command": "bundle exec jekyll publish \"${relativeFile}\"",
+      "problemMatcher": []
+    },
+    {
+      "label": "Unpublish open post",
+      "detail": "Moves the post open in the editor back to _drafts/",
+      "type": "shell",
+      "command": "bundle exec jekyll unpublish \"${relativeFile}\"",
       "problemMatcher": []
     },
     {
@@ -43,6 +64,13 @@
       },
       "problemMatcher": [],
       "group": "test"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "postTitle",
+      "type": "promptString",
+      "description": "Post title"
     }
   ]
 }
