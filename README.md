@@ -62,5 +62,6 @@ In VS Code the same steps are tasks (Terminal → Run Task): **New draft** and *
 
 - Sidebar pages (About, Archives, …): `_tabs/`. Keep each file's front matter; it sets the icon and order.
 - Site settings: `_config.yml` (restart `jekyll serve` after changing it). Sidebar contact icons: `_data/contact.yml`.
+- Analytics: self-hosted Umami at https://pythia.limeblast.co.uk, loaded by `_includes/metadata-hook.html` on production builds only.
 - Favicons: `assets/img/favicons/`. The zombie hand is [Raise zombie](https://game-icons.net/1x1/skoll/raise-zombie.html) by Skoll, CC BY 3.0, credited on the About page.
 - The theme is used stock, so updates stay drop-in: Dependabot opens a weekly PR for gem and Actions updates. To change a theme file anyway, copy it from `bundle info --path jekyll-theme-chirpy` into the same path here, knowing it stops receiving theme updates.

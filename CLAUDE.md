@@ -4,7 +4,7 @@ Personal maker blog: Jekyll 4 with the Chirpy theme gem, deployed to GitHub Page
 
 ## Theme stays stock
 
-Change the site through `_config.yml`, `_tabs/`, `_data/`, `assets/img/favicons/` and post content. Copying a theme file into the repo freezes it against Dependabot's theme updates, so do that only when the owner explicitly asks, and say so when you do. Chirpy's own front matter and includes (`image.alt`, `pin`, `{% include embed/youtube.html %}`, `embed/video.html`) cover most needs; a plain `<iframe>` gets `class="embed-video"` for full-width 16:9.
+Change the site through `_config.yml`, `_tabs/`, `_data/`, `assets/img/favicons/` and post content. Copying a theme file into the repo freezes it against Dependabot's theme updates, so do that only when the owner explicitly asks, and say so when you do. Chirpy's own front matter and includes (`image.alt`, `pin`, `{% include embed/youtube.html %}`, `embed/video.html`) cover most needs; a plain `<iframe>` gets `class="embed-video"` for full-width 16:9. The one theme-path file here is `_includes/metadata-hook.html`, Chirpy's empty placeholder for extra `<head>` tags; it loads self-hosted Umami (renamed `omen.js`, so Chirpy's `analytics.umami` setting stays empty).
 
 ## Content rules (the deploy enforces the first two)
 
