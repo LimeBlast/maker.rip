@@ -26,7 +26,7 @@ You can stop this tracking by blocking the script `pythia.limeblast.co.uk/omen.j
 
 The site is hosted by GitHub Pages, so GitHub processes your IP address to deliver pages and keep its service secure, as described in the [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The fonts and scripts the site needs are served from maker.rip itself, not from Google or other third parties.
 
-Videos and 3D models appear as pictures that link to YouTube or Tinkercad, so nothing loads from those services unless you click through.
+Videos and 3D models are shown as a picture with a play button. Nothing loads from YouTube or Tinkercad until you press play, at which point the player loads from that service (YouTube's privacy-enhanced youtube-nocookie.com, or Autodesk's Tinkercad) and may set its own cookies.
 
 Links to other sites, including Amazon, lead to services with their own privacy policies.
 

@@ -1,0 +1,10 @@
+{%- comment -%}
+  Click-to-load embed: shows a local poster; the third-party iframe only loads when the reader clicks (script in metadata-hook.html).
+  Without JS the poster is a plain link to the service.
+  Params: service, src (iframe URL), href (page on the service), poster, title, alt (poster description, defaults to title)
+  Keep <img> as the only child of the <a>, closed immediately by </a>: Chirpy's refactor-content otherwise wraps it in a lightbox link.
+{%- endcomment -%}
+<figure class="click-to-load">
+  <a href="{{ include.href }}" data-embed-src="{{ include.src }}" data-embed-title="{{ include.title | escape }}" aria-label="Play: {{ include.title | escape }} (loads from {{ include.service }})"><img src="{{ include.poster | relative_url }}" alt="{{ include.alt | default: include.title | escape }}"></a>
+  <figcaption>Playing this loads it from {{ include.service }}, which may set cookies. <a href="{{ include.href }}">Open on {{ include.service }}</a></figcaption>
+</figure>

@@ -1,0 +1,9 @@
+{%- comment -%}
+  {% include youtube.html id='VIDEO_ID' title='Video title' %}
+  Poster: assets/img/youtube/VIDEO_ID.jpg (save https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg there).
+{%- endcomment -%}
+{%- capture src %}https://www.youtube-nocookie.com/embed/{{ include.id }}?autoplay=1{% endcapture -%}
+{%- capture href %}https://www.youtube.com/watch?v={{ include.id }}{% endcapture -%}
+{%- capture poster %}/assets/img/youtube/{{ include.id }}.jpg{% endcapture -%}
+{%- capture alt %}Video thumbnail: {{ include.title }}{% endcapture -%}
+{% include click-to-load.html service="YouTube" src=src href=href poster=poster title=include.title alt=alt %}

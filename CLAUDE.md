@@ -16,7 +16,7 @@ Change the site through `_config.yml`, `_tabs/`, `_data/`, `assets/img/favicons/
 
 ## Privacy
 
-`_tabs/privacy.md` lists every third party a page contacts; keep it true when content changes. YouTube videos appear as a local thumbnail linking out (`[![Video thumbnail: Title](/assets/img/YYYY/MM/youtube-ID.jpg)](https://www.youtube.com/watch?v=ID)` plus an italic `_▶ Watch “Title” on YouTube_` caption), since an iframe sets YouTube cookies on page load. Tweets are plain Markdown quotes linking to the original. The Wildcat post's Tinkercad model uses the same picture-link pattern; there are no third-party embeds.
+`_tabs/privacy.md` lists every third party a page contacts; keep it true when content changes. Third-party embeds are click-to-load: `{% include youtube.html id title %}` (poster at `assets/img/youtube/ID.jpg`) or the generic `{% include click-to-load.html %}`, styled and scripted from `_includes/metadata-hook.html`. A plain iframe would contact the third party on page load. Chirpy's refactor-content wraps any `<img>` not immediately followed by `</a>` in a lightbox link, so the include's `<a>` holds only the `<img>`. Tweets are plain Markdown quotes linking to the original.
 
 ## URLs
 

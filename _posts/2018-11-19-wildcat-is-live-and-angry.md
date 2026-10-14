@@ -30,8 +30,7 @@ For this post I'm more interested in talking about the fabrication of the non-te
 
 The front panel was designed in about an hour (based on some initial measurements of the frame and LEDs) using [Tinkercad](https://www.tinkercad.com/#/dashboard), then after 3D printing and realising that nothing fit, slightly refined into what you see below:
 
-[![3D model of the Wildcat front panel: an orange disc with a rectangular window for the LED matrix, and the words Wildcat and since incident](/assets/img/2018/11/tinkercad-wildcat-panel.jpg)](https://www.tinkercad.com/things/2Vc65P0oUIG)
-_▶ Explore the 3D model on Tinkercad_
+{% include click-to-load.html service="Tinkercad" src="https://www.tinkercad.com/embed/2Vc65P0oUIG" href="https://www.tinkercad.com/things/2Vc65P0oUIG" poster="/assets/img/2018/11/tinkercad-wildcat-panel.jpg" title="3D model of the Wildcat front panel" alt="3D model of the Wildcat front panel: an orange disc with a rectangular window for the LED matrix, and the words Wildcat and since incident" %}
 
 This second print fit perfectly, so was primed using [Rust-Oleum Surface Primer](https://amzn.to/2QUVWAt), expertly painted by Lucy using acrylics, then glued into the frame using [Gorilla glue](https://www.amazon.co.uk/s?k=gorilla+glue).
 

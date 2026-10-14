@@ -45,7 +45,6 @@ I do have plans for some more general purpose functional prints such as a chargi
 
 I also have some plans for ways in which it can help with some electronics projects that I have lined up, including what I hope will be a very cool project which uses lithophanes:
 
-[![Video thumbnail: 3D printer lithophane](/assets/img/2017/08/youtube-C8po-oMscas.jpg)](https://www.youtube.com/watch?v=C8po-oMscas)
-_▶ Watch “3D printer lithophane” on YouTube_
+{% include youtube.html id='C8po-oMscas' title="3D printer lithophane" %}
 
 Don't get me wrong, I've had my fair share of failed prints, and still need to do some further calibration as one of the axis seems to be around a millimetre off (which seems to make all the difference), but even with the anxiety of the build (and continued anxiety over the fact this is no way a consumer grade machine, and will probably require continued tinkering) I'm really glad I have it, and can't wait to see what fun things it can help me make.

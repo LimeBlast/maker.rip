@@ -13,8 +13,7 @@ tags:
 
 <p class="intro">Back in September 2016, inspired a bunch of cool looking projects I found on <a href="https://www.instructables.com/">Instructables</a>, along with access to a laser cutter, and some stock art, I decided to fully embrace this whole maker thing by making a project of my own.</p>
 
-[![Video thumbnail: Halloween box project](/assets/img/2017/02/youtube-PyFV2pUYBxk.jpg)](https://www.youtube.com/watch?v=PyFV2pUYBxk)
-_▶ Watch “Halloween box project” on YouTube_
+{% include youtube.html id='PyFV2pUYBxk' title="Halloween box project" %}
 
 The art on the front is based on a stock image of [a silhouetted monster with a girl](https://www.dreamstime.com/stock-illustration-monster-beast-silhouette-good-logo-mascot-your-company-image66765725). I figured if I were to swap the polarity of the image, so everything _other_ than the monster was a silhouette, it would look really cool to have the monster glow different colours.
 

@@ -37,14 +37,13 @@ Body in Markdown.
 ![What the photo shows](/assets/img/2026/10/photo.jpg)
 _Optional caption, in italics on the line straight after the image_
 
-[![Video thumbnail: Video title](/assets/img/2026/10/youtube-VIDEO_ID.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-_▶ Watch “Video title” on YouTube_
+{% include youtube.html id='VIDEO_ID' title="Video title" %}
 ```
 
 - **Images** go in `assets/img/YYYY/MM/`. Header images work best around 1200×630. Shrink phone photos and strip their metadata (it includes GPS) before committing, and avoid brackets in filenames.
 - **Every image needs alt text** and **every link must be `https://`**: the deploy's link check fails otherwise. Details show in the repo's Actions tab.
 - **Categories** in use: `personal`, `weekend-woodworker`, `wildcat`, `spooktober`, `other-builds`, `review`, `the-building-block`, `the-makers-guide-to-the-zombie-apocalypse`. New ones get a page automatically.
-- **YouTube:** link a local copy of the thumbnail (`https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg`, saved into `assets/img/`) as above rather than embedding the player, which sets YouTube cookies on page load and would need a consent banner.
+- **YouTube and other embeds load only when clicked**, so no third party sees a page view and no consent banner is needed. For YouTube, save `https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg` as `assets/img/youtube/VIDEO_ID.jpg` and use the include above. Anything else (e.g. Tinkercad): `{% include click-to-load.html service="Tinkercad" src="<iframe URL>" href="<page URL>" poster="/assets/img/…" title="…" %}`.
 - `pin: true` keeps a post at the top of the homepage.
 - A post dated in the future stays hidden until a rebuild after that date.
 
