@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Patio Table Build
 date: '2018-09-03 12:48:54'
 description: Another weekend, and another woodworking project - this time, the California Casual Patio Table. This is the first official project on the course, which is reflected in the simplicity of the design and build method.
@@ -11,7 +9,7 @@ categories:
 
 _(A second real photo as the feature image - this can't be right?)_
 
-<p class="intro"><span class="dropcap">A</span>nother weekend, and another woodworking project - this time, the California Casual Patio Table. This is the first official project on the course, which is reflected in the simplicity of the design and build method.</p>
+<p class="intro">Another weekend, and another woodworking project - this time, the California Casual Patio Table. This is the first official project on the course, which is reflected in the simplicity of the design and build method.</p>
 
 Although it is suggested you build the workbench first [which I did last time](/2018/08/21/i-built-a-workbench/), due to it being a key component in building the rest of the projects (more on this shortly), it is undeniably the harder project due to the required materials and tools, so after a trial by fire, it was nice to reduce the learning curve a tad.
 

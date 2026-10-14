@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Made some progress, finally!
 date: '2016-09-06 19:32:55'
 image: /assets/img/2016/09/progress--1-.jpg
@@ -8,7 +6,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro"><span class="dropcap">T</span>his is a short post with a simple mission - to inform all (three) of you of my success in completing Project 3: LED Lighting.</p>
+<p class="intro">This is a short post with a simple mission - to inform all (three) of you of my success in completing Project 3: LED Lighting.</p>
 
 ![](/assets/img/2016/09/lights--1-.jpg)
 

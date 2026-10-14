@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Introducing Apricat
 date: '2018-11-09 19:34:05'
 image: /assets/img/2018/11/IMG_20181103_074113--1-.jpg
@@ -10,7 +8,7 @@ tags:
 - personal
 ---
 
-<p class="intro"><em><span class="dropcap">I</span>t was around 7:30 in the morning when Lucy awoke. At first she was confused as to why her body would even consider consciousness at this early hour on a weekend.</em></p>
+<p class="intro"><em>It was around 7:30 in the morning when Lucy awoke. At first she was confused as to why her body would even consider consciousness at this early hour on a weekend.</em></p>
 
 _She thought to herself "Are we going on Holiday today?" before remembering" No, we've only just got back from Cheddar"._
 

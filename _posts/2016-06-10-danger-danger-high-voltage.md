@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Danger Danger, High Voltage!
 date: '2016-06-10 17:16:00'
 image: /assets/img/2016/06/ps-photo-1422225439441-f09fb9a237b7--1-.jpg
@@ -8,7 +6,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro"><span class="dropcap">I</span> am Edison. I am Tesla. I am capable of generating power from the very sun itself. I am God!</p>
+<p class="intro">I am Edison. I am Tesla. I am capable of generating power from the very sun itself. I am God!</p>
 
 _*Ahem*_
 

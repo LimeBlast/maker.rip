@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: I'm officially £126.58 more prepared than I was yesterday
 date: '2016-05-31 21:30:17'
 image: /assets/img/2016/06/light-at-night--1-.jpg
@@ -8,7 +6,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro"><span class="dropcap">S</span>o I'm pretty much just going to dive right in... (<a href="https://talk.birmingham.io/t/what-im-doing-to-prepare-for-the-zombie-apocalypse/2568">If you want some background, check out my thread on birmingham.io</a>).</p>
+<p class="intro">So I'm pretty much just going to dive right in... (<a href="https://talk.birmingham.io/t/what-im-doing-to-prepare-for-the-zombie-apocalypse/2568">If you want some background, check out my thread on birmingham.io</a>).</p>
 
 -----------------
 

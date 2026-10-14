@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bringing the Future into the Present
 date: '2019-03-06 15:19:43'
 image: /assets/img/2019/03/ddeabf38a86146eff02f35468fbfc6b8.jpg
@@ -10,7 +9,7 @@ tags:
 - planning
 ---
 
-<p class="intro"><em><span class="dropcap">I</span>t was around 6:58pm when I stood up. The room only had eight people in it, but they are all looking at me, expectantly. Fuelled by the pint of stout I'd just polished off, I begun to talk.</em></p>
+<p class="intro"><em>It was around 6:58pm when I stood up. The room only had eight people in it, but they are all looking at me, expectantly. Fuelled by the pint of stout I'd just polished off, I begun to talk.</em></p>
 
 When I'm not building websites or playing with wood, I run a local meetup group called [Worcester Source](http://worcestersource.club). On the 4th Wednesday of each month, the members of the group gather at The Paul Pry pub, and after eating some pizza and drinking some beer, they stop and listen to a presentation given by a speaker on a technical subject of interest. 
 

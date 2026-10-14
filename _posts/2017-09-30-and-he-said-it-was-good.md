@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: "... and he said it was good"
 date: '2017-09-30 15:31:15'
 image: /assets/img/2017/09/photo-1440595228939-3673bdb622b4--1-.jpg
@@ -12,7 +10,7 @@ tags:
 - sonoff
 ---
 
-<p class="intro"><span class="dropcap">I</span>'m not sure why I've not spoken about this before, but back in June, after starting the <a href="https://www.instructables.com/class/Electronics-Class/">Electronics class on Instructables</a>, I completed my second large maker project: a <a href="https://www.instructables.com/id/Build-a-Mad-Scientist-Light/#comment-CMMSLIYJ3EPQVMC">Mad Scientist Light</a>.</p>
+<p class="intro">I'm not sure why I've not spoken about this before, but back in June, after starting the <a href="https://www.instructables.com/class/Electronics-Class/">Electronics class on Instructables</a>, I completed my second large maker project: a <a href="https://www.instructables.com/id/Build-a-Mad-Scientist-Light/#comment-CMMSLIYJ3EPQVMC">Mad Scientist Light</a>.</p>
 
 ![](/assets/img/2017/09/IMG_20170604_151522.jpg)
 
@@ -38,6 +36,6 @@ Installing the Sonoff is easy, as you simply put it in serial with the live and 
 
 A momentary button on the device itself can be used to toggle the relay on and off manually, or when held down for five seconds enters a setup mode allowing me to feed it with everything it needs to connect with the wifi, and further, with the app (and thus Alexa).
 
-{% figure %}
-  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DrybWl2v7Zg' frameborder='0' allowfullscreen></iframe></div>
-{% endfigure %}
+<figure>
+  <iframe src="https://www.youtube-nocookie.com/embed/DrybWl2v7Zg" title="Embedded content" loading="lazy" allowfullscreen></iframe>
+</figure>

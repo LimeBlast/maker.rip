@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Slight change in direction
 date: '2017-05-24 18:29:12'
 image: /assets/img/2017/05/brendan-church-182747--1-.jpg
@@ -10,7 +8,7 @@ tags:
 - instructables
 ---
 
-<p class="intro"><span class="dropcap">W</span>hen I first started this blog it was designed as a repository of thoughts as I read though, and complete the projects within, <a href="/category/the-makers-guide-to-the-zombie-apocalypse/">The Maker's Guide to the Zombie Apocalypse</a>.</p>
+<p class="intro">When I first started this blog it was designed as a repository of thoughts as I read though, and complete the projects within, <a href="/category/the-makers-guide-to-the-zombie-apocalypse/">The Maker's Guide to the Zombie Apocalypse</a>.</p>
 
 I purchased the book because I was excited to use it as my route into the _maker_ scene, something which I was totally unaware of just before this time, and have been excited to learn more and more about ever since.
 

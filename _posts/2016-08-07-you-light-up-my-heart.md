@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: You light up my heart
 date: '2016-08-07 16:07:46'
 image: /assets/img/2016/08/image.jpg
@@ -10,7 +8,7 @@ tags:
 - circuit-stickers
 ---
 
-<p class="intro"><span class="dropcap">I</span>f you'll indulge me for just a moment, I want to talk about something which isn't related to zombies, but is about electronics and my attempts to get creative.</p>
+<p class="intro">If you'll indulge me for just a moment, I want to talk about something which isn't related to zombies, but is about electronics and my attempts to get creative.</p>
 
 With the failure of the battery monitor project, I was determined to end the day having actually achieved something, so I decided to take a look at my [Circuit Stickers Starter Kit](https://shop.pimoroni.com/products/chibi-lights-led-circuit-stickers-stem-starter-kit).
 

@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: What's in the box?
 date: '2016-10-03 16:24:21'
 image: /assets/img/2016/10/pexels-photo-24325--1-.jpg
@@ -10,7 +8,7 @@ tags:
 - arduino
 ---
 
-<p class="intro"><span class="dropcap">A</span> couple of months ago I got really excited when I saw that Adafruit had launched a curated box of products suitable for anyone that's part of the maker scene. The <a href="https://www.adafruit.com/adabox">AdaBox</a> follows the same concept as something like Loot Crate, which has a unique theme per box and includes a bunch of items related to that theme. Once a particular box is gone, it's gone.</p>
+<p class="intro">A couple of months ago I got really excited when I saw that Adafruit had launched a curated box of products suitable for anyone that's part of the maker scene. The <a href="https://www.adafruit.com/adabox">AdaBox</a> follows the same concept as something like Loot Crate, which has a unique theme per box and includes a bunch of items related to that theme. Once a particular box is gone, it's gone.</p>
 
 Unfortunately, this excitement soon died down when I discovered AdaBox isn't available in the UK ([yet](http://forums.pimoroni.com/t/any-plans-for-curated-boxes-for-makers-and-or-electronics-enthusiasts/2816/1)), but I wasn't going give up hope, so off I went looking for an alternative - which is when I found [Creation Crate](https://mycreationcrate.com/refer/Danie-TCVKWSNV).
 
@@ -48,9 +46,9 @@ With all this in mind, I'm going to wait until I've built the third project befo
 
 I received the third kit earlier in the week and had a chance to assemble it today. As mentioned above, I was excited to play with an ultrasonic sensor, but the final build is more disappointing that anything.
 
-{% figure %}
-  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ASHR9tgtyBQ' frameborder='0' allowfullscreen></iframe></div>
-{% endfigure %}
+<figure>
+  <iframe src="https://www.youtube-nocookie.com/embed/ASHR9tgtyBQ" title="Embedded content" loading="lazy" allowfullscreen></iframe>
+</figure>
 
 In addition to the range sensor, the kit contains 6 LEDs, a piezo buzzer, and some resistors. Unlike the previous kits, this one told you where to put the components, but not the connecting wires - instead, you're challenged to figure this out using the fully commented code sample (which I'm happy to report finally featured code indenting). This should be simple enough for anyone that has gotten this far in the process, but a cheat sheet diagram is available behind their passworded portal.
 

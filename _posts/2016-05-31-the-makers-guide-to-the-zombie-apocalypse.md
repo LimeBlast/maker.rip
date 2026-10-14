@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: The Maker's Guide to the Zombie Apocalypse
 date: '2016-05-31 20:03:23'
 image: /assets/img/2018/02/IMG_0695-1-.jpg
@@ -12,7 +10,7 @@ tags:
 - raspberry-pi
 ---
 
-<p class="intro"><a href="http://amzn.to/1spRddk"><span class="dropcap">T</span>he Maker's Guide to the Zombie Apocalypse</a>, a book written by Simon Monk (who I gather is quite well known within the maker community, having <a href="http://amzn.to/1spRqwW">authored various books</a> on the Arduino and Raspberry Pi), is clearly something that knows how to motivate me.</p> 
+<p class="intro"><a href="http://amzn.to/1spRddk">The Maker's Guide to the Zombie Apocalypse</a>, a book written by Simon Monk (who I gather is quite well known within the maker community, having <a href="http://amzn.to/1spRqwW">authored various books</a> on the Arduino and Raspberry Pi), is clearly something that knows how to motivate me.</p> 
 
 Based around the idea that the zombie apocalypse is just around the corner, it uses that theme and setting to teach the basics of electronics, by showing you how to build a number of practical projects using components which will be readily salvageable after the dead have risen.
 

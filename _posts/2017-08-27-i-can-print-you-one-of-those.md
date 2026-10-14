@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: I can print you one of those...
 date: '2017-08-27 20:30:00'
 image: /assets/img/2017/08/3d-printer-1-.jpg
@@ -10,7 +8,7 @@ tags:
 - 3d-printer
 ---
 
-<p class="intro"><span class="dropcap">O</span>n the 28th July 2017, shortly after moving to Worcester with my girlfriend (say hello, Lucy), I ordered the <a href="http://www.prusa3d.com/">Prusa i3 MK2S</a> 3D printer.</p>
+<p class="intro">On the 28th July 2017, shortly after moving to Worcester with my girlfriend (say hello, Lucy), I ordered the <a href="http://www.prusa3d.com/">Prusa i3 MK2S</a> 3D printer.</p>
 
 I'd been thinking about getting a 3D printer for a couple of months, and shortly before the move - after realising that my desire to learn woodworking would have to be put on hold due to lack of suitable space within which to do it - I decided that I was going to save up for one over the next six months... So when I received the letter telling me I had paid around £700 too much tax the previous year, I knew exactly what I was going to spend the rebate on.
 
@@ -44,8 +42,8 @@ I do have plans for some more general purpose functional prints such as a chargi
 
 I also have some plans for ways in which it can help with some electronics projects that I have lined up, including what I hope will be a very cool project which uses lithophanes:
 
-{% figure %}
-  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/C8po-oMscas' frameborder='0' allowfullscreen></iframe></div>
-{% endfigure %}
+<figure>
+  <iframe src="https://www.youtube-nocookie.com/embed/C8po-oMscas" title="Embedded content" loading="lazy" allowfullscreen></iframe>
+</figure>
 
 Don't get me wrong, I've had my fair share of failed prints, and still need to do some further calibration as one of the axis seems to be around a millimetre off (which seems to make all the difference), but even with the anxiety of the build (and continued anxiety over the fact this is no way a consumer grade machine, and will probably require continued tinkering) I'm really glad I have it, and can't wait to see what fun things it can help me make.

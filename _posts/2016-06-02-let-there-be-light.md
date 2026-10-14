@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Let there be light
 date: '2016-06-02 16:47:15'
 image: /assets/img/2016/06/let-there-be-light--1-.jpg
@@ -8,7 +6,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro"><span class="dropcap">T</span>he <a href="http://amzn.to/1XT5QkY">solar panel</a> arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.</p>
+<p class="intro">The <a href="http://amzn.to/1XT5QkY">solar panel</a> arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.</p>
 
 ![](/assets/img/2016/06/solar-panel--1-.jpg)
 

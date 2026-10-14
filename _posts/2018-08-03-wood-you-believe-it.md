@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Wood you believe it?
 date: '2018-08-03 21:07:48'
 description: I’m not sure at what point I’m going to be able to legitimately call myself a woodworker, but I became one step closer to that point today as I’ve finally cut some wood in anger.
@@ -11,7 +9,7 @@ categories:
 
 _(I already hate myself for that title)_
 
-<p class="intro"><span class="dropcap">I</span>'m not sure at what point I'm going to be able to legitimately call myself a woodworker, but I became one step closer to that point today as I've finally cut some wood <em>in anger</em>.</p>
+<p class="intro">I'm not sure at what point I'm going to be able to legitimately call myself a woodworker, but I became one step closer to that point today as I've finally cut some wood <em>in anger</em>.</p>
 
 Sure, as soon as I got my brand new power tools I tested each of them out - but it's one thing to cut random bits of firewood off the wooden shelving unit that exploded into mould because your basement is far too damp - and something else entirely to get out a tape measure, square, and a guide clamp, and actually cut some wood with purpose.
 

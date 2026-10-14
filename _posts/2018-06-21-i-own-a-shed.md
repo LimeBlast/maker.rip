@@ -1,14 +1,12 @@
 ---
-author: daniel
-layout: post
 title: I own a shed!
 date: '2018-06-21 14:06:18'
-image: /assets/img//2018/06/OxzhYtL-00Y-1-.jpg
+image: /assets/img/2018/06/OxzhYtL-00Y-1-.jpg
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro"><span class="dropcap">W</span>hen I first started this blog I was living in a small two-bedroom flat in the centre of Birmingham. It was great for transport, shopping, and restaurants, but terrible for project work.</p>
+<p class="intro">When I first started this blog I was living in a small two-bedroom flat in the centre of Birmingham. It was great for transport, shopping, and restaurants, but terrible for project work.</p>
 
 The main problems I faced were the lack of space to work, and my inability to make any changes to the property. As much as I might have wanted to put a sensor on the door to check for intruders (read: my flatmate), or drill some holes to put-up a display - I wasn't allowed.
 

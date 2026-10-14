@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: I just can't do it Captain, I just don't have the power!
 date: '2016-08-05 17:08:00'
 image: /assets/img/2016/08/photo-1441171205449-f600f908a9f3--1-.jpg
@@ -8,7 +6,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro"><span class="dropcap">U</span>nfortunately, today has turned into a bit of a failure.</p>
+<p class="intro">Unfortunately, today has turned into a bit of a failure.</p>
 
 This morning brought with it the final component I needed I start on the battery monitor project. At lunchtime, I quickly assembled the relevant bits and connected the battery...
 

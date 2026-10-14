@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: What I've been up to
 date: '2017-01-30 21:41:00'
 image: /assets/img/2017/01/8z2Q6XWLYa4--1-.jpg
@@ -8,7 +6,7 @@ categories:
 - personal
 ---
 
-<p class="intro"><span class="dropcap">I</span>t's been a while since my last post, so I wanted to spend a moment talking about what I've been up to.</p>
+<p class="intro">It's been a while since my last post, so I wanted to spend a moment talking about what I've been up to.</p>
 
 In the first instance, I should probably talk about my progress in the book. Basically, I got to a point where it was becoming difficult to complete the projects without spending ever more money on things which would only ever serve the purpose of the book - that is, beyond constructing whatever gizmo the chapter asked for, and learning the small nugget of knowledge as a result, it was becoming difficult to justify the cost.
 

@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Project Wildcat... has been delayed
 date: '2018-11-10 21:35:58'
 image: /assets/img/2018/11/IMG_20181110_100407-1-.jpg
@@ -13,7 +11,7 @@ tags:
 - arduino
 ---
 
-<p class="intro"><span class="dropcap">I</span>t is with no small amount of sadness that I have to report that, in the final stretches of the build of Wildcat, I've inadvertently managed to set my progress back for a few days.</p>
+<p class="intro">It is with no small amount of sadness that I have to report that, in the final stretches of the build of Wildcat, I've inadvertently managed to set my progress back for a few days.</p>
 
 As [mentioned in my previous post](https://maker.limeblast.co.uk/2018/11/09/introducing-apricat/), the addition of a new member of the family hasn't been without its issues, with Apricat being somewhat liberal in her use of tooth and claw to show her distrust of us.
 

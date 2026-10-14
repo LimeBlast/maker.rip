@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Jack-o'-lantern out of reclaimed wood
 date: '2018-10-08 14:19:59'
 image: /assets/img/2018/10/IMG_20181008_141454-1-.jpg
@@ -12,13 +10,13 @@ tags:
 - circuit-playground-express
 ---
 
-<p class="intro"><span class="dropcap">U</span>nlike <a href="/2017/02/09/my-halloween-box-isnt-four-months-late-its-eight-months-early/">the last time I tried building something ready for Halloween</a>, I'm somewhat proud of the fact that I was able to have an idea for a project on a Thursday, and have it finished by the Sunday.</p>
+<p class="intro">Unlike <a href="/2017/02/09/my-halloween-box-isnt-four-months-late-its-eight-months-early/">the last time I tried building something ready for Halloween</a>, I'm somewhat proud of the fact that I was able to have an idea for a project on a Thursday, and have it finished by the Sunday.</p>
 
 The idea was inspired by a wooden Jack-o'-lantern I spotted in a shop window while on holiday in Cheddar Gorge - as I saw it, I thought to myself "I can make that", and as soon as we got back to the hotel room, I did some research and found this awesome video, which served as the basis for my own build:
 
-{% figure %}
-  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/CGAGf7WCv8g' frameborder='0' allowfullscreen></iframe></div>
-{% endfigure %}
+<figure>
+  <iframe src="https://www.youtube-nocookie.com/embed/CGAGf7WCv8g" title="Embedded content" loading="lazy" allowfullscreen></iframe>
+</figure>
 
 Now, if you was to ask Lucy what the percentage of projects born out of _I can make that_ moments I've actually built, she'd no doubt tell you it's close to 0% - but unlike all the other times I've said this, wherein there'd always be a asterisk stating something like "...if I had a laser cutter", this time I knew I already had everything I needed.
 

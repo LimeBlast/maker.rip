@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: I built a workbench
 date: '2018-08-21 15:03:41'
 image: /assets/img/2018/08/IMG_20180821_143420-1-.jpg
@@ -8,7 +6,7 @@ categories:
 - weekend-woodworker
 ---
 
-<p class="intro"><span class="dropcap">T</span>his weekend I completed the first project from <a href="https://theweekendwoodworker.com/">the Weekend Woodworker course</a> by <a href="https://www.youtube.com/user/stevinmarin">Steve Ramsey</a>, and I'm actually proud enough of it that I'm going to use it as the feature image for this post, instead of my usual click bait stock photos.</p>
+<p class="intro">This weekend I completed the first project from <a href="https://theweekendwoodworker.com/">the Weekend Woodworker course</a> by <a href="https://www.youtube.com/user/stevinmarin">Steve Ramsey</a>, and I'm actually proud enough of it that I'm going to use it as the feature image for this post, instead of my usual click bait stock photos.</p>
 
 As you can see, the first project is the Basic Mobile Workbench, or BMW. It's designed to be built using four 50x100mm boards, a single 25x50mm board, and a single sheet of 18mm plywood.
 

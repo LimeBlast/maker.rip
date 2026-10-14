@@ -1,6 +1,4 @@
 ---
-author: daniel
-layout: post
 title: Prime day was eventful, for all the wrong reasons
 date: '2016-08-04 17:28:14'
 image: /assets/img/2016/08/photo-1443175679639-685643a7fd62--1-.jpg
@@ -8,7 +6,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro"><span class="dropcap">T</span>he 12th July was <a href="http://amzn.to/2aLrwxh">Prime Day</a>, Amazon's answer to the <em>blue cross sale</em>.</p>
+<p class="intro">The 12th July was <a href="http://amzn.to/2aLrwxh">Prime Day</a>, Amazon's answer to the <em>blue cross sale</em>.</p>
 
 This is relevant, as I was saving my money for this special day, planning to use it as an opportunity to get the items needed for some of the upcoming projects.
 
