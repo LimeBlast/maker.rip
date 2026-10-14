@@ -10,7 +10,7 @@ categories:
 
 The main problems I faced were the lack of space to work, and my inability to make any changes to the property. As much as I might have wanted to put a sensor on the door to check for intruders (read: my flatmate), or drill some holes to put-up a display - I wasn't allowed.
 
-This means that while I was able to temporally sit my solar panel on the balcony to experiment with [[1](https://maker.limeblast.co.uk/2016/06/10/danger-danger-high-voltage/), [2](https://maker.limeblast.co.uk/2016/06/11/its-like-rayeeyaaaaaaain-on-your-wedding-day/), [3](https://maker.limeblast.co.uk/2016/06/17/what-ive-learnt-about-the-solar-panel-over-the-past-week/)] I wasn't able to use it for anything pratical, which resulted in an ever growing collection of project components that I needed to store somewhere.
+This means that while I was able to temporally sit my solar panel on the balcony to experiment with [[1](/2016/06/10/danger-danger-high-voltage/), [2](/2016/06/11/its-like-rayeeyaaaaaaain-on-your-wedding-day/), [3](/2016/06/17/what-ive-learnt-about-the-solar-panel-over-the-past-week/)] I wasn't able to use it for anything pratical, which resulted in an ever growing collection of project components that I needed to store somewhere.
 
 This is why I'm so happy that now, just over two years after I first started the blog, I finally have a house in Worcester to call my own, along with a basement, a large garden, and my very own shed.
 

@@ -36,7 +36,7 @@ Not content to let something as silly as that stop me, I reached into my [LEAN m
 
 <figure>
   <img src="/assets/img/2019/01/mvp.png" alt="" loading="lazy">
-  <figcaption>Illustration by <a href="http://blog.crisp.se/author/henrikkniberg">Henrik Kniberg</a></figcaption>
+  <figcaption>Illustration by <a href="https://blog.crisp.se/author/henrikkniberg">Henrik Kniberg</a></figcaption>
 </figure>
 
 Now, the MagicMirror² platform seems very well designed, with a lot of support for pulling data from a range of sources, but it wasn't quite what I wanted for this project. It had the benefit of being able to read directly from my Trello list, but each goal was nothing more than an entry on a small bulleted list, lost in among a whole bunch of other information.

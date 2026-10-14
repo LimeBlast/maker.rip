@@ -20,4 +20,4 @@ I'm not too upset by this outcome, however, as I feel that I've learnt something
 
 It also helps demonstrate that, while a 50-watt bulb can produce a lot of light, it will also cause the battery to run out far quicker, so a balancing of your requirements and resources is always needed.
 
-Anyway, this isn't the end of this project, as I've just ordered some [10-watt MR16 bulbs](http://amzn.to/2c4xB9Z). I'm hoping that, with them being 1/5th of the wattage, I should be able run 5 of them at maximum without any issues.
+Anyway, this isn't the end of this project, as I've just ordered some [10-watt MR16 bulbs](https://www.amazon.co.uk/s?k=10w+mr16+bulb). I'm hoping that, with them being 1/5th of the wattage, I should be able run 5 of them at maximum without any issues.

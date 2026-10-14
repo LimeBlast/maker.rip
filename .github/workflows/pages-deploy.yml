@@ -50,12 +50,10 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
-      # ponytail: --no-enforce-https tolerates the old posts' http:// links; drop it after the link-rot pass
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
             \-\-disable-external \
-            \-\-no-enforce-https \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
       - name: Upload site artifact

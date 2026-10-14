@@ -18,7 +18,7 @@ Nothing I do seems to be working out quite as intended, as even within the comfo
 
 ---------------
 
-Yesterday saw the delivery of my [DC Bench Power Supply](http://amzn.to/2bObzar). This is what I've purchased in lieu of using car batteries to power my projects, as it'll give me a lot more control over the power supplied to the projects, letting me emulate the different states of charge in a battery, for example.
+Yesterday saw the delivery of my [DC Bench Power Supply](https://amzn.to/2bObzar). This is what I've purchased in lieu of using car batteries to power my projects, as it'll give me a lot more control over the power supplied to the projects, letting me emulate the different states of charge in a battery, for example.
 
 ![](/assets/img/2016/08/bps--1-.jpg)
 
@@ -32,7 +32,7 @@ At first, I thought this might have something to do with the resistors, so I swa
 
 This is the second Arduino I've managed to destroy - only, I'm not sure that it is destroyed. The first one was subjected to a voltage far higher than it was able to handle and became unresponsive, but this one still does _stuff_. When the power leads are connected, the sketch skill runs and the (albeit incorrect) voltage is shown on the display.
 
-I have another Arduino on its way to me via a subscription to [Creation Crate](https://mycreationcrate.com/), so after I've finished the experiment contained within, I may repurpose it and continue down this route, but I'm a little lax to do that until I know what the problem is, as I don't want to keep _breaking_ Arduinos, especially if the thing that's wrong with it is fixable.
+I have another Arduino on its way to me via a subscription to [Creation Crate](https://web.archive.org/web/20160825193355/http://www.mycreationcrate.com/), so after I've finished the experiment contained within, I may repurpose it and continue down this route, but I'm a little lax to do that until I know what the problem is, as I don't want to keep _breaking_ Arduinos, especially if the thing that's wrong with it is fixable.
 
 In any case, I have the bits needed to complete Project 3: LED Lighting, so I'll give that a go at some point in the week, and have another project involving a dinosaur and a Raspberry Pi on the back burner, so I'll see if I can get that working too.
 

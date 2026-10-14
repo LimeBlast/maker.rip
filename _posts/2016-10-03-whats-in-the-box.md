@@ -10,7 +10,7 @@ tags:
 
 <p class="intro">A couple of months ago I got really excited when I saw that Adafruit had launched a curated box of products suitable for anyone that's part of the maker scene. The <a href="https://www.adafruit.com/adabox">AdaBox</a> follows the same concept as something like Loot Crate, which has a unique theme per box and includes a bunch of items related to that theme. Once a particular box is gone, it's gone.</p>
 
-Unfortunately, this excitement soon died down when I discovered AdaBox isn't available in the UK ([yet](http://forums.pimoroni.com/t/any-plans-for-curated-boxes-for-makers-and-or-electronics-enthusiasts/2816/1)), but I wasn't going give up hope, so off I went looking for an alternative - which is when I found [Creation Crate](https://mycreationcrate.com/refer/Danie-TCVKWSNV).
+Unfortunately, this excitement soon died down when I discovered AdaBox isn't available in the UK ([yet](https://forums.pimoroni.com/t/any-plans-for-curated-boxes-for-makers-and-or-electronics-enthusiasts/2816/1)), but I wasn't going give up hope, so off I went looking for an alternative - which is when I found [Creation Crate](https://web.archive.org/web/20160825193355/http://www.mycreationcrate.com/).
 
 Unlike AdaBox, each Creation Create is designed as an individual lesson in electronics, with each additional box building upon the knowledge gained in the previous one. This means everyone will get the same first box, no matter when they join, followed by the same second box, then third, etc..
 
@@ -38,7 +38,7 @@ Unlike with the first kit, I really couldn't be bothered to type out all the cod
 
 It was fun to play for a couple of minutes, but as I'm quick to bore I soon put it to one side. I have no intention of playing it again, but I've also not disassembled it yet, nor have I disassembled the first one. Maybe my interest is a bit more piqued than I figured.
 
-In any case, the last page of the instruction manual always features a sneak peek of what's coming in the next box, along with the challenge of guessing what it does. This time, it shows a photo of a breadboard with a [HC-SR04 Ultrasonic Range Sensor](http://amzn.to/2cSGKUC). I've not used one of these before, but I've often seen them used as *eyes* on robots, so I'm interested to see what the project is going to do with it.
+In any case, the last page of the instruction manual always features a sneak peek of what's coming in the next box, along with the challenge of guessing what it does. This time, it shows a photo of a breadboard with a [HC-SR04 Ultrasonic Range Sensor](https://amzn.to/2cSGKUC). I've not used one of these before, but I've often seen them used as *eyes* on robots, so I'm interested to see what the project is going to do with it.
 
 With all this in mind, I'm going to wait until I've built the third project before I decide if I'm going to continue with my subscription or not. I'll update this post accordingly.
 
@@ -46,14 +46,12 @@ With all this in mind, I'm going to wait until I've built the third project befo
 
 I received the third kit earlier in the week and had a chance to assemble it today. As mentioned above, I was excited to play with an ultrasonic sensor, but the final build is more disappointing that anything.
 
-<figure>
-  <iframe src="https://www.youtube-nocookie.com/embed/ASHR9tgtyBQ" title="Embedded content" loading="lazy" allowfullscreen></iframe>
-</figure>
+{% include embed/youtube.html id='ASHR9tgtyBQ' %}
 
 In addition to the range sensor, the kit contains 6 LEDs, a piezo buzzer, and some resistors. Unlike the previous kits, this one told you where to put the components, but not the connecting wires - instead, you're challenged to figure this out using the fully commented code sample (which I'm happy to report finally featured code indenting). This should be simple enough for anyone that has gotten this far in the process, but a cheat sheet diagram is available behind their passworded portal.
 
 I assembled the kit, waved my hand in front of it, watched the LEDs turn on and off. Filmed the above video clip, then put it away. Maybe it's just me (as, again, I don't think I'm the target audience), but this left me unfulfilled.
 
-And at around £22 per box (£66 for the three I've had so far), I'm having trouble finding this to be good value for money. At the time of going to press, for just a penny more than £62, you can get the [official Arduino Starter Kit](http://amzn.to/2e95SqH). This contains a genuine Arduino Uno R3 (not a Chinese clone that made my Mac crash), a whole ton of fun and interesting components, and a very nicely produced 170-page guidebook with the instructions to build 15 different projects.
+And at around £22 per box (£66 for the three I've had so far), I'm having trouble finding this to be good value for money. At the time of going to press, for just a penny more than £62, you can get the [official Arduino Starter Kit](https://amzn.to/2e95SqH). This contains a genuine Arduino Uno R3 (not a Chinese clone that made my Mac crash), a whole ton of fun and interesting components, and a very nicely produced 170-page guidebook with the instructions to build 15 different projects.
 
 I wish Creation Crate all the luck in the world, but it's not for me, and it's not something which I can recommend.

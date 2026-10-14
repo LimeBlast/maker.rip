@@ -10,15 +10,13 @@ tags:
 
 <p class="intro">Back in September 2016, inspired a bunch of cool looking projects I found on <a href="https://www.instructables.com/">Instructables</a>, along with access to a laser cutter, and some stock art, I decided to fully embrace this whole maker thing by making a project of my own.</p>
 
-<figure>
-  <iframe src="https://www.youtube-nocookie.com/embed/PyFV2pUYBxk" title="Embedded content" loading="lazy" allowfullscreen></iframe>
-</figure>
+{% include embed/youtube.html id='PyFV2pUYBxk' %}
 
 The art on the front is based on a stock image of [a silhouetted monster with a girl](https://www.dreamstime.com/stock-illustration-monster-beast-silhouette-good-logo-mascot-your-company-image66765725). I figured if I were to swap the polarity of the image, so everything _other_ than the monster was a silhouette, it would look really cool to have the monster glow different colours.
 
 _If you'll allow me to be all pretentious for just a moment, I always imagined the monster as the girl's imaginary friend. I could go on to talk about his non-existence being represented by the fact he's transparent, and that his changing colour represents his ability to adapt to her needs - but frankly, that's all bollocks. I just figured it would look nice._
 
-Anyway, the only reason this project exists at all is because of community access to the maker equipment at the [Barclays Eagle Lab](https://labs.uk.barclays/) in Birmingham on Friday afternoons. At first, I started playing with their 3D printers and was successful in fabricating a [smart watch stand](http://www.thingiverse.com/thing:1306057) and a [tentacle phone holder](http://www.thingiverse.com/thing:607518) for my flatmate - although my attempt at printing a [Make bot](http://www.thingiverse.com/thing:539127) failed.
+Anyway, the only reason this project exists at all is because of community access to the maker equipment at the [Barclays Eagle Lab](https://labs.uk.barclays/) in Birmingham on Friday afternoons. At first, I started playing with their 3D printers and was successful in fabricating a [smart watch stand](https://www.thingiverse.com/thing:1306057) and a [tentacle phone holder](https://www.thingiverse.com/thing:607518) for my flatmate - although my attempt at printing a [Make bot](https://www.thingiverse.com/thing:539127) failed.
 
 ![](/assets/img/2017/02/IMG_20170209_222617--1-.jpg)
 
@@ -30,17 +28,17 @@ My project consisted of three main parts:
 - A matrix of multicoloured LEDs to shine through the transparent design.
 - A box to put it all into.
 
-The box turned out to be the easiest part of the project. I was able to design a laser cutter compatible template from [MakerCase](http://www.makercase.com/) and convert it into the required coral draw file. The design included a hole in the front through which you'll be able to see the acrylic panel.
+The box turned out to be the easiest part of the project. I was able to design a laser cutter compatible template from [MakerCase](https://www.makercase.com/) and convert it into the required coral draw file. The design included a hole in the front through which you'll be able to see the acrylic panel.
 
 I don't think the laser cutter was configured correctly, as it took several passes for the laser to fully penetrate the wood, which resulted in a lot of burn marks on it, but this didn't bother me too much it was going to be painted anyway. Plus, _mmmmmmm - burning wood smell_.
 
 After throwing a frame clamp set and some wood glue into the mix, I soon assembled five of the six sides of the box. I left the back panel off as this was my access point for inserting the front panel and LEDs.
 
-Talking of LEDs, they're next. Although I had played with Neopixels before, this didn't require anything nearly so complex, so I went for some regular [12v RGB LED strips](http://amzn.to/2kxw27V). I mounted these in a grid on the back panel (a process which required a lot of soldering and hot glue).
+Talking of LEDs, they're next. Although I had played with Neopixels before, this didn't require anything nearly so complex, so I went for some regular [12v RGB LED strips](https://amzn.to/2kxw27V). I mounted these in a grid on the back panel (a process which required a lot of soldering and hot glue).
 
 The last bit was the acrylic front panel, which turned out to be a massive pain in the arse.
 
-It's made out of a material called [TroLase Reverse](https://www.engraving-supplies.co.uk/catalogsearch/result/?q=trolase+reverse), so called because:
+It's made out of a material called TroLase Reverse, so called because:
 
 > [It] comprises of a transparent acrylic fascia with a coloured coating on the reverse side. By reverse engraving your image into the coloured layer you expose clear text/image which can either be infilled with your choice of acrylic paint or backlit for an effective contrast.
 
@@ -52,7 +50,7 @@ Anyway, some further assembly, paint, and glue later, I'm happy to say the proje
 
 That said, if I were to do it again (which is something I really would like to do at some point), there are a few things I would change.
 
-In the first instance, I think I'd opt to simply buy a [shadow box](http://www.hobbycraft.co.uk/advancedsearchresults.aspx?query=shadow-box) rather than build my own. Before I started this project, I didn't even know they were a thing, but now I know they exist, I can see myself using them for a lot of projects.
+In the first instance, I think I'd opt to simply buy a shadow box rather than build my own. Before I started this project, I didn't even know they were a thing, but now I know they exist, I can see myself using them for a lot of projects.
 
 One other thing I'd change is to use a CNC router to fabricate the front panel design, rather than a laser cutter. At this point, I don't even know if that's a realistic prospect, what I do know is whatever awe I once had for laser cutters has been replaced with an awe for CNC routers, and really hope that I can own one one day.
 

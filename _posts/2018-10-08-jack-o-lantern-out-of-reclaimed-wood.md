@@ -14,9 +14,7 @@ tags:
 
 The idea was inspired by a wooden Jack-o'-lantern I spotted in a shop window while on holiday in Cheddar Gorge - as I saw it, I thought to myself "I can make that", and as soon as we got back to the hotel room, I did some research and found this awesome video, which served as the basis for my own build:
 
-<figure>
-  <iframe src="https://www.youtube-nocookie.com/embed/CGAGf7WCv8g" title="Embedded content" loading="lazy" allowfullscreen></iframe>
-</figure>
+{% include embed/youtube.html id='CGAGf7WCv8g' %}
 
 Now, if you was to ask Lucy what the percentage of projects born out of _I can make that_ moments I've actually built, she'd no doubt tell you it's close to 0% - but unlike all the other times I've said this, wherein there'd always be a asterisk stating something like "...if I had a laser cutter", this time I knew I already had everything I needed.
 

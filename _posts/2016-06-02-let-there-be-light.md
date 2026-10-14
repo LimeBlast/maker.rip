@@ -6,7 +6,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">The <a href="http://amzn.to/1XT5QkY">solar panel</a> arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.</p>
+<p class="intro">The <a href="https://amzn.to/1XT5QkY">solar panel</a> arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.</p>
 
 ![](/assets/img/2016/06/solar-panel--1-.jpg)
 
@@ -20,4 +20,4 @@ Further experimentation resulted in different values, with it dropping to 6.5 wh
 
 In addition to the solar panel, I also received the charge controller. I've already gone ahead and screwed the relevant wires from the panel into it - but without a battery being attached it doesn't do anything (either that, or it's broken), so this will need to wait before I can play any further.
 
-Finally, I received my copy of [Getting Started in Electronics](http://amzn.to/1XT5k6D) by Forrest M. Mimms III, but having not had a chance to read it yet, I can't comment on it any further than to say the drawings inside look fantastic.
+Finally, I received my copy of [Getting Started in Electronics](https://amzn.to/1XT5k6D) by Forrest M. Mimms III, but having not had a chance to read it yet, I can't comment on it any further than to say the drawings inside look fantastic.

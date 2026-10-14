@@ -8,7 +8,7 @@ tags:
 - 3d-printer
 ---
 
-<p class="intro">On the 28th July 2017, shortly after moving to Worcester with my girlfriend (say hello, Lucy), I ordered the <a href="http://www.prusa3d.com/">Prusa i3 MK2S</a> 3D printer.</p>
+<p class="intro">On the 28th July 2017, shortly after moving to Worcester with my girlfriend (say hello, Lucy), I ordered the <a href="https://www.prusa3d.com/">Prusa i3 MK2S</a> 3D printer.</p>
 
 I'd been thinking about getting a 3D printer for a couple of months, and shortly before the move - after realising that my desire to learn woodworking would have to be put on hold due to lack of suitable space within which to do it - I decided that I was going to save up for one over the next six months... So when I received the letter telling me I had paid around £700 too much tax the previous year, I knew exactly what I was going to spend the rebate on.
 
@@ -32,18 +32,16 @@ And then the first:
 
 ![](/assets/img/2017/08/benchy-1-.jpg)
 
-of many [benchys](http://www.3dbenchy.com/) (a print designed to benchmark printers and filaments, and helps diagnose problems):
+of many [benchys](https://www.3dbenchy.com/) (a print designed to benchmark printers and filaments, and helps diagnose problems):
 
 ![](/assets/img/2017/08/fleet-1-.jpg)
 
-The first functional print was a new [spool holder](https://www.thingiverse.com/make:371893) (with the very concept of the printer being able to fabricate its own replacement parts blowing Cos' mind), followed by a [cable holder](https://www.thingiverse.com/make:372338) and a caddy for the Raspberry Pi running [Octoprint](http://octoprint.org/) (software which lets me control the printer and issue jobs to it remotely).
+The first functional print was a new [spool holder](https://www.thingiverse.com/make:371893) (with the very concept of the printer being able to fabricate its own replacement parts blowing Cos' mind), followed by a [cable holder](https://www.thingiverse.com/make:372338) and a caddy for the Raspberry Pi running [Octoprint](https://octoprint.org/) (software which lets me control the printer and issue jobs to it remotely).
 
 I do have plans for some more general purpose functional prints such as a charging dock for Lucy's phone, and a paper towel dispenser, both of which I can download from [Thingiverse](https://www.thingiverse.com/), as well as a caddy for the remote control on my air conditioning unit, which I'll attempt to design myself using Tinkercad.
 
 I also have some plans for ways in which it can help with some electronics projects that I have lined up, including what I hope will be a very cool project which uses lithophanes:
 
-<figure>
-  <iframe src="https://www.youtube-nocookie.com/embed/C8po-oMscas" title="Embedded content" loading="lazy" allowfullscreen></iframe>
-</figure>
+{% include embed/youtube.html id='C8po-oMscas' %}
 
 Don't get me wrong, I've had my fair share of failed prints, and still need to do some further calibration as one of the axis seems to be around a millimetre off (which seems to make all the difference), but even with the anxiety of the build (and continued anxiety over the fact this is no way a consumer grade machine, and will probably require continued tinkering) I'm really glad I have it, and can't wait to see what fun things it can help me make.

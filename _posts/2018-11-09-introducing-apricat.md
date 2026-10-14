@@ -22,7 +22,7 @@ _Today, she remembered, was the day we're adopting the cat._
 
 The delightfully named Apricat is a beautiful ginger and white domestic short-haired that's believed to be around three years old.
 
-She was a pregnant stray picked up by the RSPCA in Birmingham, and after giving birth to three kittens (all of whom were promptly adopted) she was initially denied the chance of adoption herself due to health issues. Thankfully she made a full recovery, and shortly after returning to [the adoption centre](http://www.rspca-worcester.org/) she met two very strange humans (that would be us).
+She was a pregnant stray picked up by the RSPCA in Birmingham, and after giving birth to three kittens (all of whom were promptly adopted) she was initially denied the chance of adoption herself due to health issues. Thankfully she made a full recovery, and shortly after returning to [the adoption centre](https://www.rspca-worcester.org/) she met two very strange humans (that would be us).
 
 The RSPCA operate a traffic light classification for all the animals in their care, and upon our first introduction she was classified as green (to indicate that she was friendly), but by our second meeting a week later, she had been downgraded to amber. 
 

@@ -14,12 +14,12 @@ While I love the idea of the book, and really do want to complete the projects w
 
 Instead, I've been focusing on improving my non-zombie apocalypse maker skills.
 
-This started off with a focus on my electronics knowledge, which I decided to enhance via two electronics courses I found: [Electronic Interfaces (EE40LX)](https://courses.edx.org/courses/course-v1:BerkeleyX+EE40LX+2T2015/info) and [Pirate Electronics](http://pirateselectronics.teachable.com/).
+This started off with a focus on my electronics knowledge, which I decided to enhance via two electronics courses I found: Electronic Interfaces (EE40LX) and [Pirate Electronics](https://pirateselectronics.teachable.com/).
 
 Alas, these have both been put on the back burner, the first because it was WAY above my level of knowledge (basically, it was aimed at physics postgraduates), and the second because it was _slightly_ above my level. I don't think I'm ever going to understand the content in the first, but with a bit more experience and electronics knowledge from other sources, I think I'll be able to complete the second.
 
-To this end, I'm currently half way through the [Electronics class over at Instructables](http://www.instructables.com/class/Electronics-Class/). Now, this is really good (although it's also turning out to be quite expensive buying all the materials and tools needed to complete the projects within it), it's really taking me out of my comfort zone, and I'm forcing me to learn new things. I'm going to make a couple of posts about this as they become relevant.
+To this end, I'm currently half way through the [Electronics class over at Instructables](https://www.instructables.com/Electronics-Class/). Now, this is really good (although it's also turning out to be quite expensive buying all the materials and tools needed to complete the projects within it), it's really taking me out of my comfort zone, and I'm forcing me to learn new things. I'm going to make a couple of posts about this as they become relevant.
 
-Also over at Instructables, I completed the [Arduino class](http://www.instructables.com/class/Arduino-Class/). This [let me build an infinity mirror](https://talk.birmingham.io/t/i-built-an-infinity-mirror/3059), something I've wanted to do for a long time.
+Also over at Instructables, I completed the [Arduino class](https://www.instructables.com/Arduino-Class/). This [let me build an infinity mirror](https://web.archive.org/web/20200930163028/https://talk.birmingham.io/t/i-built-an-infinity-mirror/3059), something I've wanted to do for a long time.
 
 Uumm, that's about it, for now.

@@ -16,11 +16,11 @@ It isn't perfect - like, at all. Even a cursory glance at it shows gaps in the j
 
 ![IMG_20180818_183541-1-](/assets/img/2018/08/IMG_20180818_183541-1-.jpg)
 
-This was the first time I used a lot of my new tools _in anger_, with my [Evolution R210SMS mitre saw](http://www.evolutionpowertools.com/uk/build/mitresaws/r210sms/) taking centre stage. Having never used a mitre saw before, I don't have anything to compare it with, but with minimal set-up out of the box, everything seemed to be square and true, and it cut everything I put in it.
+This was the first time I used a lot of my new tools _in anger_, with my [Evolution R210SMS mitre saw](https://shop.evolutionpowertools.com/products/r210sms-210mm-sliding-mitre-saw) taking centre stage. Having never used a mitre saw before, I don't have anything to compare it with, but with minimal set-up out of the box, everything seemed to be square and true, and it cut everything I put in it.
 
 I think the only time I had any problems with the saw was when trying to cut the legs down to size. This is because I'd previously laminated two of the 50x100mm boards together, resulting in a 100x100mm block which was slightly too large for my saw. I was able to overcome this by carefully setting a stop block, cutting through half, then flipping it over to cut the other half.
 
-I'm really happy I got the [stand](http://www.evolutionpowertools.com/uk/group/mitrestand.php) for it, as I didn't have any suitable surfaces to use it on, and really didn't fancy using it on the floor - I guess I could made do with the floor for this build then mount it on my newly built workbench (as Steve himself suggests) - but the raw materials for the workbench cost far too much to limit it's function like this, as the workbench is versatile enough, and the stand cheap enough, that it was a worthy investment.
+I'm really happy I got the [stand](https://shop.evolutionpowertools.com/products/mitre_saw_stand) for it, as I didn't have any suitable surfaces to use it on, and really didn't fancy using it on the floor - I guess I could made do with the floor for this build then mount it on my newly built workbench (as Steve himself suggests) - but the raw materials for the workbench cost far too much to limit it's function like this, as the workbench is versatile enough, and the stand cheap enough, that it was a worthy investment.
 
 ![IMG_20180818_120829-1-](/assets/img/2018/08/IMG_20180818_120829-1-.jpg)
 

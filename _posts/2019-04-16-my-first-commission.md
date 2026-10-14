@@ -19,7 +19,7 @@ I'd never heard of either of these things before, so set about [doing](https://w
 
 ## Lap Joints
 
-The first challenge was cutting the lap joints to secure the two uprights. In theory, [cutting lap joints using a mitre saw is simple enough](https://www.youtube.com/watch?v=bKGSZe8mbiQ), but it's clearly something which requires practice and patience to get right - neither of which I was afforded as a queue of people waiting to use the single mitre saw quickly formed behind me.
+The first challenge was cutting the lap joints to secure the two uprights. In theory, cutting lap joints using a mitre saw is simple enough, but it's clearly something which requires practice and patience to get right - neither of which I was afforded as a queue of people waiting to use the single mitre saw quickly formed behind me.
 
 My attempt during the session resulted in cuts which were too wide and too deep, but nothing a little (or a lot) of glue and some brad nails couldn't fix.
 

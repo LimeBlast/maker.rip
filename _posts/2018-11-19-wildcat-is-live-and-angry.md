@@ -31,7 +31,7 @@ The front panel was designed in about an hour (based on some initial measurement
   <iframe src="https://www.tinkercad.com/embed/2Vc65P0oUIG" title="Embedded content" loading="lazy" allowfullscreen></iframe>
 </figure>
 
-This second print fit perfectly, so was primed using [Rust-Oleum Surface Primer](https://amzn.to/2QUVWAt), expertly painted by Lucy using acrylics, then glued into the frame using [Gorilla glue](https://amzn.to/2BhsWO3).
+This second print fit perfectly, so was primed using [Rust-Oleum Surface Primer](https://amzn.to/2QUVWAt), expertly painted by Lucy using acrylics, then glued into the frame using [Gorilla glue](https://www.amazon.co.uk/s?k=gorilla+glue).
 
 The next problem was housing the electronics. Thankfully Adafruit provide a really cool system for printing [modular Feather cases](https://learn.adafruit.com/3d-printed-case-for-adafruit-feather/overview), of which I used a [tall variation](https://www.thingiverse.com/thing:2438577), allowing the stacking headers on my Huzzah to fit.
 
