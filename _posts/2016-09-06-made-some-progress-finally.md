@@ -1,14 +1,17 @@
 ---
 title: Made some progress, finally!
+description: "Project 3 is complete: five 10-watt bulbs running from the bench power supply, minus the three I blew by turning the voltage up too far."
 date: '2016-09-06 19:32:55'
-image: /assets/img/2016/09/progress--1-.jpg
+image:
+  path: /assets/img/2016/09/progress--1-.jpg
+  alt: "A green enamel lampshade hanging over a filament bulb"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
 <p class="intro">This is a short post with a simple mission - to inform all (three) of you of my success in completing Project 3: LED Lighting.</p>
 
-![](/assets/img/2016/09/lights--1-.jpg)
+![Five small MR16 bulbs glowing on a workbench, wired to the bench power supply](/assets/img/2016/09/lights--1-.jpg)
 
 Following on from what I learned last week, I have indeed discovered that I'm able to run at least five 10-watt bulbs without expending my maximum current.
 

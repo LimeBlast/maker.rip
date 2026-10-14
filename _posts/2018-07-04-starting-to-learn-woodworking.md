@@ -1,7 +1,10 @@
 ---
 title: I'm starting to learn woodworking
+description: "I've signed up to Steve Ramsey's Weekend Woodworker course, and found out how expensive it is to buy the tools to get started."
 date: '2018-07-04 21:20:01'
-image: /assets/img/2018/07/image.jpg
+image:
+  path: /assets/img/2018/07/image.jpg
+  alt: "Hand tools hung neatly on a workshop wall"
 categories:
 - weekend-woodworker
 ---

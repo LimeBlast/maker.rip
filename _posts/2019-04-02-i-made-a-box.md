@@ -1,7 +1,9 @@
 ---
 title: I made a box
-description: 
-image: /assets/img/2019/04/table-saw-1.jpg
+description: "The first of five evening woodworking classes at The Building Block in Worcester, where I used a table saw for the first time to make a box."
+image:
+  path: /assets/img/2019/04/table-saw-1.jpg
+  alt: "Me ripping a plank on the table saw at The Building Block"
 category: the-building-block
 tags: worcester
 ---
@@ -22,7 +24,7 @@ Anyway, in addition to the table saw, we had access to drills and drivers, a mit
 Not the most elegant thing, but a good project to use the tools for, and one which you won't worry too much about _getting wrong_.
 
 <figure>
-  <img src="/assets/img/2019/04/my-box-1.jpg" alt="" loading="lazy">
+  <img src="/assets/img/2019/04/my-box-1.jpg" alt="A simple open pine box made from flooring planks" loading="lazy">
   <figcaption>My box, in all its glory</figcaption>
 </figure>
 

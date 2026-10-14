@@ -1,7 +1,10 @@
 ---
 title: What I've been up to
+description: "Why progress on the book has slowed, and what I've been doing instead: online electronics courses and the Instructables classes."
 date: '2017-01-30 21:41:00'
-image: /assets/img/2017/01/8z2Q6XWLYa4--1-.jpg
+image:
+  path: /assets/img/2017/01/8z2Q6XWLYa4--1-.jpg
+  alt: "A pair of compasses on a wooden workbench"
 categories:
 - personal
 ---

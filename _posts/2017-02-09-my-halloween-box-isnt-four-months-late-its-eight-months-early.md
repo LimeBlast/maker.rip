@@ -1,7 +1,10 @@
 ---
 title: My Halloween box isn't four months late, it's eight months early
+description: "My first project of my own design: a laser-cut box with a backlit monster panel and RGB LEDs, finished four months after Halloween."
 date: '2017-02-09 22:49:58'
-image: /assets/img/2017/02/halloween-pumpkin-lantern--1-.jpg
+image:
+  path: /assets/img/2017/02/halloween-pumpkin-lantern--1-.jpg
+  alt: "A carved pumpkin and a metal lantern glowing in the dark"
 categories:
 - spooktober
 tags:
@@ -18,7 +21,7 @@ _If you'll allow me to be all pretentious for just a moment, I always imagined t
 
 Anyway, the only reason this project exists at all is because of community access to the maker equipment at the [Barclays Eagle Lab](https://labs.uk.barclays/) in Birmingham on Friday afternoons. At first, I started playing with their 3D printers and was successful in fabricating a [smart watch stand](https://www.thingiverse.com/thing:1306057) and a [tentacle phone holder](https://www.thingiverse.com/thing:607518) for my flatmate - although my attempt at printing a [Make bot](https://www.thingiverse.com/thing:539127) failed.
 
-![](/assets/img/2017/02/IMG_20170209_222617--1-.jpg)
+![The failed 3D print of the Make robot, with misshapen arms and legs](/assets/img/2017/02/IMG_20170209_222617--1-.jpg)
 
 But it was their laser cutter that I was most in awe of. The guy running the lab, Dan, said the laser cutter was quite popular as it's something which let people really explore their creative sides. Sure, 3D printers give a lot more options, but to do anything unique with them (rather than just printing models from Thingiverse) you need to learn 3D modelling software. The laser cutter is far more accessible, however, as it feeds off 2D images, which are a lot easier to produce.
 

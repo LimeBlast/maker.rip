@@ -1,7 +1,10 @@
 ---
 title: Jack-o'-lantern out of reclaimed wood
+description: "A Jack-o'-lantern built from reclaimed pallet wood, lit by a Circuit Playground Express running a flickering candle effect."
 date: '2018-10-08 14:19:59'
-image: /assets/img/2018/10/IMG_20181008_141454-1-.jpg
+image:
+  path: /assets/img/2018/10/IMG_20181008_141454-1-.jpg
+  alt: "The wooden Jack-o'-lantern, its carved face glowing orange, next to a potted plant"
 categories:
 - spooktober
 tags:

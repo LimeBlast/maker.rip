@@ -1,7 +1,10 @@
 ---
 title: Danger Danger, High Voltage!
+description: "The book's first project is done: a solar panel charging a 12V battery through a charge controller, with a multimeter wired in to measure it."
 date: '2016-06-10 17:16:00'
-image: /assets/img/2016/06/ps-photo-1422225439441-f09fb9a237b7--1-.jpg
+image:
+  path: /assets/img/2016/06/ps-photo-1422225439441-f09fb9a237b7--1-.jpg
+  alt: "Lightning forking across the night sky above silhouetted trees"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
@@ -14,7 +17,7 @@ Alternatively, the first project in the book is now complete, and I have a batte
 
 Despite rogue couriers delivering my stuff to the wrong address, sweltering heat, and a very demanding (but lovely) girlfriend, I've somehow managed to gather the resources and time needed to assemble the various components into something that actually works (maybe).
 
-![](/assets/img/2016/06/ps-IMG_20160610_191513957--1-.jpg)
+![Solar panel, charge controller, battery and multimeter wired together on a desk](/assets/img/2016/06/ps-IMG_20160610_191513957--1-.jpg)
 
 What we have here is a solar panel with a cable that's connected to the first two terminals on the charge controller. The third terminal is connected to the 10 amp port on the multimeter, which in turn is connected to the positive terminal on the battery via the common port. Finally, the negative terminal on the battery connects to the fourth terminal.
 

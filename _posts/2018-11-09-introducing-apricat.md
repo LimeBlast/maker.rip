@@ -1,7 +1,10 @@
 ---
 title: Introducing Apricat
+description: "Meet Apricat, the ginger and white rescue cat we adopted from the RSPCA, and the reason Project Wildcat exists."
 date: '2018-11-09 19:34:05'
-image: /assets/img/2018/11/IMG_20181103_074113--1-.jpg
+image:
+  path: /assets/img/2018/11/IMG_20181103_074113--1-.jpg
+  alt: "Apricat, a ginger and white cat, lying on a leather sofa beside the TV remote"
 categories:
 - wildcat
 tags:
@@ -42,6 +45,6 @@ We keep the door closed now.
 
 Anyway, we're letting her outside for the first time tomorrow. So provided she comes back, I'll post about Project Wildcat next.
 
-![IMG_20181013_155949--2-](/assets/img/2018/11/IMG_20181013_155949--2-.jpg)
+![Apricat sitting on the living room windowsill, looking outside](/assets/img/2018/11/IMG_20181013_155949--2-.jpg)
 
 UPDATE: She came back in, [but then disaster struck](/2018/11/10/project-wildcat-has-been-delayed/).

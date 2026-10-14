@@ -1,7 +1,10 @@
 ---
 title: Securing the perimeter
+description: "Project 6 is complete: a PIR sensor and Arduino that flash ZOMBIES! and sound a buzzer whenever something moves nearby."
 date: '2016-10-01 21:37:00'
-image: /assets/img/2016/10/pexels-photo-179993--1-.jpg
+image:
+  path: /assets/img/2016/10/pexels-photo-179993--1-.jpg
+  alt: "CCTV cameras on a pole against a blue sky"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
@@ -14,7 +17,7 @@ Next, I attached the PIR sensor to the screw shield. The PIR sensor works by det
 
 The book suggests using a long telephone wire to position the PIR sensor outside the base (it's not a very good detector if it doesn't inform you of the intrusion until they're in the same room as you), but for my testing purposes, I'm happy with it just sitting on the table.
 
-![](/assets/img/2016/10/WhatsApp-Image-2016-09-29-at-8-32-26-PM--1-.jpeg)
+![The PIR zombie detector: an Arduino with screw and LCD keypad shields, wired to a PIR motion sensor](/assets/img/2016/10/WhatsApp-Image-2016-09-29-at-8-32-26-PM--1-.jpeg)
 
 Finally, I compiled the sketch provided by the book, flashed it onto the Arduino, and connected the power. The display told me my battery was full, so I adjusted the power supply up and down and watched meter move up and down in accordance.
 

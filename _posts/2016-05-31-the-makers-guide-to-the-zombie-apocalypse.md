@@ -1,7 +1,10 @@
 ---
 title: The Maker's Guide to the Zombie Apocalypse
+description: "Simon Monk's book teaches electronics through projects for surviving the zombie apocalypse, and it's motivated me to build every one of them."
 date: '2016-05-31 20:03:23'
-image: /assets/img/2018/02/IMG_0695-1-.jpg
+image:
+  path: /assets/img/2018/02/IMG_0695-1-.jpg
+  alt: "A copy of The Maker's Guide to the Zombie Apocalypse by Simon Monk on a wooden table"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 tags:

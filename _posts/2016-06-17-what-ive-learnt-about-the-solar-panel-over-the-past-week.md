@@ -1,7 +1,10 @@
 ---
 title: What I've learnt about the solar panel over the past week
+description: "A week of testing between downpours: shadows halve the output, I had the multimeter on the wrong setting, and the panel hits 1.5 amps in full sun."
 date: '2016-06-17 09:47:29'
-image: /assets/img/2016/06/1-1244733769dJLl--1-.jpg
+image:
+  path: /assets/img/2016/06/1-1244733769dJLl--1-.jpg
+  alt: "Close-up of the cells on a solar panel"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

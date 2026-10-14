@@ -1,7 +1,10 @@
 ---
 title: Learning from one's mistakes
+description: "Project 3, LED lighting, teaches me a lesson about watts: 50-watt bulbs are far too hungry for my 5-amp bench power supply."
 date: '2016-09-01 19:25:32'
-image: /assets/img/2016/09/mistakes--1-.jpg
+image:
+  path: /assets/img/2016/09/mistakes--1-.jpg
+  alt: "Pendant lights made from glass jars, hanging in a row"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

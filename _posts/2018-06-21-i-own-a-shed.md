@@ -1,7 +1,10 @@
 ---
 title: I own a shed!
+description: "I finally have a house with a shed, so the solar panel is back in action, powering a basic control panel and a set of 12V LED lights."
 date: '2018-06-21 14:06:18'
-image: /assets/img/2018/06/OxzhYtL-00Y-1-.jpg
+image:
+  path: /assets/img/2018/06/OxzhYtL-00Y-1-.jpg
+  alt: "A green bicycle leaning against an old weathered wooden shed"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
@@ -16,9 +19,9 @@ This is why I'm so happy that now, just over two years after I first started the
 
 It didn't take long for me to dust off the aforementioned solar panel and jerry-rig together a basic control panel:
 
-![IMG_20180621_140743](/assets/img/2018/06/IMG_20180621_140743.jpg)
+![The solar panel mounted on the roof of the shed](/assets/img/2018/06/IMG_20180621_140743.jpg)
 
-![IMG_20180621_140905](/assets/img/2018/06/IMG_20180621_140905.jpg)
+![The charge controller and multimeter mounted on the shed wall](/assets/img/2018/06/IMG_20180621_140905.jpg)
 
 My original battery bit the bullet a long time ago (I think I run it down too much as I wasn't able to charge it again) so I got myself a small 12volt 1.3Ah one from Maplin (RIP), which is hidden behind the shelf guard. It doesn't have much capacity, but it's the only one they had in stock, and at 75% off it was a bargain.
 
@@ -39,7 +42,7 @@ What does this mean going forward? Well, a combination of:
 
 In among the other tasks this weekend (such as stripping the wallpaper in our lounge), I managed to find the hour or so it took to install the lights.
 
-![IMG_20180625_092346-1-](/assets/img/2018/06/IMG_20180625_092346-1-.jpg)
+![Two strips of 12V LED lights lit up along the shed roof](/assets/img/2018/06/IMG_20180625_092346-1-.jpg)
 
 The pack I ordered had 20 modules, so I figured it was worth installing them all. The sticky pad on the back made it super easy to attach to the wood, then some small screws held them in place.
 

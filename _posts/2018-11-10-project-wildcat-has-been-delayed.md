@@ -1,7 +1,10 @@
 ---
 title: Project Wildcat... has been delayed
+description: "Wildcat, a days-since-last-incident board for the cat, is delayed after I fried its Feather Huzzah with the wrong USB power supply."
 date: '2018-11-10 21:35:58'
-image: /assets/img/2018/11/IMG_20181110_100407-1-.jpg
+image:
+  path: /assets/img/2018/11/IMG_20181110_100407-1-.jpg
+  alt: "Wildcat's parts laid out: the cat-ear frame with its Wildcat since incident panel, the Feather Huzzah in its 3D-printed case, and the LED matrix"
 categories:
 - wildcat
 tags:
@@ -17,7 +20,7 @@ As [mentioned in my previous post](/2018/11/09/introducing-apricat/), the additi
 
 To help combat this I devised the idea of an incident board, such as you'll see in factories showing how long it's been since the last accident, but designed to show how long it's been since Apricat last misbehaved.
 
-![np74ijwbwxo11](/assets/img/2018/11/np74ijwbwxo11.jpg)
+![Scene from Futurama with a Days Without Accident sign](/assets/img/2018/11/np74ijwbwxo11.jpg)
 
 The plan was to use an [Adafruit Feather Huzzah](https://amzn.to/2PSGurk) and a [16x8 LED matrix](https://amzn.to/2Dxtlht), connected with a physical button, and a super cute cat photo frame we found in Homesense, to build a ticker which used data persisted on [Adafruit IO](https://io.adafruit.com/) to calculate and display how long it's been since the button was last pressed.
 
@@ -41,7 +44,7 @@ I had a couple of flashing LEDs on the board, but nothing else. Confused as to w
 
 After a few minutes searching I found the following on the [power management page for the Huzzah](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/power-management):
 
-![Power-Management-_-Adafruit-Feather-HUZZAH-ESP8266-_-Adafruit-Learning-System-2018-11-10-8-pm-33-33](/assets/img/2018/11/Power-Management-_-Adafruit-Feather-HUZZAH-ESP8266-_-Adafruit-Learning-System-2018-11-10-8-pm-33-33.png)
+![Adafruit's warning not to power the Huzzah ESP8266 with a CanaKit 5V power supply, as it destroys the CP2104 chip](/assets/img/2018/11/Power-Management-_-Adafruit-Feather-HUZZAH-ESP8266-_-Adafruit-Learning-System-2018-11-10-8-pm-33-33.png)
 
 The power unit I'd chosen at random was the official Raspberry Pi 3 power adaptor, one which supplied the same 2.5 amps as the CanaKit one in the warning.
 

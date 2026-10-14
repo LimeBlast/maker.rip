@@ -1,7 +1,10 @@
 ---
 title: In the eye of the beholder
+description: "Project 7 uses a Raspberry Pi and a webcam to spot movement, but the cheap webcam's image noise makes it detect zombies everywhere."
 date: '2016-10-05 22:19:21'
-image: /assets/img/2016/10/pexels-photo-alt--1-.jpg
+image:
+  path: /assets/img/2016/10/pexels-photo-alt--1-.jpg
+  alt: "A security camera on a brick wall, partly covered in ivy"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
@@ -16,7 +19,7 @@ Anyway...
 
 The idea behind the project is to monitor a webcam feed for changes between frames (something which might indicate movement) and use the Raspberry Squid (an RGB LED which has been pre-assembled with resistors and connectors to plug it directly into the GPIO ports on the Pi) to notify an operator by turning red.
 
-![](/assets/img/2016/10/2016-10-05-220239_1440x900_scrot.png)
+![Raspbian desktop with the webcam monitoring script running in a terminal beside the webcam feed](/assets/img/2016/10/2016-10-05-220239_1440x900_scrot.png)
 
 If I'm honest, this project has left me a little underwhelmed.
 

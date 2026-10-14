@@ -1,7 +1,10 @@
 ---
 title: I just can't do it Captain, I just don't have the power!
+description: "The battery monitor project hits a wall: my 12V battery reads just 2.37 volts, probably killed by the broken charge controller."
 date: '2016-08-05 17:08:00'
-image: /assets/img/2016/08/photo-1441171205449-f600f908a9f3--1-.jpg
+image:
+  path: /assets/img/2016/08/photo-1441171205449-f600f908a9f3--1-.jpg
+  alt: "A clear incandescent light bulb lying in the grass"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
@@ -14,13 +17,13 @@ This morning brought with it the final component I needed I start on the battery
 
 One of the battery monitor's features is its ability to power it's Arduino component from the battery being tested - but of course, this only works if the battery in question has at least a trickle of power - it would appear that mine doesn't.
 
-![](/assets/img/2016/08/voltchart1.gif)
+![Table of 12V battery voltages and their state of charge, from 12.6V (100%) down to 10.5V (0%)](/assets/img/2016/08/voltchart1.gif)
 
 I still don't fully understand the mechanisms behind this, but a battery's state of change is measured via its voltage output. On a 12-volt battery, a voltage of `12.6` is fully charged, while anything below `10.5` is empty.
 
 Multimeter probes in hand, I measured the voltage on mine: `2.37`. This is severely under voltage, and I'd imagine probably beyond repair. I can't even get an LED to light up using it.
 
-![](/assets/img/2016/08/IMG_20160805_142549282--1-.jpg)
+![The battery monitor: an Arduino with an LCD shield wired to the battery, with a multimeter checking its voltage](/assets/img/2016/08/IMG_20160805_142549282--1-.jpg)
 
 Although I can't be sure, I think this is very possibly related to the broken charge controller I mentioned yesterday, and if nothing else, this is a hard-learned lesson about leaving unused batteries connected.
 

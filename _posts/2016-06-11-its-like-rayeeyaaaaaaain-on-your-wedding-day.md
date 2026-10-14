@@ -1,7 +1,10 @@
 ---
 title: It's like rayeeyaaaaaaain, on your wedding day
+description: "No sun for testing, but the multimeter is finally showing positive readings. Next decision: pedal power for project 2, or lights for project 3?"
 date: '2016-06-11 11:31:48'
-image: /assets/img/2016/06/ps-photo-1448032279986-c25cf997c38e--1-.jpg
+image:
+  path: /assets/img/2016/06/ps-photo-1448032279986-c25cf997c38e--1-.jpg
+  alt: "Sunbeams breaking through dark clouds"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
@@ -12,7 +15,7 @@ categories:
 
 The charge controller has a _PV_ LED on it, which I've now come to realise shows if power is being received from the panel. It also has battery LEDs which show if it's _overlow_, _normal_ or _full_. It was showing overlow during the phone charge experiment yesterday and has shown normal the rest of the time. I'm hoping that I'll see the full LED light up at some point, but I'm going to need some better weather else it's going to take a very long time to happen.
 
-![](/assets/img/2016/06/ps-IMG_20160611_112729278--1-.jpg)
+![The solar charging rig on the balcony: the panel propped on a chair, with the charge controller, battery and multimeter on a small table](/assets/img/2016/06/ps-IMG_20160611_112729278--1-.jpg)
 
 Anyway, I'm now at a juncture and need to make a decision. Do I continue on to project 2 and learn how to manually charge the battery using a bicycle (perfect for days without the sun like today), or skip forward to project 3 and rig up some lights?
 

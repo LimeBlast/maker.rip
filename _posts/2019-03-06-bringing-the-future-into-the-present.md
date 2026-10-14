@@ -1,7 +1,10 @@
 ---
 title: Bringing the Future into the Present
+description: "Slides and speaker notes from my Worcester Source talk on achieving your goals."
 date: '2019-03-06 15:19:43'
-image: /assets/img/2019/03/ddeabf38a86146eff02f35468fbfc6b8.jpg
+image:
+  path: /assets/img/2019/03/ddeabf38a86146eff02f35468fbfc6b8.jpg
+  alt: "Quote over a starry mountain landscape: Planning is bringing the future into the present so that you can do something about it now. Alan Lakein"
 category: 
 - personal
 tags: 

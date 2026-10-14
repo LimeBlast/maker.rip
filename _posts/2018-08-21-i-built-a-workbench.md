@@ -1,7 +1,10 @@
 ---
 title: I built a workbench
+description: "The first Weekend Woodworker project, the Basic Mobile Workbench, plus first impressions of my mitre saw, impact driver and circular saw."
 date: '2018-08-21 15:03:41'
-image: /assets/img/2018/08/IMG_20180821_143420-1-.jpg
+image:
+  path: /assets/img/2018/08/IMG_20180821_143420-1-.jpg
+  alt: "The finished workbench, painted lime green with a plywood top, in the shed"
 categories:
 - weekend-woodworker
 ---
@@ -14,7 +17,7 @@ The course says each project should be easily completed within two days, but as 
 
 It isn't perfect - like, at all. Even a cursory glance at it shows gaps in the joins and wonky cuts, but it's very strong and stable:
 
-![IMG_20180818_183541-1-](/assets/img/2018/08/IMG_20180818_183541-1-.jpg)
+![Me standing on the finished workbench to show how sturdy it is](/assets/img/2018/08/IMG_20180818_183541-1-.jpg)
 
 This was the first time I used a lot of my new tools _in anger_, with my [Evolution R210SMS mitre saw](https://shop.evolutionpowertools.com/products/r210sms-210mm-sliding-mitre-saw) taking centre stage. Having never used a mitre saw before, I don't have anything to compare it with, but with minimal set-up out of the box, everything seemed to be square and true, and it cut everything I put in it.
 
@@ -22,7 +25,7 @@ I think the only time I had any problems with the saw was when trying to cut the
 
 I'm really happy I got the [stand](https://shop.evolutionpowertools.com/products/mitre_saw_stand) for it, as I didn't have any suitable surfaces to use it on, and really didn't fancy using it on the floor - I guess I could made do with the floor for this build then mount it on my newly built workbench (as Steve himself suggests) - but the raw materials for the workbench cost far too much to limit it's function like this, as the workbench is versatile enough, and the stand cheap enough, that it was a worthy investment.
 
-![IMG_20180818_120829-1-](/assets/img/2018/08/IMG_20180818_120829-1-.jpg)
+![The mitre saw on its stand in the garden, next to a folding workbench](/assets/img/2018/08/IMG_20180818_120829-1-.jpg)
 
 The stand also provided adjustable arms on either side which could be used to support longer lengths of wood, as well as act as stop blocks, meaning I could avoid using a length of timber mounted to the saw itself for this purpose (as suggested by Steve). I think Steve's approach here is good if you don't have any alternatives, but I feel it wastes wood, unless you're able to keep using the same piece (which just seems impractical).
 
@@ -30,7 +33,7 @@ The second most used tool was my [Bosch PDR18 LI impact driver](https://amzn.to/
 
 I think my only complaint with the driver is the case it came with. This is in comparison to the Bosch drill from the same range, which had a perfectly formed case that was designed to hold everything firmly in place - unlike the one for the impact driver, which wasn't nearly as snugly designed, meaning everything feels loose - and there isn't a really suitable spot for storing a spare battery:
 
-![IMG_20180821_153324-1-](/assets/img/2018/08/IMG_20180821_153324-1-.jpg)
+![The Bosch impact driver and drill side by side in their cases](/assets/img/2018/08/IMG_20180821_153324-1-.jpg)
 
 It feels like a silly thing to criticise, and if not for the fact I already owned the drill I'd have not even realised it - I guess I'm just disappointed that Bosch can do better, they just didn't. I don't think this would stop be recommending it, however.
 

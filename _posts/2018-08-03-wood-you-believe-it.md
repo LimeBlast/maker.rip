@@ -1,8 +1,10 @@
 ---
 title: Wood you believe it?
 date: '2018-08-03 21:07:48'
-description: I’m not sure at what point I’m going to be able to legitimately call myself a woodworker, but I became one step closer to that point today as I’ve finally cut some wood in anger.
-image: /assets/img/2018/08/alex-jones-6800-unsplash-1-.jpg
+description: "I’m not sure at what point I’m going to be able to legitimately call myself a woodworker, but I became one step closer to that point today as I’ve finally cut some wood in anger."
+image:
+  path: /assets/img/2018/08/alex-jones-6800-unsplash-1-.jpg
+  alt: "Stacks of rough-sawn timber planks"
 categories:
 - weekend-woodworker
 ---
@@ -32,11 +34,11 @@ The boards fit in my shed without issue, but the plywood panel was just too big,
 
 Using a clamping straight edge, carpenters square, a couple of workbenches, and a tape measure, along with my circular saw, I was able to cut a straight line. It wasn't a square cut, but it was a straight one.
 
-![IMG_20180803_161628-1-](/assets/img/2018/08/IMG_20180803_161628-1-.jpg)
+![A sheet of plywood across two folding workbenches, ready to cut with the circular saw](/assets/img/2018/08/IMG_20180803_161628-1-.jpg)
 
 I repeated the process a second time, and ended up with three pieces - two of them will be laminated together (one glued on top of the other, leaving something that's twice as thick) and will act at the workbench surface, and the third will be further cut into shelves.
 
-![IMG_20180803_163640-1-](/assets/img/2018/08/IMG_20180803_163640-1-.jpg)
+![The cut plywood pieces leaning against the shed wall](/assets/img/2018/08/IMG_20180803_163640-1-.jpg)
 
 I think the most important lesson I've learned from this, via the aforementioned mistake, is to measure everything twice before you cut, and to take full advantage of the carpenters square - don't just assume the straight edge clamp is square, always check and double check.
 

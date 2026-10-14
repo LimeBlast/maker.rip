@@ -1,7 +1,10 @@
 ---
 title: Prime day was eventful, for all the wrong reasons
+description: "Prime Day money went on a smartwatch instead of parts, but payday brought lamp holders, bulbs, Arduino shields and a PIR sensor for the next projects."
 date: '2016-08-04 17:28:14'
-image: /assets/img/2016/08/photo-1443175679639-685643a7fd62--1-.jpg
+image:
+  path: /assets/img/2016/08/photo-1443175679639-685643a7fd62--1-.jpg
+  alt: "Aerial view of city streets lit up at night"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

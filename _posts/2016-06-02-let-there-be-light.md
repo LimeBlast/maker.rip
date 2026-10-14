@@ -1,14 +1,17 @@
 ---
 title: Let there be light
+description: "The solar panel has arrived. Before it goes on the balcony, I take some first readings with the multimeter from the safety of the living room."
 date: '2016-06-02 16:47:15'
-image: /assets/img/2016/06/let-there-be-light--1-.jpg
+image:
+  path: /assets/img/2016/06/let-there-be-light--1-.jpg
+  alt: "A person standing on the tip of a grassy headland, looking out over a calm sea at sunrise"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
 <p class="intro">The <a href="https://amzn.to/1XT5QkY">solar panel</a> arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.</p>
 
-![](/assets/img/2016/06/solar-panel--1-.jpg)
+![The new 20W solar panel propped against a window](/assets/img/2016/06/solar-panel--1-.jpg)
 
 Obviously, the point of a solar panel is to sit outside and soak up the sun's tasty, tasty rays, converting them into electricity as it does so. But for this to happen I need to figure out how to safely attach it to my balcony, so it doesn't fall and kill anyone.
 

@@ -1,7 +1,10 @@
 ---
 title: My goals are in sight
+description: "Building a display to keep my yearly goals in sight: a MagicMirror² prototype, then a Screenly slideshow on a Raspberry Pi touchscreen."
 date: '2019-01-15 09:57:56'
-image: /assets/img/2019/01/IMG_20190115_090111-1-.jpg
+image:
+  path: /assets/img/2019/01/IMG_20190115_090111-1-.jpg
+  alt: "The goals slideshow on a 7-inch touchscreen on a windowsill, next to a plant in a smiling teacup"
 categories:
 - personal
 tags:
@@ -16,7 +19,7 @@ tags:
 The setup is quite simple - at the start of each year I review the goals in the previous year's column, using a sticker to indicate success or otherwise, then create a new column for the upcoming year. Each goal is written using the [SMART methodology](https://en.wikipedia.org/wiki/SMART_criteria), and added as a card, then embellished with an image that represents the goal to serve as visual reminder.
 
 <figure>
-  <img src="/assets/img/2019/01/trello-goals-1-.png" alt="" loading="lazy">
+  <img src="/assets/img/2019/01/trello-goals-1-.png" alt="The Trello board, with a column of illustrated goal cards for each year" loading="lazy">
   <figcaption>All my ducks in a row</figcaption>
 </figure>
 
@@ -35,7 +38,7 @@ My first attempt at this was to use the [MagicMirror²](https://magicmirror.buil
 Not content to let something as silly as that stop me, I reached into my [LEAN methodology](https://leankit.com/learn/lean/lean-methodology/) toolkit, grabbed a Raspberry Pi and an old laptop screen, and set about creating a [Minimum Viable Product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product) - that is, just enough to prove the concept without using too many resources. In this instance, that meant installing the software and exploring the options provided within.
 
 <figure>
-  <img src="/assets/img/2019/01/mvp.png" alt="" loading="lazy">
+  <img src="/assets/img/2019/01/mvp.png" alt="Henrik Kniberg&#39;s MVP drawing: building a car one part at a time leaves the user unhappy until the end, while a skateboard, scooter, bike, motorbike then car keeps them happy throughout" loading="lazy">
   <figcaption>Illustration by <a href="https://blog.crisp.se/author/henrikkniberg">Henrik Kniberg</a></figcaption>
 </figure>
 
@@ -54,7 +57,7 @@ I reviewed a couple of choices, including a [Fullscreen Background Image Slidesh
 I already had the images and wording for the goals, so it took no more than about an hour to update my own content into the template, and make some small changes to the design and functionality, and before I knew it, I had a sideshow hosted on GitHub.
 
 <figure>
-  <img src="/assets/img/2019/01/Screenshot_2019-01-15-2019-Saurus-Goals-1-.jpg" alt="" loading="lazy">
+  <img src="/assets/img/2019/01/Screenshot_2019-01-15-2019-Saurus-Goals-1-.jpg" alt="A goals slide showing a hiker in a forest, with the text: We will complete six hikes of no less than 10 miles each before the end of the year" loading="lazy">
   <figcaption>Completing six hikes is one of my goals for 2019</figcaption>
 </figure>
 
@@ -65,7 +68,7 @@ By definition, a yearly goal is something you set once a year, and the 30 minute
 That's not to say I'd never make the slide show dynamic - it might be fun to learn the Trello API, and I could probably do the whole thing using client side JavaScript, or as a Ruby Serverless application, but the LEAN methodology advocated failing fast, such as I did with the MagicMirror² approach, so there's no point spending any time even looking at anything like that when there's a quicker way of achieving the same end result.
 
 <figure>
-  <img src="/assets/img/2019/01/3069944_3x2_fail_fast.jpg" alt="" loading="lazy">
+  <img src="/assets/img/2019/01/3069944_3x2_fail_fast.jpg" alt="Graphic reading: The faster you can fail, the faster you can succeed" loading="lazy">
   <figcaption>‘The faster you can fail, the faster you can succeed’</figcaption>
 </figure>
 
@@ -74,7 +77,7 @@ That's not to say I'd never make the slide show dynamic - it might be fun to lea
 Now that I had an eye-catching slide show of goals hosted on GitHub, all that remained was to install Screenly and point it at the page. But it's at this point that I took a second pivot - given the sheer mess of components needed to make the laptop screen work, was this really the best approach?
 
 <figure>
-  <img src="/assets/img/2019/01/IMG_20190115_093324-1-.jpg" alt="" loading="lazy">
+  <img src="/assets/img/2019/01/IMG_20190115_093324-1-.jpg" alt="The prototype: an old laptop screen wired to a Raspberry Pi and driver board, with a keyboard in front" loading="lazy">
 </figure>
 
 To make a suitable enclosure for the display, driver board, and Pi, would take more effort that I really wanted to spend, and seeing as I am still planning on building my own smart mirror (spurred on by how impressed I was with the MagicMirror² platform, even if it wasn't suitable for this project) I'd rather keep these components for that.
@@ -84,5 +87,5 @@ So instead, as you will see from the feature image for this post, I used my [7" 
 All in all, I'm very happy with the outcome of this project, even if it didn't end up look anything like I thought it would, because I think the end result is far better than what I initially had in mind, and I was able to reach it quickly and easily.
 
 <figure>
-  <img src="/assets/img/2019/01/path-to-success-1.jpg" alt="" loading="lazy">
+  <img src="/assets/img/2019/01/path-to-success-1.jpg" alt="Two sketches of the path to success: what people think it looks like is a straight arrow, what it really looks like is a tangled scribble" loading="lazy">
 </figure>

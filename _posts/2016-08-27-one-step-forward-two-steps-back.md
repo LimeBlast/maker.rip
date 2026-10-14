@@ -1,7 +1,10 @@
 ---
 title: One step forward, two steps back
+description: "A new bench power supply gets the battery monitor working, then I seem to break my second Arduino while setting up the PIR zombie detector."
 date: '2016-08-27 14:28:47'
-image: /assets/img/2016/08/one_step--1-.jpg
+image:
+  path: /assets/img/2016/08/one_step--1-.jpg
+  alt: "Someone in ripped jeans jumping on a leaf-covered woodland path"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
@@ -20,7 +23,7 @@ Nothing I do seems to be working out quite as intended, as even within the comfo
 
 Yesterday saw the delivery of my [DC Bench Power Supply](https://amzn.to/2bObzar). This is what I've purchased in lieu of using car batteries to power my projects, as it'll give me a lot more control over the power supplied to the projects, letting me emulate the different states of charge in a battery, for example.
 
-![](/assets/img/2016/08/bps--1-.jpg)
+![The new bench power supply connected to a multimeter](/assets/img/2016/08/bps--1-.jpg)
 
 I also think it'll be a handy tool going forward in my electronics learning, as I've heard it described as the second most important thing in an electronics toolkit, after the multimeter. 
 

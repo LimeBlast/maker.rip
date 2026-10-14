@@ -1,7 +1,10 @@
 ---
 title: I can print you one of those...
+description: "Assembling a Prusa i3 MK2S 3D printer kit, and its first prints: a whistle, keychains, a fleet of Benchys, and replacement parts for itself."
 date: '2017-08-27 20:30:00'
-image: /assets/img/2017/08/3d-printer-1-.jpg
+image:
+  path: /assets/img/2017/08/3d-printer-1-.jpg
+  alt: "A jumble of wooden letterpress type blocks"
 categories:
 - other-builds
 tags:
@@ -22,19 +25,19 @@ After about 8 hours assembling on the Thursday I took a break for the rest of th
 
 He arrived at 9am on the Saturday, and after a few hours _tightening this and readjusting that_ he started the first print, a whistle design that shipped with the printer:
 
-![](/assets/img/2017/08/whistle-1-.jpg)
+![A grey 3D-printed whistle embossed with the letters JP](/assets/img/2017/08/whistle-1-.jpg)
 
 This was shortly followed by a couple of [keychains I'd designed using Tinkercad]( https://www.tinkercad.com/things/4PpOsidxtfM-danielsaurus-keychain):
 
-![](/assets/img/2017/08/sauruschain-1-.jpg)
+![Two 3D-printed keychains reading Lucysaurus and Danielsaurus](/assets/img/2017/08/sauruschain-1-.jpg)
 
 And then the first:
 
-![](/assets/img/2017/08/benchy-1-.jpg)
+![A grey 3D-printed Benchy boat](/assets/img/2017/08/benchy-1-.jpg)
 
 of many [benchys](https://www.3dbenchy.com/) (a print designed to benchmark printers and filaments, and helps diagnose problems):
 
-![](/assets/img/2017/08/fleet-1-.jpg)
+![Six 3D-printed Benchy boats in a row, in different colours](/assets/img/2017/08/fleet-1-.jpg)
 
 The first functional print was a new [spool holder](https://www.thingiverse.com/make:371893) (with the very concept of the printer being able to fabricate its own replacement parts blowing Cos' mind), followed by a [cable holder](https://www.thingiverse.com/make:372338) and a caddy for the Raspberry Pi running [Octoprint](https://octoprint.org/) (software which lets me control the printer and issue jobs to it remotely).
 

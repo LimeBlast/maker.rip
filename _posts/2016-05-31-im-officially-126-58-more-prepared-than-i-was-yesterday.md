@@ -1,7 +1,10 @@
 ---
 title: I'm officially £126.58 more prepared than I was yesterday
+description: "I spent £126.58 on Amazon for the book's first project: a solar panel kit, a 12V battery, cabling and a multimeter."
 date: '2016-05-31 21:30:17'
-image: /assets/img/2016/06/light-at-night--1-.jpg
+image:
+  path: /assets/img/2016/06/light-at-night--1-.jpg
+  alt: "A person on a wooden boardwalk at night, shining a torch beam up into a starry sky"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

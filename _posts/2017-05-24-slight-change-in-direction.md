@@ -1,7 +1,10 @@
 ---
 title: Slight change in direction
+description: "Four and a half projects into the book, I'm shifting focus to the Instructables classes and anything else maker-related."
 date: '2017-05-24 18:29:12'
-image: /assets/img/2017/05/brendan-church-182747--1-.jpg
+image:
+  path: /assets/img/2017/05/brendan-church-182747--1-.jpg
+  alt: "Two One Way street signs pointing in opposite directions"
 categories:
 - personal
 tags:
