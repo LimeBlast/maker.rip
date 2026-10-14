@@ -33,4 +33,4 @@ The last thing I did was use the Circuit Playground Express I got via my Hackspa
 <a class="embedly-card" data-card-controls="0" href="https://imgur.com/a/WAYOXkx#vh1fmIg">Wooden Jack-o'-lantern</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Anyway, my next post will be about the 3rd project in the [Weekend Woodworker course](/category/weekend-woodworker/). I built it last weekend, but need to do a ton more sanding on it before I apply a finish. Expect that post before the start of next week.
+Anyway, my next post will be about the 3rd project in the [Weekend Woodworker course](/categories/weekend-woodworker/). I built it last weekend, but need to do a ton more sanding on it before I apply a finish. Expect that post before the start of next week.

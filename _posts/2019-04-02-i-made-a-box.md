@@ -7,7 +7,7 @@ tags: worcester
 ---
 <p class="intro"><em>Last night I attended the first of five evening woodworking classes at <a href="https://www.worcestercommunitytrust.org.uk/building-block/">The Building Block</a>, a local community center in Worcester</em></p>
 
-As anyone that's read my review in Hackspace magazine knows, [I'm currently learning woodworking](/category/weekend-woodworker/) via an online course, so when I discovered there was a locally run evening class I jumped at the chance to attend (dragging my friend Kathryn along for the ride).
+As anyone that's read my review in Hackspace magazine knows, [I'm currently learning woodworking](/categories/weekend-woodworker/) via an online course, so when I discovered there was a locally run evening class I jumped at the chance to attend (dragging my friend Kathryn along for the ride).
 
 After the prerequisite health and safety bits (including being issued with safety glasses), and a brief introduction on how to use the tools available, we were challenged with making a box.
 
