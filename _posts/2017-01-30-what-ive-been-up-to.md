@@ -9,7 +9,7 @@ categories:
 - personal
 ---
 
-<p class="intro">It's been a while since my last post, so I wanted to spend a moment talking about what I've been up to.</p>
+It's been a while since my last post, so I wanted to spend a moment talking about what I've been up to.
 
 In the first instance, I should probably talk about my progress in the book. Basically, I got to a point where it was becoming difficult to complete the projects without spending ever more money on things which would only ever serve the purpose of the book - that is, beyond constructing whatever gizmo the chapter asked for, and learning the small nugget of knowledge as a result, it was becoming difficult to justify the cost.
 

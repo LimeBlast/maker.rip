@@ -11,7 +11,7 @@ tags:
 - personal
 ---
 
-<p class="intro"><em>It was around 7:30 in the morning when Lucy awoke. At first she was confused as to why her body would even consider consciousness at this early hour on a weekend.</em></p>
+_It was around 7:30 in the morning when Lucy awoke. At first she was confused as to why her body would even consider consciousness at this early hour on a weekend._
 
 _She thought to herself "Are we going on Holiday today?" before remembering" No, we've only just got back from Cheddar"._
 

@@ -9,7 +9,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">As mentioned in my last post, the weather has been terrible for testing the solar panel.</p>
+As mentioned in my last post, the weather has been terrible for testing the solar panel.
 
 We've had enough rain over the past few days that [various parts of Birmingham have flooded](https://www.birminghammail.co.uk/news/midlands-news/replay-flooding-birmingham-midlands-heavy-11471446), and my own route into town, via one of the tunnels under the ring road, required some _parkour_ to traverse without getting my feet wet.
 

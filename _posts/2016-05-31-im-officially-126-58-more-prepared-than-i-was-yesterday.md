@@ -9,7 +9,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">So I'm pretty much just going to dive right in... (<a href="https://web.archive.org/web/20221127055556/https://talk.birmingham.io/t/what-im-doing-to-prepare-for-the-zombie-apocalypse/2568">If you want some background, check out my thread on birmingham.io</a>).</p>
+So I'm pretty much just going to dive right in... ([If you want some background, check out my thread on birmingham.io](https://web.archive.org/web/20221127055556/https://talk.birmingham.io/t/what-im-doing-to-prepare-for-the-zombie-apocalypse/2568)).
 
 -----------------
 

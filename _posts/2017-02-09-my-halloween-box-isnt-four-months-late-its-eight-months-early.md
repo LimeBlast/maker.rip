@@ -11,7 +11,7 @@ tags:
 - halloween
 ---
 
-<p class="intro">Back in September 2016, inspired a bunch of cool looking projects I found on <a href="https://www.instructables.com/">Instructables</a>, along with access to a laser cutter, and some stock art, I decided to fully embrace this whole maker thing by making a project of my own.</p>
+Back in September 2016, inspired a bunch of cool looking projects I found on [Instructables](https://www.instructables.com/), along with access to a laser cutter, and some stock art, I decided to fully embrace this whole maker thing by making a project of my own.
 
 {% include youtube.html id='PyFV2pUYBxk' title="Halloween box project" %}
 

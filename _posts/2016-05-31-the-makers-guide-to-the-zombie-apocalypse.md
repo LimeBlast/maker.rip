@@ -13,7 +13,7 @@ tags:
 - raspberry-pi
 ---
 
-<p class="intro"><a href="https://amzn.to/1spRddk">The Maker's Guide to the Zombie Apocalypse</a>, a book written by Simon Monk (who I gather is quite well known within the maker community, having <a href="https://amzn.to/1spRqwW">authored various books</a> on the Arduino and Raspberry Pi), is clearly something that knows how to motivate me.</p> 
+[The Maker's Guide to the Zombie Apocalypse](https://amzn.to/1spRddk), a book written by Simon Monk (who I gather is quite well known within the maker community, having [authored various books](https://amzn.to/1spRqwW) on the Arduino and Raspberry Pi), is clearly something that knows how to motivate me.
 
 Based around the idea that the zombie apocalypse is just around the corner, it uses that theme and setting to teach the basics of electronics, by showing you how to build a number of practical projects using components which will be readily salvageable after the dead have risen.
 

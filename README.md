@@ -30,8 +30,6 @@ tags:
 - some-tag
 ---
 
-<p class="intro">Opening line, styled as the intro.</p>
-
 Body in Markdown.
 
 ![What the photo shows](/assets/img/2026/10/photo.jpg)

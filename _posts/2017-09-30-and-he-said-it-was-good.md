@@ -13,7 +13,7 @@ tags:
 - sonoff
 ---
 
-<p class="intro">I'm not sure why I've not spoken about this before, but back in June, after starting the <a href="https://www.instructables.com/Electronics-Class/">Electronics class on Instructables</a>, I completed my second large maker project: a <a href="https://www.instructables.com/id/Build-a-Mad-Scientist-Light/#comment-CMMSLIYJ3EPQVMC">Mad Scientist Light</a>.</p>
+I'm not sure why I've not spoken about this before, but back in June, after starting the [Electronics class on Instructables](https://www.instructables.com/Electronics-Class/), I completed my second large maker project: a [Mad Scientist Light](https://www.instructables.com/id/Build-a-Mad-Scientist-Light/#comment-CMMSLIYJ3EPQVMC).
 
 ![The finished Mad Scientist Light: three vintage filament bulbs on brass holders, mounted on a stained wooden box](/assets/img/2017/09/IMG_20170604_151522.jpg)
 

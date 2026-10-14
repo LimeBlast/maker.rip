@@ -9,7 +9,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">The <a href="https://amzn.to/1XT5QkY">solar panel</a> arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.</p>
+The [solar panel](https://amzn.to/1XT5QkY) arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.
 
 ![The new 20W solar panel propped against a window](/assets/img/2016/06/solar-panel--1-.jpg)
 

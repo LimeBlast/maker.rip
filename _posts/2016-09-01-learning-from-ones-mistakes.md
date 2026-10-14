@@ -9,7 +9,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">After a number of failures with the other projects I've worked on recently, I was looking forward to a success with Project 3: LED Lights.</p>
+After a number of failures with the other projects I've worked on recently, I was looking forward to a success with Project 3: LED Lights.
 
 How hard can it be to wire up some LEDs? [I've done it at least once before](/2016/08/07/you-light-up-my-heart/), so surely this project is the same thing - just with larger LEDs? Bash 3 LEDs into a parallel circuit with the bench power supply, add a fuse to stop things from exploding, jobs a good'un.
 

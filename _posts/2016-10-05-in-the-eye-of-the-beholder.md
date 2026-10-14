@@ -9,7 +9,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">When we last left our handsome hero he was <a href="/2016/10/01/securing-the-perimeter/">securing the perimeter</a> using a PIR sensor and an Arduino. The rig was designed to raise an alarm via a piezo buzzer when the sensor detected movement. With the ability to easily place PIR sensors along the base's perimeter, it was good for telling you that someone (or something) was at the door, but not who (or what).</p>
+When we last left our handsome hero he was [securing the perimeter](/2016/10/01/securing-the-perimeter/) using a PIR sensor and an Arduino. The rig was designed to raise an alarm via a piezo buzzer when the sensor detected movement. With the ability to easily place PIR sensors along the base's perimeter, it was good for telling you that someone (or something) was at the door, but not who (or what).
 
 Unhappy with his lack of visibility outside the base (and because it was the next project in the book), he armed himself with the upgraded arsenal of a [Raspberry Pi](https://amzn.to/2dL9xqJ), [Raspberry Squid](https://amzn.to/2dw9EaG), and [USB webcam](https://amzn.to/2dSFYYn), and started working on Project 7: Monitor Zombies with a USB Webcam.
 

@@ -7,7 +7,7 @@ image:
 category: the-building-block
 tags: worcester
 ---
-<p class="intro"><em>Last night I attended the first of five evening woodworking classes at <a href="https://www.worcestercommunitytrust.org.uk/building-block/">The Building Block</a>, a local community center in Worcester</em></p>
+Last night I attended the first of five evening woodworking classes at [The Building Block](https://www.worcestercommunitytrust.org.uk/building-block/), a local community center in Worcester
 
 As anyone that's read my review in Hackspace magazine knows, [I'm currently learning woodworking](/categories/weekend-woodworker/) via an online course, so when I discovered there was a locally run evening class I jumped at the chance to attend (dragging my friend Kathryn along for the ride).
 
@@ -23,10 +23,8 @@ Anyway, in addition to the table saw, we had access to drills and drivers, a mit
 
 Not the most elegant thing, but a good project to use the tools for, and one which you won't worry too much about _getting wrong_.
 
-<figure>
-  <img src="/assets/img/2019/04/my-box-1.jpg" alt="A simple open pine box made from flooring planks" loading="lazy">
-  <figcaption>My box, in all its glory</figcaption>
-</figure>
+![A simple open pine box made from flooring planks](/assets/img/2019/04/my-box-1.jpg)
+_My box, in all its glory_
 
 While we're free to continue building boxes for the remainder of the sessions, the general idea is that we choose a project to work on. For my own part, I think I'm interested in learning to make frames, but I also spied a lathe in the corner, which I'm super keen on playing with as it was watching turning videos on YouTube by people like Peter Brown which piqued my interest in woodworking in the first place.
 

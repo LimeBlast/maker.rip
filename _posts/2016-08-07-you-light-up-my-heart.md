@@ -11,7 +11,7 @@ tags:
 - circuit-stickers
 ---
 
-<p class="intro">If you'll indulge me for just a moment, I want to talk about something which isn't related to zombies, but is about electronics and my attempts to get creative.</p>
+If you'll indulge me for just a moment, I want to talk about something which isn't related to zombies, but is about electronics and my attempts to get creative.
 
 With the failure of the battery monitor project, I was determined to end the day having actually achieved something, so I decided to take a look at my [Circuit Stickers Starter Kit](https://shop.pimoroni.com/products/chibi-lights-led-circuit-stickers-stem-starter-kit).
 

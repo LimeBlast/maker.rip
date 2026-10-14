@@ -9,7 +9,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">Unfortunately, today has turned into a bit of a failure.</p>
+Unfortunately, today has turned into a bit of a failure.
 
 This morning brought with it the final component I needed I start on the battery monitor project. At lunchtime, I quickly assembled the relevant bits and connected the battery...
 

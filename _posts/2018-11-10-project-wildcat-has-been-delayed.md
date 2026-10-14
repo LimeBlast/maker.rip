@@ -14,7 +14,7 @@ tags:
 - arduino
 ---
 
-<p class="intro">It is with no small amount of sadness that I have to report that, in the final stretches of the build of Wildcat, I've inadvertently managed to set my progress back for a few days.</p>
+It is with no small amount of sadness that I have to report that, in the final stretches of the build of Wildcat, I've inadvertently managed to set my progress back for a few days.
 
 As [mentioned in my previous post](/2018/11/09/introducing-apricat/), the addition of a new member of the family hasn't been without its issues, with Apricat being somewhat liberal in her use of tooth and claw to show her distrust of us.
 

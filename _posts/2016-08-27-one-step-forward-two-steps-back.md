@@ -9,7 +9,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">One of my friends, a young gentleman by the name of Cos, has a healthy respect for the idea that the zombie apocalypse isn't an <em>if</em> - but a <em>when</em>. This is something which informs his everyday life, and will often guide his decisions.</p>
+One of my friends, a young gentleman by the name of Cos, has a healthy respect for the idea that the zombie apocalypse isn't an <em>if</em> - but a <em>when</em>. This is something which informs his everyday life, and will often guide his decisions.
 
 Don't get me wrong, Cos isn't a prepper, but he does, for example, like to get good quality hardware in case he needs it to fend off an attack. On many occasions, you'd have found us in Homebase discussing the pros and cons of various kitchen knives in relation to this very purpose.
 

@@ -9,7 +9,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-<p class="intro">Just a quickie, this time, to let you know I've finally completed Project 6: PIR Zombie Detector.</p>
+Just a quickie, this time, to let you know I've finally completed Project 6: PIR Zombie Detector.
 
 I'm not exactly sure what I did wrong the last time, although it's a safe bet that I probably fried the Arduino via too much current. Determined to not do it again, I was very careful to set the upper voltage of my power supply to `12.6v`.
 

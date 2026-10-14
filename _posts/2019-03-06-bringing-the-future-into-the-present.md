@@ -12,7 +12,7 @@ tags:
 - planning
 ---
 
-<p class="intro"><em>It was around 6:58pm when I stood up. The room only had eight people in it, but they are all looking at me, expectantly. Fuelled by the pint of stout I'd just polished off, I begun to talk.</em></p>
+It was around 6:58pm when I stood up. The room only had eight people in it, but they are all looking at me, expectantly. Fuelled by the pint of stout I'd just polished off, I begun to talk.
 
 When I'm not building websites or playing with wood, I run a local meetup group called [Worcester Source](https://web.archive.org/web/20190821212353/https://www.worcestersource.club/). On the 4th Wednesday of each month, the members of the group gather at The Paul Pry pub, and after eating some pizza and drinking some beer, they stop and listen to a presentation given by a speaker on a technical subject of interest. 
 

@@ -9,7 +9,7 @@ categories:
 - weekend-woodworker
 ---
 
-<p class="intro">This weekend I completed the first project from <a href="https://theweekendwoodworker.com/">the Weekend Woodworker course</a> by <a href="https://www.youtube.com/user/stevinmarin">Steve Ramsey</a>, and I'm actually proud enough of it that I'm going to use it as the feature image for this post, instead of my usual click bait stock photos.</p>
+This weekend I completed the first project from [the Weekend Woodworker course](https://theweekendwoodworker.com/) by [Steve Ramsey](https://www.youtube.com/user/stevinmarin), and I'm actually proud enough of it that I'm going to use it as the feature image for this post, instead of my usual click bait stock photos.
 
 As you can see, the first project is the Basic Mobile Workbench, or BMW. It's designed to be built using four 50x100mm boards, a single 25x50mm board, and a single sheet of 18mm plywood.
 
