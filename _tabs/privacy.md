@@ -26,7 +26,7 @@ You can stop this tracking by blocking the script `pythia.limeblast.co.uk/omen.j
 
 The site is hosted by GitHub Pages, so GitHub processes your IP address to deliver pages and keep its service secure, as described in the [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The fonts and scripts the site needs are served from maker.rip itself, not from Google or other third parties.
 
-Videos appear as pictures that link to YouTube, so nothing loads from YouTube unless you click through. One post, [Wildcat is live (and angry)](/2018/11/19/wildcat-is-live-and-angry/), embeds a 3D model from Autodesk's Tinkercad, which loads from Autodesk, and may set Autodesk's own cookies, when you open that post ([Autodesk Privacy Statement](https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement)).
+Videos and 3D models appear as pictures that link to YouTube or Tinkercad, so nothing loads from those services unless you click through.
 
 Links to other sites, including Amazon, lead to services with their own privacy policies.
 
