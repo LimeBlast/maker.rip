@@ -2,7 +2,9 @@
 title: I own a workshop!
 date: 2019-06-01 12:00 +0100
 description: "A year after moving in, my shed has evolved into a proper workshop, thanks to my parents. Here's how it went up over a week."
-# Header image missing: IMG_20190523_161526.jpg (the last photo below)
+image:
+  path: /assets/img/2019/06/IMG_20190523_161526.jpg
+  alt: "The finished workshop, a timber building with a row of windows and double doors, on its paved base"
 categories:
 - personal
 tags:
@@ -19,32 +21,24 @@ I plan on doing a full post about the workshop (including a video tour of my set
 <!-- missing: IMG_20190518_151935.jpg -->
 ![Missing photo: the workshop's groundwork at the end of the day, 18 May 2019](/assets/img/missing-photo.svg)
 
-<!-- missing: IMG_20190519_162741.jpg -->
-![Missing photo: the workshop's groundwork at the end of the day, 19 May 2019](/assets/img/missing-photo.svg)
+![The garden cleared ready for the workshop's groundwork, with a fire basket on the bare earth](/assets/img/2019/06/IMG_20190519_162707.jpg)
 
-<!-- missing: IMG_20190520_155730.jpg -->
-![Missing photo: the workshop build at the end of the day, 20 May 2019](/assets/img/missing-photo.svg)
+![The workshop site cleared to bare earth behind a new sleeper retaining wall, with a ginger and white cat wandering across](/assets/img/2019/06/IMG_20190520_155730.jpg)
 
-<!-- missing: IMG_20190521_193554.jpg -->
-![Missing photo: the workshop build at the end of the day, 21 May 2019](/assets/img/missing-photo.svg)
+![Paving slabs laid on the raised sleeper base, with a wheelbarrow and cement mixer beyond](/assets/img/2019/06/IMG_20190521_193554.jpg)
 
-<!-- missing: IMG_20190522_135015.jpg -->
-![Missing photo: the workshop build at the end of the day, 22 May 2019](/assets/img/missing-photo.svg)
+![The base fully paved, with a cement mixer and a wheelbarrow of sand on top](/assets/img/2019/06/IMG_20190522_135015.jpg)
 
-<!-- missing: IMG_20190523_161916.jpg -->
-![Missing photo: the workshop build at the end of the day, 23 May 2019](/assets/img/missing-photo.svg)
+![Looking in through the workshop's open double doors as insulation goes in](/assets/img/2019/06/IMG_20190523_161925.jpg)
 
-<!-- missing: IMG_20190523_161948.jpg -->
-![Missing photo: another view of the workshop build, 23 May 2019](/assets/img/missing-photo.svg)
+![The workshop with its doors open and insulation boards inside, beside a water butt](/assets/img/2019/06/IMG_20190523_161936.jpg)
 
-<!-- missing: IMG_20190523_162013.jpg -->
-![Missing photo: a third view of the workshop build, 23 May 2019](/assets/img/missing-photo.svg)
+![Inside the workshop, Celotex insulation boards going in between the wall studs](/assets/img/2019/06/IMG_20190523_161948.jpg)
 
-<!-- missing: IMG_20190524_150140.jpg -->
-![Missing photo: the workshop nearing completion, 24 May 2019](/assets/img/missing-photo.svg)
+![Looking out through the workshop doorway past the insulated walls to the pergola and garden](/assets/img/2019/06/IMG_20190523_162013.jpg)
 
-<!-- missing: IMG_20190524_150223.jpg -->
-![Missing photo: another view of the workshop nearing completion, 24 May 2019](/assets/img/missing-photo.svg)
+![The workshop interior lined with OSB boards, with a row of windows along one side](/assets/img/2019/06/IMG_20190524_150140.jpg)
 
-<!-- missing: IMG_20190523_161526.jpg -->
-![Missing photo: the finished workshop at the bottom of the garden](/assets/img/missing-photo.svg)
+![The finished workshop with its double doors open onto the empty OSB-lined interior](/assets/img/2019/06/IMG_20190524_150223.jpg)
+
+![The finished workshop, a timber building with a row of windows and double doors, on its paved base](/assets/img/2019/06/IMG_20190523_161526.jpg)

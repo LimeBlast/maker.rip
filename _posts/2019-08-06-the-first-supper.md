@@ -2,7 +2,9 @@
 title: The first supper
 date: 2019-08-06 12:00 +0100
 description: "I built an outdoor dining table from 2x4s for under our pergola, despite a cracked mitre saw and my first go with a pocket hole jig."
-# Header image missing: IMG_20190723_1510381.jpg
+image:
+  path: /assets/img/2019/08/IMG_20190723_151038.jpg
+  alt: "The grey-topped outdoor dining table with white trestle legs and six chairs on the patio, with the workshop behind"
 categories:
 - other-builds
 tags:
@@ -98,10 +100,7 @@ This sounded like quite a lot to me at first, but after seeing that Homebase are
 
 I'm happy with how it turned out, and I think it looks great under the pergola. If I was to do it again, I'd make it slightly shorter than it is, or buy slightly taller chairs, but that's a minor issue as it's still perfectly usable – at the very least I had no complaints during the party. It seems to have impressed at one person though, as I might have a commission to build one for someone else in the near future, which would be awesome.
 
-<!-- missing: IMG_20190723_151049-min.jpg -->
-![Missing photo: the finished table under the pergola, with the workshop behind it](/assets/img/missing-photo.svg)
-_A shot with the workshop in the background…_
+![The finished grey and white table with six chairs on the patio](/assets/img/2019/08/IMG_20190723_151027.jpg)
 
-<!-- missing: IMG_20190723_1510201.jpg -->
-![Missing photo: the finished table seen from the workshop](/assets/img/missing-photo.svg)
-_…and the view from the workshop itself_
+![The finished table and chairs under the pergola, seen between the wisteria's twisting trunks](/assets/img/2019/08/IMG_20190723_151020.jpg)
+_The view from the workshop itself_
