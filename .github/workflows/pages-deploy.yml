@@ -45,6 +45,9 @@ jobs:
           ruby-version: 3.4
           bundler-cache: true
 
+      - name: Check images
+        run: pip install --quiet pillow && python3 bin/check-images.py
+
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:

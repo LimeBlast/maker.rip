@@ -11,7 +11,7 @@ Change the site through `_config.yml`, `_tabs/`, `_data/`, `assets/img/favicons/
 - Every image has descriptive alt text; header images use `image: {path, alt}`.
 - Every link is `https://`. Dead external links go to the closest archive.org snapshot, else become plain text.
 - `description:` under 160 characters, in the owner's first-person voice.
-- Images live in `assets/img/YYYY/MM/`, filenames without brackets (Chirpy's JS writes unquoted CSS `url()`). Resize photos and strip all metadata before committing; phone photos carry GPS.
+- Images live in `assets/img/YYYY/MM/`, filenames without brackets (Chirpy's JS writes unquoted CSS `url()`). Longest side 1600px, under 400KB, no EXIF (phone photos carry GPS); the deploy fails otherwise. `python3 bin/check-images.py --fix` resizes, re-encodes and strips in place (needs Pillow).
 - Third-party media is credited on the About page (`_tabs/about.md`), with any changes noted.
 
 ## Privacy
@@ -24,7 +24,7 @@ Posts are `/:year/:month/:day/:title/` and link to each other that way. Category
 
 ## Verify before pushing
 
-Run what CI runs (`.github/workflows/pages-deploy.yml`): `JEKYLL_ENV=production bundle exec jekyll b` then `bundle exec htmlproofer _site --disable-external --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"`. Locally htmlproofer needs `LANG=en_GB.UTF-8 LC_ALL=en_GB.UTF-8` or it crashes on non-ASCII.
+Run what CI runs (`.github/workflows/pages-deploy.yml`): `python3 bin/check-images.py`, `JEKYLL_ENV=production bundle exec jekyll b` then `bundle exec htmlproofer _site --disable-external --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"`. Locally htmlproofer needs `LANG=en_GB.UTF-8 LC_ALL=en_GB.UTF-8` or it crashes on non-ASCII.
 
 ## Gotchas
 
