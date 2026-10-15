@@ -6,7 +6,5 @@ vendor
 .DS_Store
 _site-check
 
-# Wayback Machine recovery working copy
-_wayback/
-_instagram/
-_recovery/
+# Recovery archive, kept outside git
+recovery-archive-*.zip
