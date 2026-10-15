@@ -60,15 +60,17 @@ The original plan had been to split the board into three sections, with two of t
 
 So we went with plan B, which was to go for a single piece featuring the more traditional river table approach of two boards facing each other, so after cutting the board down to size, we set about using two offcuts from the door in my basement and some clamps to create a makeshift form on top of the polypropylene sheet, sealed around the edges [with (far too much) silicone](https://www.instagram.com/p/B8B1hJuAu5r/).
 
-<!-- missing: IMG-20200201-WA0027.jpg -->
-![Missing photo: the two sycamore pieces clamped into a makeshift form on the polypropylene sheet](/assets/img/missing-photo.svg)
+![Cutting the sycamore board down to size on a portable table saw on the patio](/assets/img/2020/02/20200201_104439.jpg)
+
+![Cutting the large white polypropylene sheet to size on the table saw, in an orange hoodie this time](/assets/img/2020/02/20200201_112506.jpg)
+
+![The two sycamore boards clamped between pine battens on the white polypropylene sheet, on the workbench](/assets/img/2020/02/IMG-20200201-WA0027.jpg)
 
 ![A messy bead of white silicone sealing the joint between a clamped pine batten and the polypropylene sheet](/assets/img/2020/02/IMG-20200201-WA0048.jpg)
 
 ![Silicone smeared around the base of a pine batten and along the edge of a sycamore board on the sheet](/assets/img/2020/02/IMG-20200201-WA0049.jpg)
 
-<!-- missing: IMG-20200201-WA0052.jpg -->
-![Missing photo: the form ready for resin](/assets/img/missing-photo.svg)
+![The sealed form from above, the boards held by four clamps with the gap for the resin between them](/assets/img/2020/02/IMG-20200201-WA0052.jpg)
 
 Next on the agenda was preparing the resin. Emma wanted it to be olive green, but that wasn't available as a pre-mixed colour, so instead she took three parts yellow pigment, one part blue, and a touch of red, and combined it until it was the perfect colour.
 
@@ -76,19 +78,18 @@ Based on our calculations we knew that 1kg of resin should be more than enough t
 
 I was given the honour of pouring the mixture into the gap, which reached the top with ease, but after a few minutes, we'd noticed the level had dropped off, so poured in some more. We figured this shrinking was probably due to the bubbles in the resin (the resin has a fairly long open time, so we could have waited a while to let these rise to the surface before pouring), but little did we know the real cause.
 
-<!-- missing: IMG_20200201_151423.jpg -->
-![Missing photo: olive green resin poured into the gap between the boards](/assets/img/missing-photo.svg)
+![Olive green resin filling the gap between the two sycamore boards, seen along the length of the form](/assets/img/2020/02/IMG_20200201_151423.jpg)
 
-<!-- missing: IMG-20200201-WA0059.jpg -->
-![Missing photo: the resin river settling](/assets/img/missing-photo.svg)
+![The green resin river settling in the form, with a clamp across the end](/assets/img/2020/02/IMG-20200201-WA0059.jpg)
 
-<!-- missing: IMG-20200201-WA0062.jpg -->
-![Missing photo: a closer look at the poured resin](/assets/img/missing-photo.svg)
+![A closer look at the olive green resin surface between the boards, with a drip on the wood](/assets/img/2020/02/IMG-20200201-WA0062.jpg)
 
 <!-- missing: IMG-20200201-WA0061.jpg -->
 ![Missing photo: the poured resin from another angle](/assets/img/missing-photo.svg)
 
 We could see the level was still dropping, but had already used the remaining resin mixture and filled a knot in one of my planks, so decided that we'd top it off with clear resin the following day, so after a couple of hours of monitoring the situation to ensure there were no leaks, we called it a day and resumed drinking.
+
+![Close-up of a dark knot in one of the sycamore boards, with a split through its centre](/assets/img/2020/02/20200201_111033.jpg)
 
 The following morning we were greeted by a few small leaks in the form, but thankfully, the resin had already hardened enough to plug them.
 

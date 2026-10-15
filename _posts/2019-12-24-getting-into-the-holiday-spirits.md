@@ -176,13 +176,19 @@ In the time between when I originally wrote this post in late August, and Christ
 
 ![Two round gin glasses sitting in a small oak table-style holder with four turned legs](/assets/img/2019/12/IMG_20191114_152150.jpg)
 
+Not content with making things for everyone but myself, this gin glass caddy was the culmination of all the lessons learned from the gifts above. Oak, Danish oil and a couple of coats of lacquer. Perfect for a pair of gin drinkers, or a lone drinker with a taste for mince pies.
+
 ![Four glass milk bottles in an oak caddy with brass handles and a rounded oak carrying rail](/assets/img/2019/12/IMG_20191114_152848.jpg)
+
+The mini milk bottle caddy was made with my seven-year-old niece in mind. The bottles, which I found in a bargain store, were the inspiration, although at the time I had no idea how I was going to put it all together. Unlike the rest of this year's gifts it has a two-level design, so the bottles are held securely.
 
 Oh, and I couldn't go thought all that without at least making one bottle opener that I could be proud of:
 
 ![A chrome rabbit-head bottle opener mounted on an oak board, stuck to the side of a black fridge](/assets/img/2019/12/IMG_20191114_161331.jpg)
 
 ![The chrome rabbit-head bottle opener on its oak board, lying on a wooden worktop](/assets/img/2019/12/IMG_20191114_161320.jpg)
+
+What could be a better gift for a friend that loves both rabbits and alcohol? I found the opener on Amazon and mounted it on an oak board for my friend Kathryn. The board has a few magnetic secrets: a magnet in each corner to stick it to a fridge, and a single larger magnet lower down to catch the bottle caps as they fall. It was originally finished with Danish oil, until [a bottle cap stained it](https://www.instagram.com/p/B4W_-x3gcu6/). Nothing a little sanding, more oil and a couple of coats of lacquer couldn't fix.
 
 I'm really happy with the way these have turned out, and am ever-so lightly jealous that I have to give them away, but happy to do so – I just hope they bring joy to their recipients – and then when I see them next, they'll offer me a drink of something nice from them.
 
