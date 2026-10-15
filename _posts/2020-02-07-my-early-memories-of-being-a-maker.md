@@ -14,6 +14,7 @@ tags:
 - plywood
 - robot
 - woodworking
+- missing-images
 ---
 
 I figured it might be fun to talk about some of my earliest memories of being a maker.

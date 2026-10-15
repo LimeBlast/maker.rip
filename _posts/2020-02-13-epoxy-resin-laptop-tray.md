@@ -17,6 +17,7 @@ tags:
 - reclaimed-wood
 - table-saw
 - waney-edge
+- missing-images
 ---
 
 For the longest time I've wanted to play with epoxy resin. Watching makers like [Peter Brown](https://www.youtube.com/user/kludge1977), [Ben's Worx](https://www.youtube.com/channel/UC3fC1bdqmaUTfgX88YGUf9Q), and [TheCrafsMan](https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w) on YouTube inspired the desire to use resin in a project, and conversations with my patron, Emma, revealed that she had similar desires, so during the first weekend of February she joined me in my workshop, and powered with nothing more than imagination and ill-gained confidence, we decided to make an epoxy resin river laptop tray for her husband.
@@ -25,19 +26,15 @@ The journey to this fated weekend started back in mid-Janurary during a trip to 
 
 I walked out £150 poorer with one cherry, and two sycamore, waney edged boards under my arm.
 
-<!-- missing: IMG_20200114_145626.jpg -->
-![Missing photo: waney edge boards at the Bristol Wood Recycling Project](/assets/img/missing-photo.svg)
+![Three live-edge boards, two sycamore and one cherry, leaning against the workbench in the workshop](/assets/img/2020/02/IMG_20200114_145626.jpg)
 
-<!-- missing: IMG_20200114_145634.jpg -->
-![Missing photo: the £45 sycamore board](/assets/img/missing-photo.svg)
+![A wide live-edge sycamore board with a masking tape label reading Sycamore £45](/assets/img/2020/02/IMG_20200114_145634.jpg)
 _Sycamore £45_
 
-<!-- missing: IMG_20200114_145639.jpg -->
-![Missing photo: the £38 sycamore board](/assets/img/missing-photo.svg)
+![A narrower live-edge sycamore board with a masking tape label reading Sycamore £38](/assets/img/2020/02/IMG_20200114_145639.jpg)
 _Sycamore £38_
 
-<!-- missing: IMG_20200114_145645.jpg -->
-![Missing photo: the £60 cherry board](/assets/img/missing-photo.svg)
+![A long live-edge cherry board with a masking tape label reading Cherry £60](/assets/img/2020/02/IMG_20200114_145645.jpg)
 _Cherry £60_
 
 The cherry and £38 sycamore boards were for me, but the £45 sycamore was for Emma, chosen from the vast selection of amazing boards, via WhatsApp consultation and lots of photos.
@@ -48,8 +45,7 @@ Next we needed the resin. I'd decided a while ago that I was going to use [Glass
 
 I had planned on using my cherry board to make a river table for myself, but the calculator revealed that I'd need just under 5kg of resin at a cost of just over £80 for the resin alone, and as I'd already spend all my money on my new Superdry hoodie, decided I'd shelf the idea temporally.
 
-<!-- missing: IMG_20200118_121805.jpg -->
-![Missing photo: the cherry board cut in half, with a gap between the halves for a resin river](/assets/img/missing-photo.svg)
+![The cherry board cut into two halves, laid on paper with their live edges facing each other across a gap](/assets/img/2020/02/IMG_20200118_121805.jpg)
 _My cherry board, cut in half, and positioned for resin river measurement – turns out, that gap needs a lot of resin._
 
 Price wasn't a barrier for Emma, however, and £130 later I was awaiting shipment of 2kg of resin, a selection of metallic pigments, a roll of flash/release tape, a 100x100cm polypropylene sheet, some nitrile gloves, and some mixing cups.
@@ -67,11 +63,9 @@ So we went with plan B, which was to go for a single piece featuring the more tr
 <!-- missing: IMG-20200201-WA0027.jpg -->
 ![Missing photo: the two sycamore pieces clamped into a makeshift form on the polypropylene sheet](/assets/img/missing-photo.svg)
 
-<!-- missing: IMG-20200201-WA0048.jpg -->
-![Missing photo: sealing the form with silicone](/assets/img/missing-photo.svg)
+![A messy bead of white silicone sealing the joint between a clamped pine batten and the polypropylene sheet](/assets/img/2020/02/IMG-20200201-WA0048.jpg)
 
-<!-- missing: IMG-20200201-WA0049.jpg -->
-![Missing photo: another view of the sealed form](/assets/img/missing-photo.svg)
+![Silicone smeared around the base of a pine batten and along the edge of a sycamore board on the sheet](/assets/img/2020/02/IMG-20200201-WA0049.jpg)
 
 <!-- missing: IMG-20200201-WA0052.jpg -->
 ![Missing photo: the form ready for resin](/assets/img/missing-photo.svg)

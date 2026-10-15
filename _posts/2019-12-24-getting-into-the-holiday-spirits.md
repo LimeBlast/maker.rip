@@ -25,6 +25,7 @@ tags:
 - pinterest
 - router
 - varnish
+- missing-images
 ---
 
 For the 2018 festive season I started what I hoped would become a tradition of making Christmas gifts for my friends and family, by making eight wall-mounted bottle openers. I'd had the idea some time in late Autumn 2018, but it was early December before I started, and with everything else I had going on, that didn't leave much time to do as good a job as I had wanted.
@@ -159,37 +160,29 @@ Once dried, I attached the handles, placed the glasses, and took these action sh
 
 ![Four coloured tumblers sitting in an oiled oak flight paddle with twisted black metal handles at each end](/assets/img/2019/12/IMG_20190827_200708.jpg)
 
-<!-- missing: IMG_20190827_200922.jpg -->
-![Missing photo: another of the finished flight paddles](/assets/img/missing-photo.svg)
+![Four skull-shaped shot glasses in a long oak flight paddle with a handle at one end](/assets/img/2019/12/IMG_20190827_200922.jpg)
 
-<!-- missing: IMG_20190827_201155.jpg -->
-![Missing photo: another of the finished flight paddles](/assets/img/missing-photo.svg)
+![Four cut-glass whisky tumblers in an oak board with twisted black metal handles at each end](/assets/img/2019/12/IMG_20190827_201155.jpg)
 
-<!-- missing: IMG_20190827_201337.jpg -->
-![Missing photo: another of the finished flight paddles](/assets/img/missing-photo.svg)
+![Four round-bowled glasses in an oak board with wooden-and-brass handles at each end](/assets/img/2019/12/IMG_20190827_201337.jpg)
 
-<!-- missing: IMG_20190827_202032.jpg -->
-![Missing photo: the last of the finished flight paddles](/assets/img/missing-photo.svg)
+![Four tulip-shaped beer glasses in a long oak flight paddle with twisted brass handles](/assets/img/2019/12/IMG_20190827_202032.jpg)
 
 ## Update
 
 In the time between when I originally wrote this post in late August, and Christmas day when it was published, I locked myself in the workshop and decided to put the remaining wood to good use, producing these additional pieces as gifts:
 
-<!-- missing: IMG_20191114_153128.jpg -->
-![Missing photo: one of the extra gifts made from the leftover oak](/assets/img/missing-photo.svg)
+![An oak wine glass holder resting on the neck of a bottle of white wine, with a glass hanging upside down from each end](/assets/img/2019/12/IMG_20191114_153128.jpg)
 
-<!-- missing: IMG_20191114_152150.jpg -->
-![Missing photo: another of the extra gifts made from the leftover oak](/assets/img/missing-photo.svg)
+![Two round gin glasses sitting in a small oak table-style holder with four turned legs](/assets/img/2019/12/IMG_20191114_152150.jpg)
 
 ![Four glass milk bottles in an oak caddy with brass handles and a rounded oak carrying rail](/assets/img/2019/12/IMG_20191114_152848.jpg)
 
 Oh, and I couldn't go thought all that without at least making one bottle opener that I could be proud of:
 
-<!-- missing: IMG_20191114_161331.jpg -->
-![Missing photo: the new oak bottle opener](/assets/img/missing-photo.svg)
+![A chrome rabbit-head bottle opener mounted on an oak board, stuck to the side of a black fridge](/assets/img/2019/12/IMG_20191114_161331.jpg)
 
-<!-- missing: IMG_20191114_161320.jpg -->
-![Missing photo: another view of the new oak bottle opener](/assets/img/missing-photo.svg)
+![The chrome rabbit-head bottle opener on its oak board, lying on a wooden worktop](/assets/img/2019/12/IMG_20191114_161320.jpg)
 
 I'm really happy with the way these have turned out, and am ever-so lightly jealous that I have to give them away, but happy to do so – I just hope they bring joy to their recipients – and then when I see them next, they'll offer me a drink of something nice from them.
 

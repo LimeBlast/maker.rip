@@ -7,6 +7,7 @@ categories:
 - the-building-block
 tags:
 - weaving
+- missing-images
 ---
 
 Following on from my post about the [loom I build for my friend Emma](/2019/04/16/my-first-commission/), I have an update to share on her progress using it, delivered via the medium of WhatsApp images, and the comments she put next to them.

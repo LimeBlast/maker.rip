@@ -10,6 +10,7 @@ tags:
 - ferrex
 - lidl
 - workzone
+- missing-images
 ---
 
 Aldi (like Lidl) is a strange store. Not content with simply offering cut price groceries, if you manage to walk out of the store without a brand new HD TV, a WIFI-extending double power socket, and an inflatable dingy in your bag with your 17 tins of bakes beans, you've got more resolve than I.

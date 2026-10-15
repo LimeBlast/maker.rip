@@ -15,11 +15,9 @@ I moved into my current house around a year ago, and as I mentioned at the time,
 
 I plan on doing a full post about the workshop (including a video tour of my setup) in the near future, but for now, here are a series of photos taken at the end of each day over the course of a week, as the fine folks at [Sheds R Us](https://www.shedsareus.co.uk/) laid the groundwork and constructed it.
 
-<!-- missing: IMG_20190514_123743.jpg -->
-![Missing photo: the site of the workshop on 14 May 2019, before work started](/assets/img/missing-photo.svg)
+![The overgrown back garden before work started, looking from under the pergola past the old shed and water butt to a weedy raised bed and the back fence](/assets/img/2019/06/IMG_20190514_123743.jpg)
 
-<!-- missing: IMG_20190518_151935.jpg -->
-![Missing photo: the workshop's groundwork at the end of the day, 18 May 2019](/assets/img/missing-photo.svg)
+![The garden cleared at the end of the day, with the raised bed stripped to bare earth and piles of broken-up decking timber on it](/assets/img/2019/06/IMG_20190518_151935.jpg)
 
 ![The garden cleared ready for the workshop's groundwork, with a fire basket on the bare earth](/assets/img/2019/06/IMG_20190519_162707.jpg)
 

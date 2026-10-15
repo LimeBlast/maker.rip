@@ -10,6 +10,7 @@ tags:
 - laser-cutter
 - the-interlace-project
 - weaving
+- missing-images
 ---
 
 I don't remember what I was doing when first I stumbled upon [The Interlace Project](https://web.archive.org/web/20190723224848/https://theinterlaceproject.com/) – a _"practice-based research project that combines the traditional manufacturing techniques of spinning and weaving with emergent e-textile technologies"_ – and ordinarily I wouldn't have given it another though, but as I'd had some [exposure to weaving courtesy of my friend Emma](/2019/04/16/my-first-commission/), I figured I'd investigate further.
