@@ -12,7 +12,7 @@ Change the site through `_config.yml`, `_tabs/`, `_data/`, `assets/img/favicons/
 - Every link is `https://`. Dead external links go to the closest archive.org snapshot, else become plain text.
 - `description:` under 160 characters, in the owner's first-person voice.
 - Images live in `assets/img/YYYY/MM/`, filenames without brackets (Chirpy's JS writes unquoted CSS `url()`). Longest side 1600px, under 400KB, no EXIF (phone photos carry GPS); the deploy fails otherwise. `python3 bin/check-images.py --fix` resizes, re-encodes and strips in place (needs Pillow).
-- Third-party media is credited on the About page (`_tabs/about.md`), with any changes noted.
+- Third-party media is credited where it appears (in its caption, or a line at the end of the post), with any changes noted.
 
 ## Privacy
 

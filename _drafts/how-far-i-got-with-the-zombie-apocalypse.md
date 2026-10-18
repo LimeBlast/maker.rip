@@ -21,7 +21,7 @@ The whole thing started with Simon Monk's _The Maker's Guide to the Zombie Apoca
 
 ## What I set out to do
 
-<!-- "Project Objective", as written in 2016. The first two paragraphs also open the About page. -->
+<!-- "Project Objective", as written in 2016. -->
 
 Ostensibly this blog exists to track my progress in reading the [Maker's Guide to the Zombie Apocalypse](/2016/05/31/the-makers-guide-to-the-zombie-apocalypse/) while providing a location for me to publish my musings as I work through building the projects contained within it.
 
@@ -39,7 +39,7 @@ So, my current objective is to complete all the projects contained within the bo
 
 ## How far I got
 
-<!-- "My Current Progress" (last archived October 2016), updated to where things stood in "Slight change in direction" (May 2017): four complete and one started. TODO: "Where have I been?" says 7 of 20 – check which is right. -->
+<!-- "My Current Progress" (last archived October 2016), updated to where things stood in "Slight change in direction" (May 2017): four complete and one started, which the 2016 posts confirm. -->
 
 The book has 20 projects split across 11 chapters, and I fully intended on completing them all, but not necessarily in the order presented. Projects marked with a tick (✔) are complete, and each links to the post where I finished it.
 

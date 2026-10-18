@@ -193,3 +193,5 @@ What could be a better gift for a friend that loves both rabbits and alcohol? I 
 I'm really happy with the way these have turned out, and am ever-so lightly jealous that I have to give them away, but happy to do so – I just hope they bring joy to their recipients – and then when I see them next, they'll offer me a drink of something nice from them.
 
 Happy Christmahanakwanzika!
+
+Header photo: [Christmas photo from Pixabay](https://pixabay.com/photos/christmas-1911637/), cropped, used under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
