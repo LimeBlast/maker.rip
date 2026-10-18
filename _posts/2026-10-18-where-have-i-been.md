@@ -41,7 +41,6 @@ In March 2018 I had my first review published in HackSpace magazine, which would
 
 ![The finished workbench, painted lime green with a plywood top, in the shed](/assets/img/2018/08/IMG_20180821_143420-1-.jpg)
 _My first woodworking project, the Weekend Woodworker workbench, August 2018_
-
 ![Apricat lying on the carpet next to the finished Wildcat display](/assets/img/2018/11/IMG_20181119_202201--1-.jpg)
 _Apricat, unimpressed with Wildcat, November 2018_
 
@@ -49,7 +48,6 @@ _Apricat, unimpressed with Wildcat, November 2018_
 
 ![The finished workshop, a timber building with a row of windows and double doors, on its paved base](/assets/img/2019/06/IMG_20190523_161526.jpg)
 _The shed evolves into a workshop, May 2019_
-
 ![Three scorched pallet-wood jack-o'-lanterns on the grey garden table under the pergola, with a ginger and white cat sitting in front of them](/assets/img/2026/10/jack-o-lanterns-cat.jpg)
 _My first Etsy listing, with quality control, September 2019_
 

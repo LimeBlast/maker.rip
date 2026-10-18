@@ -27,13 +27,10 @@ The journey to this fated weekend started back in mid-Janurary during a trip to 
 I walked out £150 poorer with one cherry, and two sycamore, waney edged boards under my arm.
 
 ![Three live-edge boards, two sycamore and one cherry, leaning against the workbench in the workshop](/assets/img/2020/02/IMG_20200114_145626.jpg)
-
 ![A wide live-edge sycamore board with a masking tape label reading Sycamore £45](/assets/img/2020/02/IMG_20200114_145634.jpg)
 _Sycamore £45_
-
 ![A narrower live-edge sycamore board with a masking tape label reading Sycamore £38](/assets/img/2020/02/IMG_20200114_145639.jpg)
 _Sycamore £38_
-
 ![A long live-edge cherry board with a masking tape label reading Cherry £60](/assets/img/2020/02/IMG_20200114_145645.jpg)
 _Cherry £60_
 
@@ -61,15 +58,10 @@ The original plan had been to split the board into three sections, with two of t
 So we went with plan B, which was to go for a single piece featuring the more traditional river table approach of two boards facing each other, so after cutting the board down to size, we set about using two offcuts from the door in my basement and some clamps to create a makeshift form on top of the polypropylene sheet, sealed around the edges [with (far too much) silicone](https://www.instagram.com/p/B8B1hJuAu5r/).
 
 ![Cutting the sycamore board down to size on a portable table saw on the patio](/assets/img/2020/02/20200201_104439.jpg)
-
 ![Cutting the large white polypropylene sheet to size on the table saw, in an orange hoodie this time](/assets/img/2020/02/20200201_112506.jpg)
-
 ![The two sycamore boards clamped between pine battens on the white polypropylene sheet, on the workbench](/assets/img/2020/02/IMG-20200201-WA0027.jpg)
-
 ![A messy bead of white silicone sealing the joint between a clamped pine batten and the polypropylene sheet](/assets/img/2020/02/IMG-20200201-WA0048.jpg)
-
 ![Silicone smeared around the base of a pine batten and along the edge of a sycamore board on the sheet](/assets/img/2020/02/IMG-20200201-WA0049.jpg)
-
 ![The sealed form from above, the boards held by four clamps with the gap for the resin between them](/assets/img/2020/02/IMG-20200201-WA0052.jpg)
 
 Next on the agenda was preparing the resin. Emma wanted it to be olive green, but that wasn't available as a pre-mixed colour, so instead she took three parts yellow pigment, one part blue, and a touch of red, and combined it until it was the perfect colour.
@@ -79,11 +71,8 @@ Based on our calculations we knew that 1kg of resin should be more than enough t
 I was given the honour of pouring the mixture into the gap, which reached the top with ease, but after a few minutes, we'd noticed the level had dropped off, so poured in some more. We figured this shrinking was probably due to the bubbles in the resin (the resin has a fairly long open time, so we could have waited a while to let these rise to the surface before pouring), but little did we know the real cause.
 
 ![Olive green resin filling the gap between the two sycamore boards, seen along the length of the form](/assets/img/2020/02/IMG_20200201_151423.jpg)
-
 ![The green resin river settling in the form, with a clamp across the end](/assets/img/2020/02/IMG-20200201-WA0059.jpg)
-
 ![A closer look at the olive green resin surface between the boards, with a drip on the wood](/assets/img/2020/02/IMG-20200201-WA0062.jpg)
-
 <!-- missing: IMG-20200201-WA0061.jpg -->
 ![Missing photo: the poured resin from another angle](/assets/img/missing-photo.svg)
 
@@ -95,10 +84,8 @@ The following morning we were greeted by a few small leaks in the form, but than
 
 <!-- missing: IMG_20200202_103427.jpg -->
 ![Missing photo: the resin the following morning, with small leaks at the edges of the form](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20200202_103440.jpg -->
 ![Missing photo: a closer look at a plugged leak](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20200202_103445.jpg -->
 ![Missing photo: another plugged leak](/assets/img/missing-photo.svg)
 
@@ -112,13 +99,10 @@ Fast forward to Tuesday and I was ready to de mould. The first thing I did was t
 
 <!-- missing: IMG_20200204_141515.jpg -->
 ![Missing photo: the underside of the form, with resin seeped under the boards](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20200204_141655.jpg -->
 ![Missing photo: more resin under the boards](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20200204_141727.jpg -->
 ![Missing photo: resin stuck to the underside of a board](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20200204_141807.jpg -->
 ![Missing photo: another view of the resin on the underside](/assets/img/missing-photo.svg)
 
@@ -128,7 +112,6 @@ Job one was freeing them from the supports. If we'd placed the tape along the fu
 
 <!-- missing: IMG_20200204_143605.jpg -->
 ![Missing photo: cutting the supports off with the table saw](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20200204_143851.jpg -->
 ![Missing photo: the tray freed from its supports](/assets/img/missing-photo.svg)
 
@@ -136,7 +119,6 @@ Job two was removing the resin amassed on the bottom. I asked around to see if a
 
 <!-- missing: IMG_20200204_155136.jpg -->
 ![Missing photo: sanding the resin off the bottom with a belt sander](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20200204_155746.jpg -->
 ![Missing photo: the sanded bottom of the tray](/assets/img/missing-photo.svg)
 
@@ -147,11 +129,9 @@ Flipping the board over, the top was pretty good as is, being naturally nice and
 <!-- missing: IMG-20200206-WA0029.jpeg -->
 ![Missing photo: the bottom of the finished tray](/assets/img/missing-photo.svg)
 _Bottom_
-
 <!-- missing: IMG-20200206-WA0031.jpeg -->
 ![Missing photo: the top of the finished tray, with its olive green resin river](/assets/img/missing-photo.svg)
 _Top_
-
 <!-- missing: IMG-20200204-WA0030.jpeg -->
 ![Missing photo: a cross section through the tray's edge](/assets/img/missing-photo.svg)
 _Cross section_

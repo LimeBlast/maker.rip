@@ -11,6 +11,19 @@
   #avatar img:hover { transform: none !important; }
   #sidebar .site-subtitle { display: none; } /* tagline is empty, but Chirpy reserves 3rem for it */
   #access-lastmod { display: none; } /* Recently Updated duplicates the homepage list; no lastmod plugin */
+  /* Post photos fill the column by default; cap their height (lightbox still opens full size) */
+  .content a.popup img { max-height: 24rem; width: auto; }
+  /* Images on consecutive lines (one paragraph) sit side by side as a wrapping gallery */
+  .content p:has(> a.popup ~ a.popup):not(:has(> em)) { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; }
+  .content p:has(> a.popup ~ a.popup):not(:has(> em)) > a.popup { margin: 0; left: auto; transform: none; } /* undo Chirpy's single-image centring */
+  .content p:has(> a.popup ~ a.popup):not(:has(> em)) img { height: 14rem; width: auto; }
+  /* Captioned galleries: photos fill row 1 and each caption drops into row 2 under its own photo, one column per photo */
+  @media (min-width: 576px) {
+    .content p:has(> a.popup ~ a.popup):has(> em) { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; grid-template-rows: auto auto; column-gap: 0.5rem; row-gap: 0; align-items: start; }
+    .content p:has(> a.popup ~ a.popup):has(> em) > a.popup { grid-row: 1; justify-self: center; margin: 0; left: auto; transform: none; }
+    .content p:has(> a.popup ~ a.popup):has(> em) > em { grid-row: 2; }
+    .content p:has(> a.popup ~ a.popup):has(> em) img { height: auto; max-height: 14rem; max-width: 100%; }
+  }
 </style>
 
 <!-- Click-to-load embeds (_includes/click-to-load.html): swap the poster for the iframe on click -->

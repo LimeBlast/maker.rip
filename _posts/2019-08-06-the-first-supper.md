@@ -55,7 +55,6 @@ For obvious reasons, I can't compare it with any other jigs, but I can say that 
 
 <!-- missing: IMG-20190721-WA0011.jpeg -->
 ![Missing photo: drilling pocket holes in a 2x4 with the Trend jig](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG-20190721-WA0013.jpeg -->
 ![Missing photo: a row of drilled pocket holes](/assets/img/missing-photo.svg)
 
@@ -78,7 +77,6 @@ Initially I attempted to use the [Cuprinol Spray & Brush](https://www.amazon.co.
 
 <!-- missing: IMG-20190722-WA0008.jpeg -->
 ![Missing photo: painting the table](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG-20190722-WA0012.jpeg -->
 ![Missing photo: the painted table drying](/assets/img/missing-photo.svg)
 
@@ -102,6 +100,5 @@ This sounded like quite a lot to me at first, but after seeing that Homebase are
 I'm happy with how it turned out, and I think it looks great under the pergola. If I was to do it again, I'd make it slightly shorter than it is, or buy slightly taller chairs, but that's a minor issue as it's still perfectly usable – at the very least I had no complaints during the party. It seems to have impressed at one person though, as I might have a commission to build one for someone else in the near future, which would be awesome.
 
 ![The finished grey and white table with six chairs on the patio](/assets/img/2019/08/IMG_20190723_151027.jpg)
-
 ![The finished table and chairs under the pergola, seen between the wisteria's twisting trunks](/assets/img/2019/08/IMG_20190723_151020.jpg)
 _The view from the workshop itself_

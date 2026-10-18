@@ -25,7 +25,6 @@ But from an early age, I think I was always destined to be a maker, as I think s
 
 <!-- missing: WhatsApp-Image-2020-02-07-at-11.58.44-AM.jpeg -->
 ![Missing photo: an old photo of me as a child](/assets/img/missing-photo.svg)
-
 <!-- missing: WhatsApp-Image-2020-02-07-at-11.58.56-AM.jpeg -->
 ![Missing photo: another old photo of me as a child](/assets/img/missing-photo.svg)
 
@@ -66,10 +65,8 @@ In any case, anyone that's read even a few pages of this blog know that I'm very
 
 <!-- missing: WhatsApp-Image-2020-02-07-at-12.02.29-PM.jpeg -->
 ![Missing photo: an old photo of me as a teenager](/assets/img/missing-photo.svg)
-
 <!-- missing: WhatsApp-Image-2020-02-07-at-12.02.03-PM.jpeg -->
 ![Missing photo: another old photo of me as a teenager](/assets/img/missing-photo.svg)
-
 <!-- missing: WhatsApp-Image-2020-02-07-at-12.02.53-PM.jpeg -->
 ![Missing photo: a third old photo of me as a teenager](/assets/img/missing-photo.svg)
 

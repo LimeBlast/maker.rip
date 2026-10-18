@@ -20,7 +20,6 @@ This is why I'm so happy that now, just over two years after I first started the
 It didn't take long for me to dust off the aforementioned solar panel and jerry-rig together a basic control panel:
 
 ![The solar panel mounted on the roof of the shed](/assets/img/2018/06/IMG_20180621_140743.jpg)
-
 ![The charge controller and multimeter mounted on the shed wall](/assets/img/2018/06/IMG_20180621_140905.jpg)
 
 My original battery bit the bullet a long time ago (I think I run it down too much as I wasn't able to charge it again) so I got myself a small 12volt 1.3Ah one from Maplin (RIP), which is hidden behind the shelf guard. It doesn't have much capacity, but it's the only one they had in stock, and at 75% off it was a bargain.

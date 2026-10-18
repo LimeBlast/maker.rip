@@ -25,7 +25,6 @@ My attempt during the session resulted in cuts which were too wide and too deep,
 
 ![A lap joint cut too wide, leaving a gap beside the upright](/assets/img/2019/04/IMG_20190416_150911-1.jpg)
 _Too wide…_
-
 ![A lap joint cut too deep, so the boards sit unevenly](/assets/img/2019/04/IMG_20190416_150946-1.jpg)
 _…and too deep_
 

@@ -70,10 +70,8 @@ When I got them home, I laid the board on my workbench, and after matching the h
 
 <!-- missing: IMG_20190805_202225.jpg -->
 ![Missing photo: sets of glasses and handles laid out on the oak board](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20190809_102431.jpg -->
 ![Missing photo: trying another arrangement of glasses on the oak board](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20190809_102716.jpg -->
 ![Missing photo: the final arrangement of glasses on the oak board](/assets/img/missing-photo.svg)
 
@@ -81,13 +79,10 @@ Once I was happy with the layout, I used my table saw to chop the board down, th
 
 <!-- missing: IMG_20190809_145941.jpg -->
 ![Missing photo: the oak board cut down into paddle blanks](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20190809_184537.jpg -->
 ![Missing photo: hole positions marked in pencil on a paddle blank](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20190809_184543.jpg -->
 ![Missing photo: hole positions marked on another paddle blank](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20190810_150941.jpg -->
 ![Missing photo: all the paddle blanks marked out and ready for drilling](/assets/img/missing-photo.svg)
 
@@ -131,10 +126,8 @@ It's at this point I decided to buy my own pillar drill, and while I was spendin
 
 <!-- missing: 67126758_787613778324188_2093493501554964742_n.jpg -->
 ![Missing photo: one of my new Aldi tools](/assets/img/missing-photo.svg)
-
 <!-- missing: 67608274_173383597042386_6979973760070643466_n.jpg -->
 ![Missing photo: another of my new Aldi tools](/assets/img/missing-photo.svg)
-
 <!-- missing: 68789329_622539321605929_8076498335785775963_n.jpg -->
 ![Missing photo: my new pillar drill](/assets/img/missing-photo.svg)
 
@@ -144,7 +137,6 @@ With my new tools in tow, increasing the size of the holes was a doddle (and the
 
 <!-- missing: IMG_20190823_123206.jpg -->
 ![Missing photo: the paddles with their edges rounded over on the router table](/assets/img/missing-photo.svg)
-
 <!-- missing: IMG_20190823_123220.jpg -->
 ![Missing photo: another view of the rounded-over paddles](/assets/img/missing-photo.svg)
 
@@ -159,13 +151,9 @@ All that remained was to apply the finish, for which I'd opted to use Danish Oil
 Once dried, I attached the handles, placed the glasses, and took these action shots:
 
 ![Four coloured tumblers sitting in an oiled oak flight paddle with twisted black metal handles at each end](/assets/img/2019/12/IMG_20190827_200708.jpg)
-
 ![Four skull-shaped shot glasses in a long oak flight paddle with a handle at one end](/assets/img/2019/12/IMG_20190827_200922.jpg)
-
 ![Four cut-glass whisky tumblers in an oak board with twisted black metal handles at each end](/assets/img/2019/12/IMG_20190827_201155.jpg)
-
 ![Four round-bowled glasses in an oak board with wooden-and-brass handles at each end](/assets/img/2019/12/IMG_20190827_201337.jpg)
-
 ![Four tulip-shaped beer glasses in a long oak flight paddle with twisted brass handles](/assets/img/2019/12/IMG_20190827_202032.jpg)
 
 ## Update
@@ -173,7 +161,6 @@ Once dried, I attached the handles, placed the glasses, and took these action sh
 In the time between when I originally wrote this post in late August, and Christmas day when it was published, I locked myself in the workshop and decided to put the remaining wood to good use, producing these additional pieces as gifts:
 
 ![An oak wine glass holder resting on the neck of a bottle of white wine, with a glass hanging upside down from each end](/assets/img/2019/12/IMG_20191114_153128.jpg)
-
 ![Two round gin glasses sitting in a small oak table-style holder with four turned legs](/assets/img/2019/12/IMG_20191114_152150.jpg)
 
 Not content with making things for everyone but myself, this gin glass caddy was the culmination of all the lessons learned from the gifts above. Oak, Danish oil and a couple of coats of lacquer. Perfect for a pair of gin drinkers, or a lone drinker with a taste for mince pies.
@@ -185,7 +172,6 @@ The mini milk bottle caddy was made with my seven-year-old niece in mind. The bo
 Oh, and I couldn't go thought all that without at least making one bottle opener that I could be proud of:
 
 ![A chrome rabbit-head bottle opener mounted on an oak board, stuck to the side of a black fridge](/assets/img/2019/12/IMG_20191114_161331.jpg)
-
 ![The chrome rabbit-head bottle opener on its oak board, lying on a wooden worktop](/assets/img/2019/12/IMG_20191114_161320.jpg)
 
 What could be a better gift for a friend that loves both rabbits and alcohol? I found the opener on Amazon and mounted it on an oak board for my friend Kathryn. The board has a few magnetic secrets: a magnet in each corner to stick it to a fridge, and a single larger magnet lower down to catch the bottle caps as they fall. It was originally finished with Danish oil, until [a bottle cap stained it](https://www.instagram.com/p/B4W_-x3gcu6/). Nothing a little sanding, more oil and a couple of coats of lacquer couldn't fix.

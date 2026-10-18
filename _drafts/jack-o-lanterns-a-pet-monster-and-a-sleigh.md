@@ -24,7 +24,6 @@ Three more rescued from the old site's portfolio page. They don't have much in c
 Built with sale on Etsy in mind, seven of these were batched out during a week off using reclaimed pallet wood. The finish was achieved using a blowtorch to scorch the surface, then sealed with a waterproof varnish. Each one has a different face.
 
 ![Three of the lanterns in the sun on a garden wall, each with a different cut-out face](/assets/img/2026/10/jack-o-lanterns-listing.jpg)
-
 ![Close-up of one lantern's face: two triangular eyes, a small triangular nose and a crooked mouth cut through the charred pine](/assets/img/2026/10/jack-o-lanterns-face.jpg)
 
 They were [my first ever Etsy listing](https://www.instagram.com/p/B2bw7UZA6Ld/), and my first ever sale. For lighting I [tested some flame-effect LEDs](https://www.instagram.com/p/B2rE9XxAn9k/) driven by an Adafruit Circuit Playground Express, with a script that sets them orange and randomly fades them in and out. Better looking than plastic tealights, and safer than candles.
@@ -38,7 +37,6 @@ They were [my first ever Etsy listing](https://www.instagram.com/p/B2bw7UZA6Ld/)
 Each year I like to build at least one Halloween project, so for 2020 I took a concept I'd originally had in 2016 and evolved it. The general idea is that the monster is the girl's imaginary friend, only visible to people that believe, hence it being invisible until you switch the light on.
 
 ![The same frame lit from behind, revealing a large furry monster silhouette looming over the girl](/assets/img/2026/10/pet-monster-on.jpg)
-
 ![The lit frame on a shelf beside three skeleton figures and a pumpkin-headed statue](/assets/img/2026/10/pet-monster-halloween.jpg)
 
 ## Plywood sleigh to display Christmas gifts
@@ -52,7 +50,6 @@ Commissioned by my friend Emma, who was inspired by a desktop ornament, this is 
 Emma painted it herself, with plans for an LED garland.
 
 ![The sleigh's sides painted bright red, drying on a board balanced on a sewing machine stand in a tiled hallway](/assets/img/2026/10/sleigh-painting.jpg)
-
 ![The finished sleigh, red with silver runners, full of wrapped presents and gift bags against a red wall](/assets/img/2026/10/sleigh-finished.jpg)
 
 I then built it again from MDF so I could document the process for an [Instructable](https://www.instructables.com/Plywood-or-MDF-Sleigh-to-Display-Christmas-Gifts/), my first, submitted on the final day of the First Time Authors contest. One of 185 entries, one of 19 finalists, and a runner-up somewhere in the bottom ten. The top prize was a DSLR. I got a t-shirt.
