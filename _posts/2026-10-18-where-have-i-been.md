@@ -78,10 +78,9 @@ That's not to say I stopped building things altogether - I just stopped building
 In October 2022 we moved house to Cannock, where I could finally start to settle down. I also got into fitness in a big way, losing around 20kg along the way, and completing two half-marathons. I became a run leader at Chasewater Runners, got a mountain bike to ride the singletrack trails at Cannock Chase (I've only broken one collarbone), and became a regular at obstacle course races like the Wolf Run and Spartan.
 
 ![Me in a mud-spattered Wolf Run Trilogy t-shirt and purple sunglasses, throwing devil horns with both hands in front of a Wolf Run Trilogy backdrop](/assets/img/2026/10/wolf-run-trilogy.jpg)
-_Muddy, but victorious, after completing the Wolf Run Trilogy_
+_Muddy, but victorious, after completing the Wolf Run Trilogy (photo by Wolf Run's photographers)_
 
 <!-- TODO: more wilderness years photos? Cannock, a half-marathon, Chasewater Runners, the mountain bike -->
-<!-- TODO: credit the Wolf Run photographer in the caption -->
 
 
 ## Coming back
