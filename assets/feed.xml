@@ -1,0 +1,66 @@
+---
+layout: compress
+permalink: /feed.xml
+# Atom Feed, reference: https://validator.w3.org/feed/docs/atom.html
+# Overridden from jekyll-theme-chirpy 7.6.0: adds media:thumbnail from
+# image.path, gives each entry HTML content (header image, summary,
+# "Read more" link), removes the 5-post limit and makes icon/logo absolute. Re-diff on theme updates.
+---
+
+{% capture source %}
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>{{ "/" | absolute_url }}</id>
+  <title>{{ site.title }}</title>
+  <subtitle>{{ site.description }}</subtitle>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author>
+    <name>{{ site.social.name }}</name>
+    <uri>{{ "/" | absolute_url }}</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="{{ page.url | absolute_url }}"/>
+  <link rel="alternate" type="text/html" hreflang="{{ site.alt_lang | default: site.lang }}"
+    href="{{ '/' | absolute_url }}"/>
+  <generator uri="https://jekyllrb.com/" version="{{ jekyll.version }}">Jekyll</generator>
+  <rights> © {{ 'now' | date: '%Y' }} {{ site.social.name }} </rights>
+  <icon>{{ "/assets/img/favicons/favicon.ico" | absolute_url }}</icon>
+  <logo>{{ "/assets/img/favicons/favicon-96x96.png" | absolute_url }}</logo>
+
+{% for post in site.posts %}
+  {% assign post_absolute_url = post.url | absolute_url %}
+  <entry>
+    <title>{{ post.title }}</title>
+    <link href="{{ post_absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+    <published>{{ post.date | date_to_xmlschema }}</published>
+  {% if post.last_modified_at %}
+    <updated>{{ post.last_modified_at | date_to_xmlschema }}</updated>
+  {% else %}
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+  {% endif %}
+    <id>{{ post_absolute_url }}</id>
+    {% capture post_summary %}{% include post-summary.html max_length=400 %}{% endcapture %}
+    <!-- CDATA because the final replace turns every & into &amp;, which HTML decodes back -->
+    <content type="html"><![CDATA[
+    {% if post.image.path %}<p><img src="{{ post.image.path | absolute_url }}" alt="{{ post.image.alt }}"></p>{% endif %}
+    <p>{{ post_summary | strip }}</p>
+    <p><a href="{{ post_absolute_url }}">Read more on maker.rip</a></p>
+    ]]></content>
+  {% if post.image.path %}
+    <media:thumbnail url="{{ post.image.path | absolute_url }}" />
+  {% endif %}
+    <author>
+      <name>{{ post.author | default: site.social.name }}</name>
+    </author>
+
+  {% if post.categories %}
+    {% for category in post.categories %}
+    <category term="{{ category }}" />
+    {% endfor %}
+  {% endif %}
+
+  <summary>{% include post-summary.html max_length=400 %}</summary>
+
+  </entry>
+{% endfor %}
+</feed>
+{% endcapture %}
+{{ source | replace: '&', '&amp;' }}

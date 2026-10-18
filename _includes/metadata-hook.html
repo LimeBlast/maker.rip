@@ -3,6 +3,9 @@
   <script defer src="https://pythia.limeblast.co.uk/omen.js" data-website-id="f561cad4-2ab3-4940-b5ef-01f5f0035563"></script>
 {% endif %}
 
+<!-- Feed autodiscovery: Chirpy doesn't advertise its own feed -->
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+
 <!-- Sidebar logo: Chirpy crops the avatar to a circle, the Maker.RIP sticker is landscape, so let it be its own shape -->
 <style>
   #avatar { width: 100% !important; height: auto !important; border-radius: 0 !important; box-shadow: none !important; }
