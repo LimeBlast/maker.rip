@@ -32,6 +32,7 @@ Run what CI runs (`.github/workflows/pages-deploy.yml`): `python3 bin/check-imag
 
 - Root files without front matter are published verbatim; add repo-only files (like this one) to `exclude:` in `_config.yml`.
 - `jekyll serve` ignores `_config.yml` edits until restarted, and a running server rewrites `_site` over a separate `jekyll build`.
+- `pwa.cache.enabled` is off: Chirpy 7.6.0's service worker never updates in Safari, stranding readers on cached pages.
 - The starter's git-lastmod plugin was removed on purpose: the 2026 import commits would label every old post "Updated".
 - `Gemfile.lock` is committed with Linux platforms for CI; Dependabot groups gem and Actions updates weekly.
 - DNS for maker.rip is at OVH and also carries Proton Mail records (MX, SPF, DKIM, verification TXT); keep those intact when editing the zone.
