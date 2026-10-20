@@ -1,14 +1,15 @@
 ---
-title: Useful maker resources (2019)
-date: 2019-12-15 12:00 +0000
-description: "The books, communities, shops, YouTube channels, courses and services that helped me most as a new maker, as of the end of 2019."
+title: Useful maker resources from 2019
+date: 2026-10-19 10:00 +0100
+description: The books, communities, shops, YouTube channels, courses and services
+  that helped me most as a new maker, as of the end of 2019.
 categories:
 - personal
 tags:
+- maker-rip-restoration
 - resources
 ---
-
-_This is a snapshot of the "Useful Resources" page from the old version of this site, as it stood in December 2019. It's kept for the record, so some of these may have changed or gone since._
+_As part of my ongoing restoration of maker.rip, this is a snapshot of the "Useful Resources" page from the old version of this site, as it stood in December 2019. It's kept for the record, so some of these may have changed or gone since._
 
 As this site is a journal of my journey towards becoming a maker, I figure it's only fair I leave some waypoints and markers for others starting out on the same journey. To this end, here is a list of resources that I've found helpful, which can hopefully provide a starting point for others. I'll endeavour to keep this list updated with more resources as I discover them.
 

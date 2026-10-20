@@ -1,5 +1,6 @@
 ---
 title: Two more from The Weekend Woodworker
+date: 2026-10-19 11:00 +0100
 description: "The Harmony garden bench and Sonoma coffee table, the two Weekend Woodworker builds I never got round to writing up."
 image:
   path: /assets/img/2026/10/sonoma-coffee-table.jpg
@@ -7,10 +8,13 @@ image:
 categories:
 - other-builds
 tags:
+- maker-rip-restoration
 - steve-ramsey
 - the-weekend-woodworker
 - 2x4s
 ---
+
+_As part of my ongoing restoration of maker.rip, I'm writing up the projects from the old version of this site that never got a post of their own._
 
 I've written about the [workbench](/2018/08/21/i-built-a-workbench/) and the [patio table](/2018/09/03/patio-table-build/) from Steve Ramsey's [Weekend Woodworker](https://theweekendwoodworker.com/) course, and reviewed the course itself for Hackspace Magazine. Two builds from it only ever made it onto the old site's portfolio page, so here they are.
 

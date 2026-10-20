@@ -1,14 +1,15 @@
 ---
 title: The tools I owned in 2019
-date: 2019-09-16 12:00 +0100
-description: "Every tool in my workshop as of September 2019, from the Bosch Power for ALL cordless range to my Aldi bargains, with notes on each."
+date: 2026-10-19 09:00 +0100
+description: Every tool in my workshop as of September 2019, from the Bosch Power
+  for ALL cordless range to my Aldi bargains, with notes on each.
 categories:
 - personal
 tags:
+- maker-rip-restoration
 - tools
 ---
-
-_This is a snapshot of the "Tools I Use" page from the old version of this site, as it stood in September 2019. It's kept for the record rather than as current advice, and most of the Aldi links now go to archived copies._
+_As part of my ongoing restoration of maker.rip, this is a snapshot of the "Tools I Use" page from the old version of this site, as it stood in September 2019. It's kept for the record rather than as current advice, and most of the Aldi links now go to archived copies._
 
 You don't need to have the best or most expensive tools to be a good maker. The higher prices paid for premium equipment may well lend useful or time saving features to the professional that uses them on a daily basis, but for the part time maker such as myself, the jigsaw picked up for £15 from the middle isle of Aldi works just as well as the Makita model that costs four times as much.
 

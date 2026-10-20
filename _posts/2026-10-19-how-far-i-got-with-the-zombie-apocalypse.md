@@ -1,17 +1,15 @@
 ---
 title: How far I got with the zombie apocalypse
-description: "TODO: one sentence, under 160 characters, in my voice."
-# Uncomment and point at a photo in assets/img/YYYY/MM/ (around 1200x630):
-# image:
-#   path: /assets/img/YYYY/MM/header.jpg
-#   alt: "What the photo shows"
+date: 2026-10-19 10:30 +0100
+description: "Looking back at the zombie apocalypse project that started this blog: what I set out to do, and the four projects I finished before changing direction."
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 tags:
+- maker-rip-restoration
 - planning
 ---
 
-TODO: intro. Looking back at the project that started this blog, how far I got, and why I stopped.
+_As part of my ongoing restoration of maker.rip, I've brought together three pages from the very first version of this site, back in 2016, about the project that started it all._
 
 <!-- Assembled from three pages on the 2016 Ghost site (maker.limeblast.co.uk): "About The Book", "Project Objective" and "My Current Progress". About The Book is word for word the post linked below, so only the link is kept. -->
 
@@ -99,4 +97,4 @@ The book has 20 projects split across 11 chapters, and I fully intended on compl
 
 ## What happened next
 
-TODO: the [slight change in direction](/2017/05/24/slight-change-in-direction/) to Instructables classes, then woodworking, and whether I'll ever pick the book back up.
+In May 2017 I made a [slight change in direction](/2017/05/24/slight-change-in-direction/) towards Instructables classes, and from there into woodworking, so the book has stayed at four and a bit projects ever since.

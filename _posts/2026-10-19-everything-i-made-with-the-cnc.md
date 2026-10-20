@@ -1,5 +1,6 @@
 ---
 title: Everything I made with the CNC
+date: 2026-10-19 13:00 +0100
 description: "Eleven displays, signs and gifts I cut on the WorkBee CNC between 2020 and 2021, rescued from the old portfolio pages."
 image:
   path: /assets/img/2026/10/cnc-were-all-mad-here.jpg
@@ -7,11 +8,14 @@ image:
 categories:
 - other-builds
 tags:
+- maker-rip-restoration
 - cnc
 - workbee
 - monumental-me
 - etsy
 ---
+
+_As part of my ongoing restoration of maker.rip, I'm writing up the projects from the old version of this site that never got a post of their own._
 
 Between getting the [Ooznest WorkBee](https://magazine.raspberrypi.com/hackspace/issues/40) in the summer of 2020 and the start of 2021, I cut a lot of things on it. Most of them were gifts, a few were commissions, and some were an attempt at a business called Monumental Me: personalised displays for the home and office, where a coaching session helped you work out what the words should be, and then I carved them. The old site had a portfolio page for each one, which is a bit much for what amounted to a photo and a paragraph, so here they all are in one place. I've already written up [how one of them came together](/2021/02/22/from-idea-to-fruition/) if you want the process.
 

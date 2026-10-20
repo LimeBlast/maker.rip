@@ -1,5 +1,6 @@
 ---
 title: Jack-o'-lanterns, a pet monster and a sleigh
+date: 2026-10-19 12:00 +0100
 description: "Three seasonal builds from 2019 and 2020 that only ever lived on the old portfolio page: scorched pallet-wood lanterns, a light-up monster and a plywood sleigh."
 image:
   path: /assets/img/2026/10/pet-monster-halloween.jpg
@@ -7,6 +8,7 @@ image:
 categories:
 - other-builds
 tags:
+- maker-rip-restoration
 - halloween
 - christmas
 - etsy
@@ -14,6 +16,8 @@ tags:
 - plywood
 - pallet-wood
 ---
+
+_As part of my ongoing restoration of maker.rip, I'm writing up the projects from the old version of this site that never got a post of their own._
 
 Three more rescued from the old site's portfolio page. They don't have much in common beyond a holiday each.
 
