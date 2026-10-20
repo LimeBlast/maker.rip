@@ -3,6 +3,9 @@ title: The tools I owned in 2019
 date: 2026-10-19 09:00 +0100
 description: Every tool in my workshop as of September 2019, from the Bosch Power
   for ALL cordless range to my Aldi bargains, with notes on each.
+image:
+  path: /assets/img/2026/10/tools-rack-header.jpg
+  alt: "Well-used screwdrivers, files, pliers and snips with worn wooden and plastic handles hanging in a wall rack"
 categories:
 - personal
 tags:
@@ -70,3 +73,5 @@ Alas, not everything can be cordless, and sometimes you simply don't want it to 
 ## Jigs
 
 - [Trend PH/JIG/AK Pocket Hole Jig](https://www.amazon.co.uk/dp/B07LC1F565) – Kreg appear to be the popular brand in this area, but I went for the Trend model because the body made of Aluminium felt like it would be longer lasting than the plastic variants.
+
+Header photo by [Tahir Xəlfəquliyev](https://www.pexels.com/@tahir/) on [Pexels](https://www.pexels.com/photo/organized-tools-on-workshop-rack-33000620/), cropped.

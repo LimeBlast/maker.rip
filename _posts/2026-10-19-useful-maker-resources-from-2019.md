@@ -3,6 +3,9 @@ title: Useful maker resources from 2019
 date: 2026-10-19 10:00 +0100
 description: The books, communities, shops, YouTube channels, courses and services
   that helped me most as a new maker, as of the end of 2019.
+image:
+  path: /assets/img/2026/10/books-and-laptop-header.jpg
+  alt: "An open reference book and a blank notebook on a wooden desk beside a laptop and a stack of books"
 categories:
 - personal
 tags:
@@ -111,3 +114,5 @@ We're truly in the golden age of maker videos right now, with no shortage of peo
 - [Pixabay](https://pixabay.com/) – Lots of royalty free photos, illustrations, vectors, and videos, all for free. A lot of the images used for post thumbnails (before I switched to using my own photos) came from here.
 - [Pexels](https://www.pexels.com/) – Similar to Pixabay, lots of photos, released for free under their very flexible licence.
 - [Burst](https://burst.shopify.com/) – More photos, this time sponsored by Shopify.
+
+Header photo by [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko/) on [Pexels](https://www.pexels.com/photo/notebook-and-books-on-wooden-desk-6550408/), cropped.

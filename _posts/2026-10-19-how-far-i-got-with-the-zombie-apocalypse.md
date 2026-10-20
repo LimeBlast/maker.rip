@@ -2,6 +2,9 @@
 title: How far I got with the zombie apocalypse
 date: 2026-10-19 10:30 +0100
 description: "Looking back at the zombie apocalypse project that started this blog: what I set out to do, and the four projects I finished before changing direction."
+image:
+  path: /assets/img/2026/10/zombies-header.jpg
+  alt: "Zombies forcing their way through the broken panes of a pair of glass doors in a derelict house, lit red from behind"
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 tags:
@@ -98,3 +101,5 @@ The book has 20 projects split across 11 chapters, and I fully intended on compl
 ## What happened next
 
 In May 2017 I made a [slight change in direction](/2017/05/24/slight-change-in-direction/) towards Instructables classes, and from there into woodworking, so the book has stayed at four and a bit projects ever since.
+
+Header photo by [cottonbro studio](https://www.pexels.com/@cottonbro/) on [Pexels](https://www.pexels.com/photo/zombies-at-the-door-5435560/), cropped.
