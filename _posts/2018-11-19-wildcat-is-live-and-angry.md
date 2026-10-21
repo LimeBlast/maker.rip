@@ -3,7 +3,7 @@ title: Wildcat is live (and angry)
 description: "Wildcat is finished: a Feather Huzzah and LED matrix in a 3D-printed panel and cat-ear frame, counting the time since Apricat last bit someone."
 date: '2018-11-19 21:27:24'
 image:
-  path: /assets/img/2018/11/IMG_20181119_202201--1-.jpg
+  path: /assets/img/2018/11/IMG_20181119_202201--1--header.jpg
   alt: "Apricat lying on the carpet next to the finished Wildcat display"
 categories:
 - Wildcat

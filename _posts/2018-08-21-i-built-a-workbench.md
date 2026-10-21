@@ -3,7 +3,7 @@ title: I built a workbench
 description: "The first Weekend Woodworker project, the Basic Mobile Workbench, plus first impressions of my mitre saw, impact driver and circular saw."
 date: '2018-08-21 15:03:41'
 image:
-  path: /assets/img/2018/08/IMG_20180821_143420-1-.jpg
+  path: /assets/img/2018/08/IMG_20180821_143420-1--header.jpg
   alt: "The finished workbench, painted lime green with a plywood top, in the shed"
 categories:
 - Weekend Woodworker

@@ -3,7 +3,7 @@ title: Epoxy resin river laptop tray
 date: 2020-02-13 12:00 +0000
 description: "Emma and I made our first epoxy resin river piece, a laptop tray from reclaimed sycamore, and learned where the resin goes when boards aren't flat."
 image:
-  path: /assets/img/2020/02/IMG-20200121-WA0005.jpg
+  path: /assets/img/2020/02/IMG-20200121-WA0005-header.jpg
   alt: "GlassCast resin bottles, mixing cups, pigment pots, green flash tape and a bag of nitrile gloves on a table"
 categories:
 - Projects

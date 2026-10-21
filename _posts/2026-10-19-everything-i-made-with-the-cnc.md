@@ -3,7 +3,7 @@ title: Everything I made with the CNC
 date: 2026-10-19 13:00 +0100
 description: "Eleven displays, signs and gifts I cut on the WorkBee CNC between 2020 and 2021, rescued from the old portfolio pages."
 image:
-  path: /assets/img/2026/10/cnc-were-all-mad-here.jpg
+  path: /assets/img/2026/10/cnc-were-all-mad-here-header.jpg
   alt: "A beech board carved with We're All Mad Here and a wide Cheshire Cat grin, highlighted in silver, on a blue background"
 categories:
 - Projects

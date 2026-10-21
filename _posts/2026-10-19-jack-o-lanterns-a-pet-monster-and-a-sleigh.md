@@ -3,7 +3,7 @@ title: Jack-o'-lanterns, a pet monster and a sleigh
 date: 2026-10-19 12:00 +0100
 description: "Three seasonal builds from 2019 and 2020 that only ever lived on the old portfolio page: scorched pallet-wood lanterns, a light-up monster and a plywood sleigh."
 image:
-  path: /assets/img/2026/10/pet-monster-halloween.jpg
+  path: /assets/img/2026/10/pet-monster-halloween-header.jpg
   alt: "A light box glowing red with a monster silhouette behind a small girl, on a shelf beside skeleton figures and a pumpkin-headed statue"
 categories:
 - Projects

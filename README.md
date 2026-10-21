@@ -38,7 +38,7 @@ _Optional caption, in italics on the line straight after the image_
 {% include youtube.html id='VIDEO_ID' title="Video title" %}
 ```
 
-- **Images** go in `assets/img/YYYY/MM/`. Header images work best around 1200×630. Shrink phone photos and strip their metadata (it includes GPS) before committing, and avoid brackets in filenames.
+- **Images** go in `assets/img/YYYY/MM/`. Header images must be 40:21 (1200×630, or smaller at the same shape): the deploy fails otherwise, and `--fix` can't choose the crop for you. If the photo is also used in the post body, save the crop as a separate `-header` file. Shrink phone photos and strip their metadata (it includes GPS) before committing, and avoid brackets in filenames.
 - **Every image needs alt text** and **every link must be `https://`**: the deploy's link check fails otherwise. Details show in the repo's Actions tab.
 - **Categories** in use (title case; the URL is the slugified name): `Personal`, `Weekend Woodworker`, `Wildcat`, `Spooktober`, `Projects`, `Review`, `The Building Block`, `The Makers Guide to the Zombie Apocalypse` (no apostrophe, which would change the URL). New ones get a page automatically.
 - **Tags** are title case too, with proper names spelled as their owners do (`Raspberry Pi`, `HackSpace Magazine`, `LEDs`). Reuse an existing tag's exact spelling: `Raspberry pi` would be a separate tag with the same URL.

@@ -3,7 +3,7 @@ title: I own a workshop!
 date: 2019-06-01 12:00 +0100
 description: "A year after moving in, my shed has evolved into a proper workshop, thanks to my parents. Here's how it went up over a week."
 image:
-  path: /assets/img/2019/06/IMG_20190523_161526.jpg
+  path: /assets/img/2019/06/IMG_20190523_161526-header.jpg
   alt: "The finished workshop, a timber building with a row of windows and double doors, on its paved base"
 categories:
 - Personal

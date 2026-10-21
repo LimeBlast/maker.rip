@@ -3,7 +3,7 @@ title: Two more from The Weekend Woodworker
 date: 2026-10-19 11:00 +0100
 description: "The Harmony garden bench and Sonoma coffee table, the two Weekend Woodworker builds I never got round to writing up."
 image:
-  path: /assets/img/2026/10/sonoma-coffee-table.jpg
+  path: /assets/img/2026/10/sonoma-coffee-table-header.jpg
   alt: "A pine coffee table with a framed top standing on a cream rug in front of a white fireplace"
 categories:
 - Projects

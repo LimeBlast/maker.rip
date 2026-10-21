@@ -3,7 +3,7 @@ title: My progress up to this point
 description: "How I got here: the free Pi Zero on The MagPi, a growing Raspberry Pi collection, and wrestling with C via an Arduino Starter Kit."
 date: '2016-06-01 14:34:59'
 image:
-  path: /assets/img/2016/06/rapi.jpg
+  path: /assets/img/2016/06/rapi-header.jpg
   alt: "Close-up of a Raspberry Pi circuit board"
 categories:
 - Personal
