@@ -42,11 +42,18 @@ for f in sorted(ROOT.rglob('*')):
                 if f.stat().st_size <= MAX_BYTES:
                     break
         print(f'fixed {f.relative_to(ROOT.parent.parent)} ({", ".join(problems)})')
+        if f.stat().st_size > MAX_BYTES:
+            # ponytail: no auto PNG->JPEG, renaming breaks post references and drops transparency
+            hint = '; convert to .jpg and update the posts that use it' if f.suffix.lower() == '.png' else ''
+            bad.append(f'{f.relative_to(ROOT.parent.parent)}: still {f.stat().st_size // 1024}KB after fixing{hint}')
     else:
         bad.append(f'{f.relative_to(ROOT.parent.parent)}: {", ".join(problems)}')
 
 if bad:
     print('\n'.join(bad))
-    print(f'\n{len(bad)} image(s) over {MAX_PX}px / {MAX_BYTES // 1000}KB or with EXIF. Run: python3 bin/check-images.py --fix')
+    if fix:
+        print(f'\n{len(bad)} image(s) still over {MAX_BYTES // 1000}KB; fix by hand.')
+    else:
+        print(f'\n{len(bad)} image(s) over {MAX_PX}px / {MAX_BYTES // 1000}KB or with EXIF. Run: python3 bin/check-images.py --fix')
     sys.exit(1)
 print('images ok')
