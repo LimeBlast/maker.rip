@@ -7,10 +7,10 @@ image:
   path: /assets/img/2026/10/books-and-laptop-header.jpg
   alt: "An open reference book and a blank notebook on a wooden desk beside a laptop and a stack of books"
 categories:
-- personal
+- Personal
 tags:
-- maker-rip-restoration
-- resources
+- Maker.rip Restoration
+- Resources
 ---
 _As part of my ongoing restoration of maker.rip, this is a snapshot of the "Useful Resources" page from the old version of this site, as it stood in December 2019. It's kept for the record, so some of these may have changed or gone since._
 

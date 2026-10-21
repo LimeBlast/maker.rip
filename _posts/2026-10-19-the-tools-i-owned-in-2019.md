@@ -7,10 +7,10 @@ image:
   path: /assets/img/2026/10/tools-rack-header.jpg
   alt: "Well-used screwdrivers, files, pliers and snips with worn wooden and plastic handles hanging in a wall rack"
 categories:
-- personal
+- Personal
 tags:
-- maker-rip-restoration
-- tools
+- Maker.rip Restoration
+- Tools
 ---
 _As part of my ongoing restoration of maker.rip, this is a snapshot of the "Tools I Use" page from the old version of this site, as it stood in September 2019. It's kept for the record rather than as current advice, and most of the Aldi links now go to archived copies._
 

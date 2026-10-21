@@ -7,9 +7,9 @@ image:
   alt: A selfie of me and Lucy smiling outside The Plum Pudding pub in Armitage, its
     name painted in large white letters on a dark purple wall behind us
 categories:
-- personal
+- Personal
 tags:
-- life-update
+- Life Update
 date: 2026-10-18 14:09 +0100
 ---
 Like the zombies this site is helping me prepare for, this site has returned from the dead. But before I get into what I'm planning to do with it, I figured I should explain where I've been, and to do that, we need to go back a bit.

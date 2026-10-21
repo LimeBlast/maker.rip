@@ -6,10 +6,10 @@ image:
   path: /assets/img/2026/10/zombies-header.jpg
   alt: "Zombies forcing their way through the broken panes of a pair of glass doors in a derelict house, lit red from behind"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 tags:
-- maker-rip-restoration
-- planning
+- Maker.rip Restoration
+- Planning
 ---
 
 _As part of my ongoing restoration of maker.rip, I've brought together three pages from the very first version of this site, back in 2016, about the project that started it all._

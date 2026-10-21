@@ -6,18 +6,18 @@ image:
   path: /assets/img/2020/02/IMG-20200121-WA0005.jpg
   alt: "GlassCast resin bottles, mixing cups, pigment pots, green flash tape and a bag of nitrile gloves on a table"
 categories:
-- other-builds
+- Projects
 tags:
-- belt-sander
-- bristol-wood-recycling-project
-- epoxy-resin
-- glasscast
-- live-edge
-- random-orbit-sander
-- reclaimed-wood
-- table-saw
-- waney-edge
-- missing-images
+- Belt Sander
+- Bristol Wood Recycling Project
+- Epoxy Resin
+- Glasscast
+- Live Edge
+- Random Orbit Sander
+- Reclaimed Wood
+- Table Saw
+- Waney Edge
+- Missing Images
 ---
 
 For the longest time I've wanted to play with epoxy resin. Watching makers like [Peter Brown](https://www.youtube.com/user/kludge1977), [Ben's Worx](https://www.youtube.com/channel/UC3fC1bdqmaUTfgX88YGUf9Q), and [TheCrafsMan](https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w) on YouTube inspired the desire to use resin in a project, and conversations with my patron, Emma, revealed that she had similar desires, so during the first weekend of February she joined me in my workshop, and powered with nothing more than imagination and ill-gained confidence, we decided to make an epoxy resin river laptop tray for her husband.

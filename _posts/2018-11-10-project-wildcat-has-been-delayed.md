@@ -6,12 +6,12 @@ image:
   path: /assets/img/2018/11/IMG_20181110_100407-1-.jpg
   alt: "Wildcat's parts laid out: the cat-ear frame with its Wildcat since incident panel, the Feather Huzzah in its 3D-printed case, and the LED matrix"
 categories:
-- wildcat
+- Wildcat
 tags:
-- feather-huzzah
-- adafruit-io
-- c
-- arduino
+- Feather HUZZAH
+- Adafruit IO
+- C
+- Arduino
 ---
 
 It is with no small amount of sadness that I have to report that, in the final stretches of the build of Wildcat, I've inadvertently managed to set my progress back for a few days.

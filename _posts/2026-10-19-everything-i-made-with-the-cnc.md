@@ -6,13 +6,13 @@ image:
   path: /assets/img/2026/10/cnc-were-all-mad-here.jpg
   alt: "A beech board carved with We're All Mad Here and a wide Cheshire Cat grin, highlighted in silver, on a blue background"
 categories:
-- other-builds
+- Projects
 tags:
-- maker-rip-restoration
-- cnc
-- workbee
-- monumental-me
-- etsy
+- Maker.rip Restoration
+- CNC
+- WorkBee
+- Monumental Me
+- Etsy
 ---
 
 _As part of my ongoing restoration of maker.rip, I'm writing up the projects from the old version of this site that never got a post of their own._

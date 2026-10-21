@@ -6,11 +6,11 @@ image:
   path: /assets/img/2026/10/sonoma-coffee-table.jpg
   alt: "A pine coffee table with a framed top standing on a cream rug in front of a white fireplace"
 categories:
-- other-builds
+- Projects
 tags:
-- maker-rip-restoration
-- steve-ramsey
-- the-weekend-woodworker
+- Maker.rip Restoration
+- Steve Ramsey
+- The Weekend Woodworker
 - 2x4s
 ---
 

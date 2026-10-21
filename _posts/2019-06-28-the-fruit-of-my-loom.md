@@ -4,10 +4,10 @@ date: 2019-06-28 12:00 +0100
 description: "My friend Emma has started weaving on the inkle loom I built her, and sent me photos of her progress over WhatsApp."
 # Header image missing: WhatsApp-Image-2019-05-08-at-6.10.10-PM1.jpeg (also in the post below)
 categories:
-- the-building-block
+- The Building Block
 tags:
-- weaving
-- missing-images
+- Weaving
+- Missing Images
 ---
 
 Following on from my post about the [loom I build for my friend Emma](/2019/04/16/my-first-commission/), I have an update to share on her progress using it, delivered via the medium of WhatsApp images, and the comments she put next to them.

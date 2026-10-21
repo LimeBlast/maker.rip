@@ -6,7 +6,7 @@ image:
   path: /assets/img/2021/02/from-idea-to-fruition.png
   alt: "A WorkBee CNC machine with a router fitted, under a banner reading From Idea to Fruition"
 categories:
-- other-builds
+- Projects
 ---
 
 With my review of the Ooznest WorkBee CNC being [published in Hackspace Magazine last week](https://magazine.raspberrypi.com/hackspace/issues/40), I figured this would be a good time to run though the general process I follow when designing for, and running jobs on, the CNC.

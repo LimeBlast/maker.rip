@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/08/photo-1441171205449-f600f908a9f3--1-.jpg
   alt: "A clear incandescent light bulb lying in the grass"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 Unfortunately, today has turned into a bit of a failure.

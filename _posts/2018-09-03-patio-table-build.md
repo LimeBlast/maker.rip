@@ -6,7 +6,7 @@ image:
   path: /assets/img/2018/09/IMG_20180903_122741-1-.jpg
   alt: "The finished patio table, painted pale blue, between two garden chairs"
 categories:
-- weekend-woodworker
+- Weekend Woodworker
 ---
 
 _(A second real photo as the feature image - this can't be right?)_

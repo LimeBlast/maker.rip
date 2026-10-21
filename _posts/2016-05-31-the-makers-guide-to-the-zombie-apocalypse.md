@@ -6,11 +6,11 @@ image:
   path: /assets/img/2018/02/IMG_0695-1-.jpg
   alt: "A copy of The Maker's Guide to the Zombie Apocalypse by Simon Monk on a wooden table"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 tags:
-- review
-- arduino
-- raspberry-pi
+- Review
+- Arduino
+- Raspberry Pi
 ---
 
 [The Maker's Guide to the Zombie Apocalypse](https://www.amazon.co.uk/dp/1593276672), a book written by Simon Monk (who I gather is quite well known within the maker community, having [authored various books](https://www.amazon.co.uk/e/B003VOT2DI) on the Arduino and Raspberry Pi), is clearly something that knows how to motivate me.

@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/06/ps-photo-1422225439441-f09fb9a237b7--1-.jpg
   alt: "Lightning forking across the night sky above silhouetted trees"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 I am Edison. I am Tesla. I am capable of generating power from the very sun itself. I am God!

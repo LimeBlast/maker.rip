@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/06/ps-photo-1448032279986-c25cf997c38e--1-.jpg
   alt: "Sunbeams breaking through dark clouds"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 Maybe not rain, but there's certainly no sun today, and that makes testing my solar panel challenging.

@@ -4,8 +4,10 @@ description: "The first of five evening woodworking classes at The Building Bloc
 image:
   path: /assets/img/2019/04/table-saw-1.jpg
   alt: "Me ripping a plank on the table saw at The Building Block"
-category: the-building-block
-tags: worcester
+categories:
+- The Building Block
+tags:
+- Worcester
 ---
 Last night I attended the first of five evening woodworking classes at [The Building Block](https://www.worcestercommunitytrust.org.uk/building-block/), a local community center in Worcester
 

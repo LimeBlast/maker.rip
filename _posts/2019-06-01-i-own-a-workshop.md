@@ -6,9 +6,9 @@ image:
   path: /assets/img/2019/06/IMG_20190523_161526.jpg
   alt: "The finished workshop, a timber building with a row of windows and double doors, on its paved base"
 categories:
-- personal
+- Personal
 tags:
-- shed
+- Shed
 ---
 
 I moved into my current house around a year ago, and as I mentioned at the time, I was super excited by the prospect of [owning a shed](/2018/06/21/i-own-a-shed/). Fast forward a year, and much like a Pokémon, the shed has evolved into a workshop, thanks to a very generous donation by my parents.

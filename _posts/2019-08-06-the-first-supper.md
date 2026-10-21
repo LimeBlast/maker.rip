@@ -6,20 +6,20 @@ image:
   path: /assets/img/2019/08/IMG_20190723_151038.jpg
   alt: "The grey-topped outdoor dining table with white trestle legs and six chairs on the patio, with the workshop behind"
 categories:
-- other-builds
+- Projects
 tags:
 - 2x4s
-- evolution
-- homebase
-- kreg
-- mitre-saw
-- pocket-hole-jig
-- shanty2chic
-- steve-ramsey
-- the-weekend-woodworker
-- trend
-- wickes
-- missing-images
+- Evolution
+- Homebase
+- Kreg
+- Mitre Saw
+- Pocket Hole Jig
+- Shanty2Chic
+- Steve Ramsey
+- The Weekend Woodworker
+- Trend
+- Wickes
+- Missing Images
 ---
 
 Toward the back of our garden, just before the [newly build workshop](/2019/06/01/i-own-a-workshop/), we have a beautiful pergola that is intertwined with a wisteria tree. This provides cover to a patio area which is prime real estate for a dining table to be placed in it, so a few weeks ago, I took up the challenge of building one.

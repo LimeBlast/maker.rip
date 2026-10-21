@@ -4,13 +4,13 @@ date: 2019-11-12 12:00 +0000
 description: "I've bought 13 tools from Aldi's middle aisle and only had a problem with one. Here's why I'm happy to recommend Workzone and Ferrex."
 # Header image missing: 161708208.jpg.gallery.jpg
 categories:
-- review
+- Review
 tags:
-- aldi
-- ferrex
-- lidl
-- workzone
-- missing-images
+- Aldi
+- Ferrex
+- Lidl
+- Workzone
+- Missing Images
 ---
 
 Aldi (like Lidl) is a strange store. Not content with simply offering cut price groceries, if you manage to walk out of the store without a brand new HD TV, a WIFI-extending double power socket, and an inflatable dingy in your bag with your 17 tins of bakes beans, you've got more resolve than I.

@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/10/pexels-photo-179993--1-.jpg
   alt: "CCTV cameras on a pole against a blue sky"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 Just a quickie, this time, to let you know I've finally completed Project 6: PIR Zombie Detector.

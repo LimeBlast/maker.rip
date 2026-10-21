@@ -6,15 +6,15 @@ image:
   path: /assets/img/2020/02/early-memories-collage.jpg
   alt: "A collage of photos of me as a child, from baby to school age"
 categories:
-- personal
+- Personal
 tags:
-- arduino
-- leds
-- magpi-magazine
-- plywood
-- robot
-- woodworking
-- missing-images
+- Arduino
+- LEDs
+- MagPi Magazine
+- Plywood
+- Robot
+- Woodworking
+- Missing Images
 ---
 
 I figured it might be fun to talk about some of my earliest memories of being a maker.

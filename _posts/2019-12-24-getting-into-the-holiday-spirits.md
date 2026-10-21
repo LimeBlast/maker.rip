@@ -6,26 +6,26 @@ image:
   path: /assets/img/2019/12/christmas-1911637.jpg
   alt: "Pine cones, fir branches, walnuts and a string-tied gift on a dark wooden table"
 categories:
-- other-builds
+- Projects
 tags:
-- aldi
-- bandsaw
-- beer
-- bottle-opener
-- brad-nailer
-- chalkboard-paint
-- cheltenham-hackspace
-- cider
-- cyprus
-- dremel
-- forstner
-- holesaw
-- homesense
-- paint-gun
-- pinterest
-- router
-- varnish
-- missing-images
+- Aldi
+- Bandsaw
+- Beer
+- Bottle Opener
+- Brad Nailer
+- Chalkboard Paint
+- Cheltenham Hackspace
+- Cider
+- Cyprus
+- Dremel
+- Forstner
+- Holesaw
+- HomeSense
+- Paint Gun
+- Pinterest
+- Router
+- Varnish
+- Missing Images
 ---
 
 For the 2018 festive season I started what I hoped would become a tradition of making Christmas gifts for my friends and family, by making eight wall-mounted bottle openers. I'd had the idea some time in late Autumn 2018, but it was early December before I started, and with everything else I had going on, that didn't leave much time to do as good a job as I had wanted.

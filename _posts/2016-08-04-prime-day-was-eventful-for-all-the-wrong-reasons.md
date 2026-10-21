@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/08/photo-1443175679639-685643a7fd62--1-.jpg
   alt: "Aerial view of city streets lit up at night"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 The 12th July was [Prime Day](https://www.amazon.co.uk/primeday), Amazon's answer to the <em>blue cross sale</em>.

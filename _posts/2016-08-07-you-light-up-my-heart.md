@@ -6,9 +6,9 @@ image:
   path: /assets/img/2016/08/image.jpg
   alt: "A crowd at night holding up glowing neon signs shaped like a cross and a heart"
 categories:
-- other-builds
+- Projects
 tags:
-- circuit-stickers
+- Circuit Stickers
 ---
 
 If you'll indulge me for just a moment, I want to talk about something which isn't related to zombies, but is about electronics and my attempts to get creative.

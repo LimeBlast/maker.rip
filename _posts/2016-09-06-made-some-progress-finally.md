@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/09/progress--1-.jpg
   alt: "A green enamel lampshade hanging over a filament bulb"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 This is a short post with a simple mission - to inform all (three) of you of my success in completing Project 3: LED Lighting.

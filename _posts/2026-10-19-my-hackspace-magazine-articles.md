@@ -6,10 +6,10 @@ image:
   path: /assets/img/2026/10/hackspace-covers-header.jpg
   alt: "The covers of HackSpace issues 4, 13, 22, 25 and 40 fanned out left to right, overlapping, with issue 40's Raspberry Pi Pico cover in full at the front"
 categories:
-- review
+- Review
 tags:
-- maker-rip-restoration
-- hackspace-magazine
+- Maker.rip Restoration
+- HackSpace Magazine
 ---
 
 _As part of my ongoing restoration of maker.rip, I've gathered up the short pages the old version of this site had for each review I wrote for HackSpace magazine._

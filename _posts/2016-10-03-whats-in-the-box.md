@@ -6,9 +6,9 @@ image:
   path: /assets/img/2016/10/pexels-photo-24325--1-.jpg
   alt: "Someone packing a cardboard box at a desk"
 categories:
-- review
+- Review
 tags:
-- arduino
+- Arduino
 ---
 
 A couple of months ago I got really excited when I saw that Adafruit had launched a curated box of products suitable for anyone that's part of the maker scene. The [AdaBox](https://www.adafruit.com/adabox) follows the same concept as something like Loot Crate, which has a unique theme per box and includes a bunch of items related to that theme. Once a particular box is gone, it's gone.

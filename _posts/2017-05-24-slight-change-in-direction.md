@@ -6,9 +6,9 @@ image:
   path: /assets/img/2017/05/brendan-church-182747--1-.jpg
   alt: "Two One Way street signs pointing in opposite directions"
 categories:
-- personal
+- Personal
 tags:
-- instructables
+- Instructables
 ---
 
 When I first started this blog it was designed as a repository of thoughts as I read though, and complete the projects within, [The Maker's Guide to the Zombie Apocalypse](/categories/the-makers-guide-to-the-zombie-apocalypse/).

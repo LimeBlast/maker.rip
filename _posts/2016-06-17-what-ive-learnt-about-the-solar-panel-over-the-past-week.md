@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/06/1-1244733769dJLl--1-.jpg
   alt: "Close-up of the cells on a solar panel"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 As mentioned in my last post, the weather has been terrible for testing the solar panel.

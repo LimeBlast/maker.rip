@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/09/mistakes--1-.jpg
   alt: "Pendant lights made from glass jars, hanging in a row"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 After a number of failures with the other projects I've worked on recently, I was looking forward to a success with Project 3: LED Lights.

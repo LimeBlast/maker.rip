@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/10/pexels-photo-alt--1-.jpg
   alt: "A security camera on a brick wall, partly covered in ivy"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 When we last left our handsome hero he was [securing the perimeter](/2016/10/01/securing-the-perimeter/) using a PIR sensor and an Arduino. The rig was designed to raise an alarm via a piezo buzzer when the sensor detected movement. With the ability to easily place PIR sensors along the base's perimeter, it was good for telling you that someone (or something) was at the door, but not who (or what).

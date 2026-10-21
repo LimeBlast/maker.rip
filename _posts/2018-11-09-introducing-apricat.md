@@ -6,9 +6,9 @@ image:
   path: /assets/img/2018/11/IMG_20181103_074113--1-.jpg
   alt: "Apricat, a ginger and white cat, lying on a leather sofa beside the TV remote"
 categories:
-- wildcat
+- Wildcat
 tags:
-- personal
+- Personal
 ---
 
 _It was around 7:30 in the morning when Lucy awoke. At first she was confused as to why her body would even consider consciousness at this early hour on a weekend._

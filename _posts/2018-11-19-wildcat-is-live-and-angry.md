@@ -6,10 +6,10 @@ image:
   path: /assets/img/2018/11/IMG_20181119_202201--1-.jpg
   alt: "Apricat lying on the carpet next to the finished Wildcat display"
 categories:
-- wildcat
+- Wildcat
 tags:
-- feather-huzzah
-- tinkercad
+- Feather HUZZAH
+- Tinkercad
 ---
 
 This is the third post in the [Wildcat saga](/categories/wildcat/), so if this is your first time reading this blog it might be worth catching up - to find out more about the antagonist of our story, start with [Introducing Apricat](/2018/11/09/introducing-apricat/), and to understand our approach to solving the problem (and one of the challenges I've encountered on the way), read [Project Wildcat... has been delayed](/2018/11/10/project-wildcat-has-been-delayed/).

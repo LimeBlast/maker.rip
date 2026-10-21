@@ -6,7 +6,7 @@ image:
   path: /assets/img/2018/07/image.jpg
   alt: "Hand tools hung neatly on a workshop wall"
 categories:
-- weekend-woodworker
+- Weekend Woodworker
 ---
 
 For a craft where the principle material literally grows on trees, it's surprising just how expensive it is to get started in woodworking.

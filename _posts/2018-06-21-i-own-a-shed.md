@@ -6,7 +6,7 @@ image:
   path: /assets/img/2018/06/OxzhYtL-00Y-1-.jpg
   alt: "A green bicycle leaning against an old weathered wooden shed"
 categories:
-- personal
+- Personal
 ---
 
 When I first started this blog I was living in a small two-bedroom flat in the centre of Birmingham. It was great for transport, shopping, and restaurants, but terrible for project work.

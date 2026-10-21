@@ -6,7 +6,7 @@ image:
   path: /assets/img/2017/01/8z2Q6XWLYa4--1-.jpg
   alt: "A pair of compasses on a wooden workbench"
 categories:
-- personal
+- Personal
 ---
 
 It's been a while since my last post, so I wanted to spend a moment talking about what I've been up to.

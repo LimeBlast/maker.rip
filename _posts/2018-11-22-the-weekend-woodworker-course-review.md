@@ -6,9 +6,9 @@ image:
   path: /assets/img/2018/11/IMG_20181122_105000-1--1.jpg
   alt: "My Weekend Woodworker review printed in HackSpace magazine"
 categories:
-- weekend-woodworker
+- Weekend Woodworker
 tags:
-- hackspace-magazine
+- HackSpace Magazine
 ---
 
 As anyone that follows this blog knows, I've slowly been working my way though [the Weekend Woodworker course](/categories/weekend-woodworker/) by Steve Ramsey.

@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/08/one_step--1-.jpg
   alt: "Someone in ripped jeans jumping on a leaf-covered woodland path"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 One of my friends, a young gentleman by the name of Cos, has a healthy respect for the idea that the zombie apocalypse isn't an <em>if</em> - but a <em>when</em>. This is something which informs his everyday life, and will often guide his decisions.

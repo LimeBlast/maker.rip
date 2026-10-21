@@ -6,7 +6,7 @@ image:
   path: /assets/img/2018/08/alex-jones-6800-unsplash-1-.jpg
   alt: "Stacks of rough-sawn timber planks"
 categories:
-- weekend-woodworker
+- Weekend Woodworker
 ---
 
 _(I already hate myself for that title)_

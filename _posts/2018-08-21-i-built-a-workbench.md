@@ -6,7 +6,7 @@ image:
   path: /assets/img/2018/08/IMG_20180821_143420-1-.jpg
   alt: "The finished workbench, painted lime green with a plywood top, in the shed"
 categories:
-- weekend-woodworker
+- Weekend Woodworker
 ---
 
 This weekend I completed the first project from [the Weekend Woodworker course](https://theweekendwoodworker.com/) by [Steve Ramsey](https://www.youtube.com/user/stevinmarin), and I'm actually proud enough of it that I'm going to use it as the feature image for this post, instead of my usual click bait stock photos.

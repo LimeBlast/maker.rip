@@ -6,11 +6,11 @@ image:
   path: /assets/img/2018/10/IMG_20181008_141454-1-.jpg
   alt: "The wooden Jack-o'-lantern, its carved face glowing orange, next to a potted plant"
 categories:
-- spooktober
+- Spooktober
 tags:
-- halloween
-- reclaimed-wood
-- circuit-playground-express
+- Halloween
+- Reclaimed Wood
+- Circuit Playground Express
 ---
 
 Unlike [the last time I tried building something ready for Halloween](/2017/02/09/my-halloween-box-isnt-four-months-late-its-eight-months-early/), I'm somewhat proud of the fact that I was able to have an idea for a project on a Thursday, and have it finished by the Sunday.

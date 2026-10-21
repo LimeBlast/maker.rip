@@ -6,7 +6,7 @@ image:
   path: /assets/img/2016/06/let-there-be-light--1-.jpg
   alt: "A person standing on the tip of a grassy headland, looking out over a calm sea at sunrise"
 categories:
-- the-makers-guide-to-the-zombie-apocalypse
+- The Makers Guide to the Zombie Apocalypse
 ---
 
 The [solar panel](https://www.amazon.co.uk/dp/B016OOM2WY) arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.

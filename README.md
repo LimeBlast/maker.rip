@@ -25,9 +25,9 @@ image:
   path: /assets/img/2026/10/header.jpg
   alt: "What the photo shows"
 categories:
-- personal
+- Personal
 tags:
-- some-tag
+- Some Tag
 ---
 
 Body in Markdown.
@@ -40,7 +40,8 @@ _Optional caption, in italics on the line straight after the image_
 
 - **Images** go in `assets/img/YYYY/MM/`. Header images work best around 1200×630. Shrink phone photos and strip their metadata (it includes GPS) before committing, and avoid brackets in filenames.
 - **Every image needs alt text** and **every link must be `https://`**: the deploy's link check fails otherwise. Details show in the repo's Actions tab.
-- **Categories** in use: `personal`, `weekend-woodworker`, `wildcat`, `spooktober`, `other-builds`, `review`, `the-building-block`, `the-makers-guide-to-the-zombie-apocalypse`. New ones get a page automatically.
+- **Categories** in use (title case; the URL is the slugified name): `Personal`, `Weekend Woodworker`, `Wildcat`, `Spooktober`, `Projects`, `Review`, `The Building Block`, `The Makers Guide to the Zombie Apocalypse` (no apostrophe, which would change the URL). New ones get a page automatically.
+- **Tags** are title case too, with proper names spelled as their owners do (`Raspberry Pi`, `HackSpace Magazine`, `LEDs`). Reuse an existing tag's exact spelling: `Raspberry pi` would be a separate tag with the same URL.
 - **YouTube and other embeds load only when clicked**, so no third party sees a page view and no consent banner is needed. For YouTube, save `https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg` as `assets/img/youtube/VIDEO_ID.jpg` and use the include above. Anything else (e.g. Tinkercad): `{% include click-to-load.html service="Tinkercad" src="<iframe URL>" href="<page URL>" poster="/assets/img/…" title="…" %}`.
 - `pin: true` keeps a post at the top of the homepage.
 - A post dated in the future stays hidden until a rebuild after that date.

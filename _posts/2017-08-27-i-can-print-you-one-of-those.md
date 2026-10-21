@@ -6,9 +6,9 @@ image:
   path: /assets/img/2017/08/3d-printer-1-.jpg
   alt: "A jumble of wooden letterpress type blocks"
 categories:
-- other-builds
+- Projects
 tags:
-- 3d-printer
+- 3D Printer
 ---
 
 On the 28th July 2017, shortly after moving to Worcester with my girlfriend (say hello, Lucy), I ordered the [Prusa i3 MK2S](https://www.prusa3d.com/) 3D printer.

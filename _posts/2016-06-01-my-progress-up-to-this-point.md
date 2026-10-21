@@ -6,14 +6,14 @@ image:
   path: /assets/img/2016/06/rapi.jpg
   alt: "Close-up of a Raspberry Pi circuit board"
 categories:
-- personal
+- Personal
 tags:
-- raspberry-pi
-- the-magpi
-- arduino
-- python
-- ruby
-- c
+- Raspberry Pi
+- The MagPi
+- Arduino
+- Python
+- Ruby
+- C
 ---
 
 Nothing exists in a vacuum, and desires don't spring out of nowhere, so it's surely obvious that prior to [spending £126.58 on components](/2016/05/31/im-officially-126-58-more-prepared-than-i-was-yesterday/), I must have engaged in some toe dipping, right?

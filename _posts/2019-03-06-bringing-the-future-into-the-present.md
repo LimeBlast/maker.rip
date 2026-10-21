@@ -5,11 +5,11 @@ date: '2019-03-06 15:19:43'
 image:
   path: /assets/img/2019/03/ddeabf38a86146eff02f35468fbfc6b8.jpg
   alt: "Quote over a starry mountain landscape: Planning is bringing the future into the present so that you can do something about it now. Alan Lakein"
-category: 
-- personal
-tags: 
-- goal-setting
-- planning
+categories:
+- Personal
+tags:
+- Goal Setting
+- Planning
 ---
 
 It was around 6:58pm when I stood up. The room only had eight people in it, but they are all looking at me, expectantly. Fuelled by the pint of stout I'd just polished off, I begun to talk.

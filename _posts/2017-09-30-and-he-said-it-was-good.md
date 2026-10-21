@@ -6,11 +6,11 @@ image:
   path: /assets/img/2017/09/photo-1440595228939-3673bdb622b4--1-.jpg
   alt: "Rows of bare filament bulbs hanging from brass holders"
 categories:
-- other-builds
+- Projects
 tags:
-- instructables
-- alexa
-- sonoff
+- Instructables
+- Alexa
+- Sonoff
 ---
 
 I'm not sure why I've not spoken about this before, but back in June, after starting the [Electronics class on Instructables](https://www.instructables.com/Electronics-Class/), I completed my second large maker project: a [Mad Scientist Light](https://www.instructables.com/id/Build-a-Mad-Scientist-Light/#comment-CMMSLIYJ3EPQVMC).

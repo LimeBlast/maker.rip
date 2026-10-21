@@ -6,15 +6,15 @@ image:
   path: /assets/img/2026/10/pet-monster-halloween.jpg
   alt: "A light box glowing red with a monster silhouette behind a small girl, on a shelf beside skeleton figures and a pumpkin-headed statue"
 categories:
-- other-builds
+- Projects
 tags:
-- maker-rip-restoration
-- halloween
-- christmas
-- etsy
-- instructables
-- plywood
-- pallet-wood
+- Maker.rip Restoration
+- Halloween
+- Christmas
+- Etsy
+- Instructables
+- Plywood
+- Pallet Wood
 ---
 
 _As part of my ongoing restoration of maker.rip, I'm writing up the projects from the old version of this site that never got a post of their own._

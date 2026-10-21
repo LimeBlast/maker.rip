@@ -5,8 +5,9 @@ description: "My first commission: an inkle loom for a friend, with wonky lap jo
 image:
   path: /assets/img/2019/04/IMG_20190416_151106-1.jpg
   alt: "The finished inkle loom, made from pine with dowel pegs, on a dining table"
-category: the-building-block
-tags: 
+categories:
+- The Building Block
+tags:
 ---
 One thing which has been consistent among the projects I've worked on since starting my journey as a maker, is they've all been chosen by me. That changed two weeks ago when I got my first commission.
 

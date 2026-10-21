@@ -6,9 +6,9 @@ image:
   path: /assets/img/2017/02/halloween-pumpkin-lantern--1-.jpg
   alt: "A carved pumpkin and a metal lantern glowing in the dark"
 categories:
-- spooktober
+- Spooktober
 tags:
-- halloween
+- Halloween
 ---
 
 Back in September 2016, inspired a bunch of cool looking projects I found on [Instructables](https://www.instructables.com/), along with access to a laser cutter, and some stock art, I decided to fully embrace this whole maker thing by making a project of my own.

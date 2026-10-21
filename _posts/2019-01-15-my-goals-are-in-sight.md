@@ -6,7 +6,7 @@ image:
   path: /assets/img/2019/01/IMG_20190115_090111-1-.jpg
   alt: "The goals slideshow on a 7-inch touchscreen on a windowsill, next to a plant in a smiling teacup"
 categories:
-- personal
+- Personal
 tags:
   - trello
   - magicmirror
