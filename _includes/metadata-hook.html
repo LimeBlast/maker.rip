@@ -14,6 +14,7 @@
   #avatar img:hover { transform: none !important; }
   #sidebar .site-subtitle { display: none; } /* tagline is empty, but Chirpy reserves 3rem for it */
   #access-lastmod { display: none; } /* Recently Updated duplicates the homepage list; no lastmod plugin */
+  #panel-wrapper .access > section:has(.post-tag) { display: none; } /* Trending Tags is just the 10 most-used tags, ties alphabetical */
   /* Post photos fill the column by default; cap their height (lightbox still opens full size) */
   .content a.popup img { max-height: 24rem; width: auto; }
   /* Images on consecutive lines (one paragraph) sit side by side as a wrapping gallery */
@@ -33,6 +34,56 @@
 <style>
   .category-trigger.disabled { display: none; }
 </style>
+
+<!-- Random Post and Random Photo (assets/random.json) at the top of the side panel. Panel only shows at xl (1200px), so wait until it does before fetching -->
+<style>
+  #panel-wrapper .access-random a { color: inherit; border-bottom: none; } /* beats Chirpy's .content a underline */
+  #panel-wrapper .access-random a:hover { color: var(--link-color); }
+  .access-random img { display: block; width: auto; height: auto; max-width: calc(100% - 1rem); max-height: 20rem; border-radius: 0.5rem; margin: 1rem 0 0.5rem; }
+  .access-random .content { margin: 0 1rem 0 0; }
+  .access-random h2 + .content { margin-top: 0.75rem; } /* post with neither header image nor description */
+  .access-random blockquote { margin: 1rem 1rem 0.5rem 0; padding: 0.6rem 0.9rem; border-left: 3px solid var(--link-color); border-radius: 0 0.5rem 0.5rem 0; background: rgba(127, 127, 127, 0.08); font-size: 0.95rem; font-style: italic; line-height: 1.45; }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var access = document.querySelector('#panel-wrapper .access');
+    var xl = window.matchMedia('(min-width: 1200px)');
+    if (!access) return;
+    if (xl.matches) addRandom(access);
+    else xl.addEventListener('change', function wait(e) {
+      if (!e.matches) return;
+      xl.removeEventListener('change', wait);
+      addRandom(access);
+    });
+  });
+  function addRandom(access) {
+    fetch('{{ "/assets/random.json" | relative_url }}')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        var post = pick(data.posts, [location.pathname]);
+        var photo = pick(data.photos, [location.pathname, post && post.url]);
+        var after = document.getElementById('access-lastmod');
+        [['access-post', 'Random Post', post], ['access-photo', 'Random Photo', photo]].forEach(function (b) {
+          if (!b[2]) return;
+          var section = document.createElement('section');
+          section.id = b[0];
+          section.className = 'access-random';
+          // src, alt, title and desc arrive HTML-escaped from the build, so they go straight into markup
+          section.innerHTML = '<h2 class="panel-heading">' + b[1] + '</h2>' +
+            (b[2].src ? '<a href="' + b[2].url + '"><img src="' + b[2].src + '" alt="' + b[2].alt + '" loading="lazy"></a>'
+              : b[2].desc ? '<a href="' + b[2].url + '"><blockquote>' + b[2].desc + '</blockquote></a>' : '') +
+            '<div class="content"><a href="' + b[2].url + '">' + b[2].title + '</a></div>';
+          access.insertBefore(section, after ? after.nextSibling : access.firstChild);
+          after = section;
+        });
+      })
+      .catch(function () {});
+  }
+  function pick(list, skipUrls) {
+    list = list.filter(function (x) { return skipUrls.indexOf(x.url) < 0; });
+    return list[Math.floor(Math.random() * list.length)];
+  }
+</script>
 
 <!-- Click-to-load embeds (_includes/click-to-load.html): swap the poster for the iframe on click -->
 <style>

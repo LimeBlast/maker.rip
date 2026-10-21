@@ -1,0 +1,37 @@
+---
+layout: null
+permalink: /assets/random.json
+---
+{%- comment -%}
+  Every post and every photo in every post, for the Random Post and Random Photo panels in _includes/metadata-hook.html.
+  Photos skip missing-photo placeholders and click-to-load/YouTube posters (the <img> inside an <a data-embed-src>).
+  src and alt are copied from kramdown's HTML, so they are already attribute-escaped.
+{%- endcomment -%}
+{%- assign posts = '' | split: '' -%}
+{%- assign photos = '' | split: '' -%}
+{%- for post in site.posts -%}
+  {%- assign title = post.title | escape -%}
+  {%- if post.image.path -%}
+    {%- capture photo -%}{"src":{{ post.image.path | relative_url | jsonify }},"alt":{{ post.image.alt | escape | jsonify }},"url":{{ post.url | relative_url | jsonify }},"title":{{ title | jsonify }}}{%- endcapture -%}
+    {%- assign photos = photos | push: photo -%}
+    {%- assign posts = posts | push: photo -%}
+  {%- else -%}
+    {%- capture entry -%}{"url":{{ post.url | relative_url | jsonify }},"title":{{ title | jsonify }},"desc":{{ post.description | escape | jsonify }}}{%- endcapture -%}
+    {%- assign posts = posts | push: entry -%}
+  {%- endif -%}
+  {%- assign chunks = post.content | split: '<img ' -%}
+  {%- for chunk in chunks offset: 1 -%}
+    {%- assign i = forloop.index0 -%}
+    {%- assign last_link = chunks[i] | split: '<a ' | last -%}
+    {%- if last_link contains 'data-embed-src' -%}{%- continue -%}{%- endif -%}
+    {%- assign tag = chunk | split: '>' | first -%}
+    {%- unless tag contains 'alt="' -%}{%- continue -%}{%- endunless -%}
+    {%- assign src = tag | split: 'src="' | last | split: '"' | first -%}
+    {%- if src contains 'missing-photo' or src == post.image.path -%}{%- continue -%}{%- endif -%}
+    {%- unless src contains '/assets/img/' -%}{%- continue -%}{%- endunless -%}
+    {%- assign alt = tag | split: 'alt="' | last | split: '"' | first -%}
+    {%- capture photo -%}{"src":{{ src | jsonify }},"alt":{{ alt | jsonify }},"url":{{ post.url | relative_url | jsonify }},"title":{{ title | jsonify }}}{%- endcapture -%}
+    {%- assign photos = photos | push: photo -%}
+  {%- endfor -%}
+{%- endfor -%}
+{"posts":[{{ posts | join: ',' }}],"photos":[{{ photos | join: ',' }}]}
