@@ -329,7 +329,11 @@ To undo everything, delete the `kiosk.sh` line from `~/.config/labwc/autostart`,
 
 ## Update, 26 October 2026
 
-Floor796's author has fixed the Wandering bug, so the watchdog in step 5 isn't needed any more. I've also handed the screen over to Home Assistant, which dims it at either end of the day and stops Chromium overnight and whenever I'm out, replacing the cron schedule in step 7. The details, including how to remove the watchdog, are in the follow-up: [Floor796 kiosk: the bug's fixed, and Home Assistant runs the screen](/2026/10/26/floor796-kiosk-the-bug-s-fixed-and-home-assistant-runs-the-screen/). All the files are now in [LimeBlast/raspberry-796](https://github.com/LimeBlast/raspberry-796).
+Good news - Floor796's author got back to me, and the Wandering bug is fixed! That means the watchdog in step 5 can be retired (it served us well).
+
+I've also gone a step further and handed the screen over to Home Assistant, which now dims it at either end of the day, and switches it off (Chromium and all) overnight and whenever I'm out. It's a much smarter replacement for the cron schedule in step 7, which had no idea whether anyone was actually looking at it.
+
+I've written it all up, including how to remove the watchdog, in [Floor796 kiosk: the bug's fixed, and Home Assistant runs the screen](/2026/10/26/floor796-kiosk-the-bug-s-fixed-and-home-assistant-runs-the-screen/), and all the files from both posts now live in [LimeBlast/raspberry-796](https://github.com/LimeBlast/raspberry-796) on GitHub.
 
 ---
 
