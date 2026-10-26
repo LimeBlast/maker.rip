@@ -1,28 +1,35 @@
 ---
 layout: post
-title: "Floor796 kiosk: the bug's fixed, and Home Assistant runs the screen"
-description: Floor796 fixed the Wandering bug, so the watchdog can go, and Home Assistant now dims and stops my Raspberry Pi kiosk when no one's watching.
+title: 'Floor796 kiosk: the bug''s fixed, and Home Assistant runs the screen'
+description: Floor796 fixed the Wandering bug, so the watchdog can go, and Home Assistant
+  now dims and stops my Raspberry Pi kiosk when no one's watching.
 image:
-  path: "/assets/img/2026/10/floor796-home-assistant.jpg"
-  alt: The Raspberry Pi touchscreen on a wooden shelf in a dim room, showing a Floor796 lab with machines
-    labelled Midjourney and DALL-E, in front of a LEGO gothic mansion, with a LEGO Millennium Falcon on
-    the shelf below
+  path: "/assets/img/2026/10/floor796-follow-up-header.jpg"
+  alt: 'Part of Floor796''s isometric pixel-art station: a library with Manga & Comics
+    and Magic & Languages shelves where the Beast, Belle and Alice are reading, Slender
+    Man by the Meeting Room sign, a darkened horror book club with Pennywise, Ghostface
+    and Chucky under a Days Without Murders sign, Blade beside a vampire hunting club,
+    and a workshop below with a Wesla charger'
 categories:
 - Projects
 tags:
 - Raspberry Pi
 - Home Assistant
 - Claude
+date: 2026-10-26 11:43 +0000
 ---
-A few days ago I wrote up [running Floor796 in kiosk mode on a Raspberry Pi](/2026/10/21/running-floor796-in-kiosk-mode-on-a-raspberry-pi/). It came with a watchdog script, because Floor796's Wandering mode lost track of the camera every 30 to 90 minutes and left the screen blank.
+When I wrote up [running Floor796 in kiosk mode on a Raspberry Pi](/2026/10/21/running-floor796-in-kiosk-mode-on-a-raspberry-pi/) last week, I finished the section on the Wandering bug by saying I'd emailed the author about it, and left it at that. I'll be honest, an email out of the blue from a stranger isn't always top of anyone's list - so imagine my surprise when a reply landed in my inbox a few days later saying it was fixed.
 
-Two things have happened since. I emailed Floor796's author explaining what was causing the bug, and he got back to me to say it's fixed, so the watchdog can go. And I've hooked the Pi up to [Home Assistant](https://www.home-assistant.io), so it dims at either end of the day and switches itself off overnight and whenever I'm out, instead of running a cron schedule that has no idea whether anyone's looking at it.
+That meant the watchdog could go, which freed me up to tackle the thing that had been bugging me ever since: the screen was lit up and wandering away all day, whether anyone was there to see it or not. And seeing as I [promised to automate as much of my life as possible](/2026/10/18/where-have-i-been/) with [Home Assistant](https://www.home-assistant.io), this seemed like the perfect place to start.
 
-Everything from both posts, updated, is now in a GitHub repo: [LimeBlast/raspberry-796](https://github.com/LimeBlast/raspberry-796). As before, Claude did a lot of the digging. So let's get stuck in.
+Everything from both posts, updated, is now in a GitHub repo: [LimeBlast/raspberry-796](https://github.com/LimeBlast/raspberry-796). As before, Claude did a lot of the digging (and, as you'll see, a little of the breaking). So let's get stuck in.
+
+![The Raspberry Pi touchscreen on a wooden shelf in a dim room, showing a Floor796 lab with machines labelled Midjourney and DALL-E, in front of a LEGO gothic mansion, with a LEGO Millennium Falcon on the shelf below](/assets/img/2026/10/floor796-home-assistant.jpg)
+_Oni on its shelf, keeping the LEGO company_
 
 ## The bug's fixed
 
-Quick recap: Wandering moves the camera between random points on the edge of a scene. When the next point it picked was the spot the camera was already on, the distance to move was 0, each step divided by that distance, and the camera's position became NaN. Nothing was drawn from then on.
+A quick recap - Wandering moves the camera between random points on the edge of a scene. When the next point it picked was the spot the camera was already on, the distance to move was 0, each step divided by that distance, and the camera's position became NaN. Nothing was drawn from then on.
 
 The live site now checks for exactly that case. When the distance is 0, it waits a second and moves on to the next point instead of dividing by it:
 
@@ -34,7 +41,7 @@ The live site now checks for exactly that case. When the distance is 0, it waits
 
 Floor796 tells browsers not to cache its main page, so the kiosk picks up the fix the next time Chromium starts. You don't have to do anything.
 
-Thank you to Floor796's author for such a quick turnaround.
+A huge thank you to Floor796's author, not just for the quick turnaround, but for taking the time to read an email from a random bloke with a Raspberry Pi in the first place.
 
 ### Remove the watchdog
 
@@ -64,10 +71,10 @@ Keep the 6-hourly restart in your crontab. It clears any slow memory build-up, w
 
 ## Home Assistant runs the screen
 
-The cron schedule from the first post (full brightness by day, dim in the evening, off at night) worked, but it had two problems:
+The cron schedule from the first post (full brightness by day, dim in the evening, off at night) did the job, but it had two problems:
 
-- **It only knew the time.** Whether I was home or away, the screen was lit and Chromium was rendering away to an empty room.
-- **Only the backlight went off.** Chromium kept drawing Floor796 all night, and on a Pi 4 that's where most of the power goes: under that load it draws roughly 4 to 5W, against 2.5 to 3W idle. The backlight is only about 1W more.
+- **It only knew the time.** Whether I was home or not, the screen was lit, and Chromium was busy rendering away to an empty room.
+- **Only the backlight went off.** Chromium kept drawing Floor796 all night, and on a Pi 4 that's where most of the power goes - under that load it draws roughly 4 to 5W, against 2.5 to 3W idle. The backlight is only about 1W on top.
 
 Home Assistant already knows when the sun rises and sets, and whether I'm home, so it now makes the decisions and the Pi just does what it's told:
 
@@ -80,6 +87,8 @@ Home Assistant already knows when the sun rises and sets, and whether I'm home, 
 | Sunset to 22:00 | running | dim |
 
 When Home Assistant brings the kiosk back, it starts Chromium 15 seconds before turning the screen on, so the screen goes straight from dark to Floor796 without showing the desktop or a loading page.
+
+"I'm out" really means "my phone's out". Lucy doesn't have a tracker yet, so if she's home on her own, she gets a dark screen (sorry, Lucy).
 
 The Pi talks to Home Assistant over [MQTT](https://mqtt.org), a lightweight messaging system lots of smart home kit uses. A small script on the Pi announces itself through MQTT discovery, and Home Assistant adds it as a device with two entities:
 
@@ -195,11 +204,19 @@ What each part does:
 
 - `N=$(hostname)`: Names everything after the Pi, so two kiosks on the same broker don't trip over each other.
 - `screen`: Sets the backlight (the same file the old `backlight.sh` wrote to). For off, it also turns off the display output with `wlr-randr`, so the panel is completely dark rather than a lit panel with the backlight off.
-- `kiosk`: Starts Chromium through `kiosk.sh`, or stops it and creates `~/kiosk-off`. `systemd-run` starts it as a separate unit. Without that, Chromium counts as part of this script's service, and systemd closes it whenever the service restarts. I found that out when the screen went back to the desktop after a restart.
+- `kiosk`: Starts Chromium through `kiosk.sh`, or stops it and creates `~/kiosk-off`. `systemd-run` starts it as a separate unit (more on that below).
 - The two `homeassistant/.../config` messages: MQTT discovery. Home Assistant reads these and creates the device and its entities, with nothing to configure on its side. `-r` makes every message retained, so Home Assistant finds them again after it restarts.
-- `(sleep 2; pub $N/status online) &`: Tells Home Assistant the Pi is available, but only once `mosquitto_sub` is listening. Without the wait, Home Assistant's first command after a reconnect arrived before anything was listening and was lost, so the screen stayed at whatever it was.
+- `(sleep 2; pub $N/status online) &`: Tells Home Assistant the Pi is available, but only once `mosquitto_sub` is listening (more on that below too).
 - `--will-topic`: If the Pi drops off the network, the broker marks it as offline for it.
 - The `while read` loop: Turns each command from Home Assistant into a `screen` or `kiosk` call.
+
+#### Two things that didn't go to plan
+
+It wouldn't be one of my projects if everything worked first time, and two of those lines are there because of it.
+
+The first showed up while testing reconnects. I'd dim the screen, restart the script, and wait for Home Assistant to put it back to full brightness - and nothing happened. It turns out the script was telling Home Assistant it was online, and Home Assistant was sending its command straight away, before `mosquitto_sub` had actually started listening. The command went nowhere. Waiting a couple of seconds before saying "online" fixed it.
+
+The second was sneakier. Everything had passed its tests, and I'd moved on to writing this post, when I glanced over and saw the desktop staring back at me instead of Floor796. During testing, Home Assistant had stopped and restarted Chromium, which meant this script had started it - and as far as systemd was concerned, that made Chromium part of the script's service. So when I restarted the service to test something else, systemd helpfully tidied Chromium away with it. Starting Chromium with `systemd-run` gives it a unit of its own, so it survives whatever happens to the script.
 
 ### 5. Run it as a service
 
@@ -302,6 +319,12 @@ What each part does:
 
 The dim period moves a lot through the year. In summer the sun's up before 06:00, so the screen goes straight to full brightness and only dims for a little while before 22:00. In winter it's dim from about 16:00.
 
+## What's next?
+
+For now, Oni just quietly gets on with it - wandering when I'm around to see it, and dark when I'm not. Next on the list is giving Lucy a tracker, so she stops getting the dark screen, and maybe finally setting up the touchscreen properly so visitors can explore the station by hand.
+
+This was also my first proper go at getting something of my own talking to Home Assistant, rather than just adding things that already work with it, and it won't be the last. Watch this space.
+
 ## Troubleshooting
 
 Click a problem to see what to check and how to fix it.
@@ -352,4 +375,4 @@ Without Home Assistant, the screen stays on at full brightness. The cron schedul
 
 ---
 
-_The artwork on the kiosk's screen is [Floor796](https://floor796.com)._
+_The header image is a screenshot of part of [Floor796](https://floor796.com), and the artwork on the kiosk's screen is Floor796 too._

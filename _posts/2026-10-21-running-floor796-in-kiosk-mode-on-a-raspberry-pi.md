@@ -143,6 +143,8 @@ Every 30 to 90 minutes, Wandering loses track of the camera and the screen goes 
 
 ### Why it happens
 
+_Update: this is now fixed - thank you to Floor796's author! See [the follow-up](/2026/10/26/floor796-kiosk-the-bug-s-fixed-and-home-assistant-runs-the-screen/) for details._
+
 Wandering moves the camera between random points on the edge of a scene. Sometimes the next point it picks is the spot the camera is already on. The distance to move is then 0, and each step divides by that distance:
 
 ```js
