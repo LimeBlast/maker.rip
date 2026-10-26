@@ -14,6 +14,7 @@ tags:
 - Raspberry Pi
 - Claude
 date: 2026-10-21 15:48 +0100
+last_modified_at: 2026-10-26 12:00 +0000
 ---
 [Floor796](https://floor796.com) is an animated scene showing the lives of characters from various works on the 796th floor of a huge space station. The animation is regularly expanded with new blocks (rooms) and characters from movies, TV series, games, anime, memes, etc.
 
@@ -323,6 +324,10 @@ Keep `--disable-session-crashed-bubble` in `kiosk.sh`.
 ## Undoing it all
 
 To undo everything, delete the `kiosk.sh` line from `~/.config/labwc/autostart`, delete the watchdog lines from the same file, remove the 6-hour line and the two `backlight.sh` lines from `crontab -e`, delete `XCURSOR_THEME=blank` from `~/.config/labwc/environment`, then reboot. If you changed the boot config, copy your `config.txt.bak` back over it. If the screen stays black after a boot config change, edit `config.txt` on the SD card from another computer.
+
+## Update, 26 October 2026
+
+Floor796's author has fixed the Wandering bug, so the watchdog in step 5 isn't needed any more. I've also handed the screen over to Home Assistant, which dims it at either end of the day and stops Chromium overnight and whenever I'm out, replacing the cron schedule in step 7. The details, including how to remove the watchdog, are in the follow-up: [Floor796 kiosk: the bug's fixed, and Home Assistant runs the screen](/2026/10/26/floor796-kiosk-the-bug-s-fixed-and-home-assistant-runs-the-screen/). All the files are now in [LimeBlast/raspberry-796](https://github.com/LimeBlast/raspberry-796).
 
 ---
 
