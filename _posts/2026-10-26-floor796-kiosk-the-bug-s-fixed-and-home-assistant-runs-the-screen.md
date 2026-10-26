@@ -17,6 +17,7 @@ tags:
 - Home Assistant
 - Claude
 date: 2026-10-26 11:43 +0000
+last_modified_at: 2026-10-26 21:16 +0000
 ---
 When I wrote up [running Floor796 in kiosk mode on a Raspberry Pi](/2026/10/21/running-floor796-in-kiosk-mode-on-a-raspberry-pi/) last week, I finished the section on the Wandering bug by saying I'd emailed the author about it, and left it at that. I'll be honest, an email out of the blue from a stranger isn't always top of anyone's list - so imagine my surprise when a reply landed in my inbox a few days later saying it was fixed.
 
@@ -185,7 +186,10 @@ if [ "$(cat $BL)" -gt 0 ]; then pub $N/screen/brightness "$last"; pub $N/screen/
 if [ -e $OFF ]; then pub $N/kiosk/state OFF; else pub $N/kiosk/state ON; fi
 # online once mosquitto_sub below has subscribed, or HA's first commands are lost
 # A fixed 2 s wait is enough on a LAN. The service's ExecStopPost and the will publish offline.
-(sleep 2; pub $N/status online) &
+# Then again every minute: if the connection drops (an HA restart, a Wi-Fi blip), the broker
+# publishes the will (offline) and mosquitto_sub reconnects without telling anyone, so without
+# this HA shows the Pi unavailable until the service restarts.
+(sleep 2; while :; do pub $N/status online; sleep 60; done) &
 
 mosquitto_sub -v -t $N/screen/set -t $N/screen/brightness/set -t $N/kiosk/set \
   --will-topic $N/status --will-payload offline --will-retain |
@@ -206,17 +210,19 @@ What each part does:
 - `screen`: Sets the backlight (the same file the old `backlight.sh` wrote to). For off, it also turns off the display output with `wlr-randr`, so the panel is completely dark rather than a lit panel with the backlight off.
 - `kiosk`: Starts Chromium through `kiosk.sh`, or stops it and creates `~/kiosk-off`. `systemd-run` starts it as a separate unit (more on that below).
 - The two `homeassistant/.../config` messages: MQTT discovery. Home Assistant reads these and creates the device and its entities, with nothing to configure on its side. `-r` makes every message retained, so Home Assistant finds them again after it restarts.
-- `(sleep 2; pub $N/status online) &`: Tells Home Assistant the Pi is available, but only once `mosquitto_sub` is listening (more on that below too).
+- `(sleep 2; while :; do pub $N/status online; sleep 60; done) &`: Tells Home Assistant the Pi is available, but only once `mosquitto_sub` is listening, and again every minute after that (more on both below).
 - `--will-topic`: If the Pi drops off the network, the broker marks it as offline for it.
 - The `while read` loop: Turns each command from Home Assistant into a `screen` or `kiosk` call.
 
-#### Two things that didn't go to plan
+#### Three things that didn't go to plan
 
-It wouldn't be one of my projects if everything worked first time, and two of those lines are there because of it.
+It wouldn't be one of my projects if everything worked first time, and three of those lines are there because of it.
 
 The first showed up while testing reconnects. I'd dim the screen, restart the script, and wait for Home Assistant to put it back to full brightness - and nothing happened. It turns out the script was telling Home Assistant it was online, and Home Assistant was sending its command straight away, before `mosquitto_sub` had actually started listening. The command went nowhere. Waiting a couple of seconds before saying "online" fixed it.
 
-The second was sneakier. Everything had passed its tests, and I'd moved on to writing this post, when I glanced over and saw the desktop staring back at me instead of Floor796. During testing, Home Assistant had stopped and restarted Chromium, which meant this script had started it - and as far as systemd was concerned, that made Chromium part of the script's service. So when I restarted the service to test something else, systemd helpfully tidied Chromium away with it. Starting Chromium with `systemd-run` gives it a unit of its own, so it survives whatever happens to the script.
+The second turned up after I'd published this post. Home Assistant restarted, and the Pi's screen and kiosk switched to unavailable, even though Floor796 was still wandering away happily. When Home Assistant went down, the broker saw the Pi's connection drop and published its will (offline), and `mosquitto_sub` quietly reconnected - but the script only ever said "online" once, when it started. Now it says it every minute, so the Pi is back within a minute of any blip.
+
+The third was sneakier. Everything had passed its tests, and I'd moved on to writing this post, when I glanced over and saw the desktop staring back at me instead of Floor796. During testing, Home Assistant had stopped and restarted Chromium, which meant this script had started it - and as far as systemd was concerned, that made Chromium part of the script's service. So when I restarted the service to test something else, systemd helpfully tidied Chromium away with it. Starting Chromium with `systemd-run` gives it a unit of its own, so it survives whatever happens to the script.
 
 ### 5. Run it as a service
 
@@ -335,6 +341,15 @@ Click a problem to see what to check and how to fix it.
 **Check:** `systemctl --user status kiosk-mqtt`, and the `mosquitto_sub` test from step 2.
 
 **Fix:** If the test fails, check the address and login in `~/.config/mosquitto_pub` and `mosquitto_sub`, and that you restarted the Mosquitto app after adding the login.
+
+</details>
+
+<details markdown="1">
+<summary>The screen and kiosk show as unavailable, but the Pi's fine</summary>
+
+**Check:** On the Pi, `mosquitto_sub -v -t "$(hostname)/status" -W 3`. If it says `offline` while `systemctl --user status kiosk-mqtt` says the service is running, the connection dropped and nothing said "online" again.
+
+**Fix:** Make sure your script has the `while` loop that says "online" every minute (an earlier version of this post only said it once). For now, `mosquitto_pub -r -t "$(hostname)/status" -m online` brings it back straight away.
 
 </details>
 
