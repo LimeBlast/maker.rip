@@ -28,6 +28,10 @@
     .content p:has(> a.popup ~ a.popup):has(> em) > em { grid-row: 2; }
     .content p:has(> a.popup ~ a.popup):has(> em) img { height: auto; max-height: 14rem; max-width: 100%; }
   }
+  /* Chirpy's {: .left} / {: .right} floats leave a sliver of text on phones; centre them instead */
+  @media (max-width: 575.98px) {
+    .content a.popup.left, .content a.popup.right { float: none; display: flex; justify-content: center; margin: 0.75rem 0 1rem; }
+  }
 </style>
 
 <!-- Categories page: Chirpy draws a disabled chevron on categories with no subcategories (none here have any) -->
